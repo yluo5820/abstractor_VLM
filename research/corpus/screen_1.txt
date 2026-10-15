@@ -1,0 +1,200 @@
+1 | 2609.11929 | SenseNova-U1.5 | 1. 📚 SoTA VLMs
+2 | 2609.08936 | AuK (Tencent Hunyuan): open-source foundation model for speech generation and editing — multimodal LLM + jointly trained VAE + hybrid rectified-flow Transformer (MMDiT → single-stream DiT); AuK-Flash gives 4.5× wall-clock speedup via 4-step inference; trained on ~3.03B instruction-audio instances / 1.95M h | 4.2. Generative Visual Media Applications
+3 | 2609.08368 | Miles v0.1: Production-Level Post-Training | 3.1. RL Alignment for VLM
+4 | 2609.06746 | Reason Through the Latent! (CVRR) | 3.1. RL Alignment for VLM
+5 | 2609.05533 | SimpleMemVLA: Native-Video Memory for Vision-Language-Action Models | 4.1 Embodied VLM Agents / 4.3.1. Manipulation
+6 | 2609.04196 | Puffin-World | 1.1. 🌍 World Models
+7 | 2609.03952 | WorldReward | 1.1. 🌍 World Models
+8 | 2609.00188 | ZimaBlue: Evolving Generalizable World-Action Models via >120k h video pre-training — 30 Hz on RTX 4090, 36.1% → 77.8% zero-shot real-robot success | 4.3.1. Manipulation
+9 | 2609.00111 | Qwen-Drive-1.0 (Alibaba): first VL foundation model for autonomous driving — pretrained VLM backbone + BEV perception head + Planning Expert | 4.3.4. Autonomous Driving
+10 | 2609.00028 | UI-Venus-2 Technical Report — open-source foundation GUI agent (mobile, web, desktop) | 4.1 Embodied VLM Agents
+11 | 2608.30935 | LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation | 4.1 Embodied VLM Agents / 4.3.2. Navigation
+12 | 2608.29910 | Matrix-Game 3.5 | 1.1. 🌍 World Models
+13 | 2608.27550 | Beyond Data Scaling: Representation-Centric Continued Pre-training for VLAs (VLAct) | 3.1. RL Alignment for VLM / 4.3.1. Manipulation
+14 | 2608.27508 | WM-R1: Training GUI Agents to Reason and Leverage World Models with RL | 4.1 Embodied VLM Agents
+15 | 2608.25529 | Video-IFBench | 🎞️ Video Understanding
+16 | 2608.21832 | GUI-Primitives | 🧠 Multimodal General Intelligence
+17 | 2608.21360 | OmniAssistBench | 🎞️ Video Understanding
+18 | 2608.20414 | StateSight | 🧠 Multimodal General Intelligence
+19 | 2608.17512 | Embodied-Navigator (TAMP-Nav): Point, Think, Memorize, Align — 66.2% SR on R2R-CE | 4.1 Embodied VLM Agents / 4.3.2. Navigation
+20 | 2608.17253 | Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-Agent RL | 3.1. RL Alignment for VLM
+21 | 2608.15930 | UI-Mate: Open-Weight Foundation GUI Agent (UI-Mate-27B on Qwen3.6-27B; 77.0% OSWorld-Verified, 66.2% WindowsAgentArena) | 4.1 Embodied VLM Agents
+22 | 2608.13505 | Intern-S2-Preview: Scientific Agentic Foundation Model — 397B backbone + 4B memory decoder (Intern-MemDec-4B); Biology-Instructions 56.92 → 60.32 without touching the backbone | 4.1 Embodied VLM Agents
+23 | 2608.13489 | DreamX-Phi 1.0 | 1.1. 🌍 World Models / 4.3.1. Manipulation
+24 | 2608.12743 | Spatial Memory Agent | 3.1. RL Alignment for VLM
+25 | 2608.11739 | G0.5: One Autoregressive Stream for Robot Reasoning and Action | 4.1 Embodied VLM Agents / 4.3.1. Manipulation
+26 | 2608.10915 | ComBodied Agents: A New Paradigm of Human-Centric Agentic AI | 4.1 Embodied VLM Agents
+27 | 2608.09873 | Sci-VBench | 🌄 Text‑to‑Image Generation
+28 | 2608.08021 | Evidence-RL: Towards Evidence-intensive Visual Reasoning | 3.1. RL Alignment for VLM
+29 | 2608.07468 | SimWAM: Simple World-Action Model for End-to-End Autonomous Driving — 91.5 PDMS NAVSIM, zero-shot to nuScenes | 4.3.4. Autonomous Driving
+30 | 2608.05631 | ChronoVision | 🎞️ Video Understanding
+31 | 2608.05616 | TruthLens: Object Hallucination Detection via Self-Evaluating Truthfulness Scores in LVLMs | 5.1 Hallucination
+32 | 2608.05070 | HelloWorld | 1.1. 🌍 World Models
+33 | 2608.05000 | Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes | 3.2. Finetuning for VLM
+34 | 2608.04514 | RESPClinBench: Multimodal Clinical Decision-Making and Longitudinal Disease Tracking | 4.4.3. Healthcare
+35 | 2608.03979 | Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent | 4.4.1. Web Agent
+36 | 2608.03812 | OmniPack: Unified Token Compression for Efficient Omni-modal Large Language Models | 5.5 Efficient Training and Fine-Tuning
+37 | 2608.03083 | GSTEP: Global Spatio-Temporal Density-Driven Visual Token Pruning for Efficient Video LLMs | 5.5 Efficient Training and Fine-Tuning
+38 | 2608.02711 | Hunyuan3D-Buffalo 1.0 (Tencent) | 1. 📚 SoTA VLMs
+39 | 2608.00146 | DiffusionGemma (Google) | 1. 📚 SoTA VLMs
+40 | 2607.29677 | ExtractBench | 📝 Visual Text / Document Understanding (+ Charts)
+41 | 2607.27616 | MPIE-Bench | 🌄 Text‑to‑Image Generation
+42 | 2607.24957 | PerceptionBench | 🧠 Multimodal General Intelligence
+43 | 2607.14935 | VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding | Multimodal Instruction Tuning (& Latest Works)
+44 | 2607.12756 | VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression | Visual Understanding
+45 | 2607.00248 | Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity | Multimodal Instruction Tuning (& Latest Works)
+46 | 2606.28556 | IMCBench: Multimodal LLMs in Image-grounded Medical Conversations (safety drops on malignant/rare conditions) | 4.4.3. Healthcare
+47 | 2606.24525 | VisCritic: Visual State Comparison as Process Reward for GUI Agents | 4.4.1. Web Agent
+48 | 2606.24448 | Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos | 4.3.1. Manipulation
+49 | 2606.20545 | Current World Models Lack a Persistent State Core | 1.1. 🌍 World Models
+50 | 2606.20246 | Finetuning VLA Models Requires Fewer Layers Than You Think (50% depth pruning) | 4.3.1. Manipulation
+51 | 2606.19990 | Reward as An Agent | 1.1. 🌍 World Models
+52 | 2606.18216 | ZPPO: Zone of Proximal Policy Optimization — Teacher in Prompts, Not Gradients | 3.1. RL Alignment for VLM
+53 | 2606.17846 | Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models (38,100-hour corpus) | 4.3.1. Manipulation
+54 | 2606.17030 | Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation | Multimodal Instruction Tuning (& Latest Works)
+55 | 2606.16993 | DreamX-World 1.0 (Alibaba AMAP) | 1.1. 🌍 World Models
+56 | 2606.14792 | Efficient Reinforcement for Visual-Textual Thinking with Discrete Diffusion | 3.1. RL Alignment for VLM
+57 | 2606.14702 | OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains | Multimodal Instruction Tuning (& Latest Works)
+58 | 2606.14409 | Hy-Embodied-0.5-VLA: From VLA Models to a Real-World Robot Learning Stack (10,000-hour UMI corpus) | 4.3.1. Manipulation
+59 | 2606.14010 | RT-VLA: Real-Time VLA via Knowledge Distillation (44.8× faster inference) | 4.3.4. Autonomous Driving
+60 | 2606.12299 | Learning What to Say to Your VLA: Mostly Harmless VLA Steering | 4.3.1. Manipulation
+61 | 2606.11129 | WorldOlympiad | 1.1. 🌍 World Models
+62 | 2606.09803 | Echo-Memory | 1.1. 🌍 World Models
+63 | 2606.05677 | LongSpace / LongSpace-Bench | 1.1. 🌍 World Models
+64 | 2606.03159 | NVIDIA OmniDreams | 1.1. 🌍 World Models
+65 | 2606.02800 | Cosmos 3: Omnimodal World Models for Physical AI | Multimodal Instruction Tuning (& Latest Works) / 1.1. 🌍 World Models
+66 | 2605.23163 | Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving (12× throughput, 0.32m L2 nuScenes) | 4.3.4. Autonomous Driving
+67 | 2605.22570 | VGenST-Bench | 🎞️ Video Understanding
+68 | 2605.20469 | HalluCXR: Benchmarking & Mitigating Hallucinations in Medical VLMs for Chest Radiographs (61.9–82.3% outputs hallucinate) | 4.4.3. Healthcare
+69 | 2605.17447 | FastOCR: Dynamic Visual Fixation via KV Cache Pruning (98% accuracy at 5% visual tokens, 3.0× faster) | 5.5 Efficient Training and Fine-Tuning
+70 | 2605.16056 | Health-Conditioned VLA for Malfunction-Aware Robot Control | 4.3.1. Manipulation
+71 | 2605.15120 | CLOVER: Closed-Loop Value Estimation & Ranking for E2E Driving Planning (94.5 PDMS NAVSIM SoTA) | 4.3.4. Autonomous Driving
+72 | 2605.12624 | MindVLA-U1: Unified Streaming VLA for Autonomous Driving (surpasses human-level driving) | 4.3.4. Autonomous Driving
+73 | 2605.12495 | AlphaGRPO: Self-Reflective Multimodal Generation in UMMs | 3.1. RL Alignment for VLM
+74 | 2605.11405 | 20/20 Vision — Data Curation (DatologyAI) | 2.1. Datasets for Training VLMs / 5.6 Scarce of High-quality Dataset
+75 | 2605.10426 | CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving | 4.3.4. Autonomous Driving
+76 | 2605.08133 | VLADriver-RAG: Retrieval-Augmented VLA for Autonomous Driving | 4.3.4. Autonomous Driving
+77 | 2605.07505 | LiteGUI: Distilling Compact GUI Agents with Reinforcement Learning (SFT-free, 2B/3B) | 4.4.1. Web Agent
+78 | 2605.05185 | OpenSearch-VL: Multi-Turn Fatal-Aware GRPO for Multimodal Search Agents | 3.1. RL Alignment for VLM
+79 | 2605.03403 | GRPO-TTA: Test-Time Visual Tuning via GRPO-Driven RL | 3.1. RL Alignment for VLM
+80 | 2605.02641 | Mamoda2.5 (InclusionAI) | 1. 📚 SoTA VLMs
+81 | 2605.02262 | WindowQuant: Mixed-Precision KV Cache Quantization via Window-Level Similarity | 5.5 Efficient Training and Fine-Tuning
+82 | 2605.01772 | Anticipation-VLA: Long-Horizon Embodied Tasks via Anticipation-Based Subgoal Generation | 4.3. Robotics and Embodied AI
+83 | 2604.27724 | MedVRAG: Iterative Multimodal RAG for Medical QA | 4.4.3. Healthcare
+84 | 2604.24954 | Nemotron 3 Nano Omni (NVIDIA) | 1. 📚 SoTA VLMs
+85 | 2604.19728 | VLA Foundry: Unified Framework for Training VLAs | 4.3. Robotics and Embodied AI
+86 | 2604.17915 | OneDrive: Unified Heterogeneous Decoding for Driving VLMs | 4.3.4. Autonomous Driving
+87 | 2604.17706 | OmniVLA-RL: Spatial Understanding + Online RL for VLA | 4.3. Robotics and Embodied AI
+88 | 2604.16557 | S-GRPO: Unified Post-Training for Large VLMs | 3.1. RL Alignment for VLM
+89 | 2604.16506 | Medical Thinking with Multiple Images (MedThinkVQA) | 4.4.3. Healthcare
+90 | 2604.15483 | π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities | Multimodal Instruction Tuning (& Latest Works)
+91 | 2604.13488 | LAMO: Scalable Lightweight GUI Agents via Multi-Role Orchestration | 4.4.1. Web Agent
+92 | 2604.12537 | MODIX: Training-Free Multimodal Information-Driven Positional Index Scaling | 5.5 Efficient Training and Fine-Tuning
+93 | 2604.11838 | Layer-wise Analysis of Supervised Fine-Tuning | 3.2. Finetuning for VLM
+94 | 2604.09529 | VL-Calibration: Decoupled Confidence Calibration for VLM Reasoning | 5.1 Hallucination
+95 | 2604.08476 | Faithful GRPO (FGRPO): Constrained Policy Optimization for Visual Spatial Reasoning | 3.1. RL Alignment for VLM
+96 | 2604.05015 | Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding | Multimodal Instruction Tuning (& Latest Works)
+97 | 2604.04917 | Vero-600K(04/2026) | 2.1. Datasets for Training VLMs / 3.1. RL Alignment for VLM
+98 | 2604.04579 | Firebolt-VL: Efficient Vision-Language Understanding with Cross-Modality Modulation | 5.5 Efficient Training and Fine-Tuning
+99 | 2604.03660 | TableVision | 📝 Visual Text / Document Understanding (+ Charts)
+100 | 2604.03556 | Focus Matters: Phase-Aware Suppression for Hallucination in Vision-Language Models | 5.1 Hallucination
+101 | 2604.03231 | CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning | 5.5 Efficient Training and Fine-Tuning
+102 | 2604.02816 | QAPruner: Quantization-Aware Vision Token Pruning for MLLMs | 5.5 Efficient Training and Fine-Tuning
+103 | 2604.02486 | VLMs Need Words: Vision Language Models Ignore Visual Detail in Favor of Semantic Anchors | 5.1 Hallucination
+104 | 2604.02190 | UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving | 4.3.4. Autonomous Driving
+105 | 2604.01569 | VideoZeroBench | 🎞️ Video Understanding
+106 | 2603.29630 | BigEarthNet.txt(03/2026) | 2.1. Datasets for Training VLMs
+107 | 2603.29616 | Video-Oasis | 🎞️ Video Understanding
+108 | 2603.29410 | AGFT: Alignment-Guided Fine-Tuning for Zero-Shot Adversarial Robustness of VLMs | 3.2. Finetuning for VLM
+109 | 2603.24329 | GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents | Video Understanding Benchmark
+110 | 2603.21077 | CoVFT: Context-aware Visual Fine-tuning for Multimodal Large Language Models | 3.2. Finetuning for VLM
+111 | 2603.18315 | DriveVLM-RL: Neuroscience-Inspired Reinforcement Learning with Vision-Language Models for Safe Autonomous Driving | 4.3.4. Autonomous Driving
+112 | 2603.14851 | AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture-of-Transformers for End-to-End Autonomous Driving | 4.3.4. Autonomous Driving
+113 | 2603.09877 | InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing | Multimodal Instruction Tuning (& Latest Works) / 1. 📚 SoTA VLMs
+114 | 2603.09542 | NS-VLA: Towards Neuro-Symbolic Vision-Language-Action Models | 4.3. Robotics and Embodied AI
+115 | 2603.09493 | EvoPrompt: Evolving Prompt Adaptation for Vision-Language Models | 3.4. Prompt Optimization
+116 | 2603.08100 | Adaptive MLP Pruning for Large Vision Transformers | Visual Understanding
+117 | 2603.07211 | wDPO: Winsorized Direct Preference Optimization for Robust Alignment | 3.1. RL Alignment for VLM
+118 | 2603.06577 | Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion | Multimodal Instruction Tuning (& Latest Works)
+119 | 2603.05697 | MultiHaystack | 🧠 Multimodal General Intelligence
+120 | 2603.05465 | HALP: Detecting Hallucinations in Vision-Language Models without Generating a Single Token | 5.1 Hallucination
+121 | 2603.03975 | Phi-4-Reasoning-Vision-15B (Microsoft) | 1. 📚 SoTA VLMs
+122 | 2603.03276 | Beyond Language Modeling: An Exploration of Multimodal Pretraining | Multimodal Instruction Tuning (& Latest Works)
+123 | 2603.01607 | CARE: Towards Clinical Accountability in Multi-Modal Medical Reasoning with an Evidence-Grounded Agentic Framework | 4.4.3. Healthcare
+124 | 2603.00938 | Seeing Beyond 8bits: Subjective and Objective Quality Assessment of HDR-UGC Videos | Benchmarks for Evaluation
+125 | 2603.00926 | DAM-VLA: A Dynamic Action Model-Based Vision-Language-Action Framework for Robot Manipulation | 4.3. Robotics and Embodied AI
+126 | 2602.21397 | MMLoP: Multi-Modal Low-Rank Prompting for Efficient Vision-Language Adaptation | 3.4. Prompt Optimization
+127 | 2602.21186 | Spa3R: Predictive Spatial Field Modeling for 3D Visual Reasoning | 3D Information Enhancement
+128 | 2602.20223 | MultiModalPFN: Extending Prior-Data Fitted Networks for Multimodal Tabular Learning | Visual Understanding
+129 | 2602.15763 | GLM-5: from Vibe Coding to Agentic Engineering | Foundation Model (Textual and Multimodal)
+130 | 2602.13758 | OmniScience(02/2026) | 2.1. Datasets for Training VLMs
+131 | 2602.13329 | HiST-VLA: A Hierarchical Spatio-Temporal Vision-Language-Action Model for End-to-End Autonomous Driving | 4.3.4. Autonomous Driving
+132 | 2602.13193 | Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control | 4.3. Robotics and Embodied AI
+133 | 2602.10993 | LoRA-Squeeze: Simple and Effective Post-Tuning and In-Tuning Compression of LoRA Modules | 5.5 Efficient Training and Fine-Tuning
+134 | 2602.10815 | Why Does RL Generalize Better Than SFT? A Data-Centric Perspective (DC-SFT) | 3.2. Finetuning for VLM
+135 | 2602.10109 | ST4VLA: Spatial Guided Training for Vision-Language-Action Models | 4.3. Robotics and Embodied AI
+136 | 2602.07790 | MaD-Mix(02/2026) | 2.1. Datasets for Training VLMs
+137 | 2602.06965 | MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images | 4.4.3. Healthcare
+138 | 2602.05946 | f-GRPO and Beyond: Divergence-Based RL for General LLM Alignment | 3.1. RL Alignment for VLM
+139 | 2602.04705 | Erin 5.0 (Baidu) | 1. 📚 SoTA VLMs
+140 | 2602.02276 | Kimi K2.5: Visual Agentic Intelligence | Multimodal Instruction Tuning (& Latest Works) / Foundation Model (Textual and Multimodal)
+141 | 2601.22709 | GRACE: Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs | 5.5 Efficient Training and Fine-Tuning
+142 | 2601.13029 | Think3D: Thinking with Space for Spatial Reasoning | Training-Free Prompting
+143 | 2601.10611 | Molmo2 (Allen AI) | 1. 📚 SoTA VLMs / 2.1. Datasets for Training VLMs
+144 | 2601.10497 | MERGETUNE: Continued Fine-Tuning of Vision-Language Models | 3.2. Finetuning for VLM
+145 | 2601.06460 | Tone Matters: The Impact of Linguistic Tone on Hallucination in VLMs | 5.1 Hallucination
+146 | 2601.05172 | CoV: Chain-of-View Prompting for Spatial Reasoning | Training-Free Prompting
+147 | 2601.02780 | MiMo-V2-Flash Technical Report | Foundation Model (Textual and Multimodal)
+148 | 2601.00215 | From Sight to Insight: Improving Visual Reasoning of MLLMs via Reinforcement Learning | 3.1. RL Alignment for VLM
+149 | 2512.23073 | Mask Fine-Tuning (MFT): Unlocking Hidden Capabilities in Vision-Language Models | 3.2. Finetuning for VLM
+150 | 2512.19219 | Image-LoRA: Towards Minimal Fine-Tuning of VLMs | 3.2. Finetuning for VLM
+151 | 2512.16237 | Scaling Spatial Reasoning in MLLMs through Programmatic Data Synthesis | Data-Centric Spatial Enhancement
+152 | 2512.12690 | Reassessing the Role of Supervised Fine-Tuning: An Empirical Study in VLM Reasoning | 3.2. Finetuning for VLM
+153 | 2512.06769 | Stitch and Tell: A Structured Multimodal Data Augmentation Method for Spatial Understanding | Data-Centric Spatial Enhancement
+154 | 2512.04069 | SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL | Model-Centric Enhancements
+155 | 2512.03667 | Colon-X: Advancing Intelligent Colonoscopy from Multimodal Understanding to Clinical Reasoning | 4.4.3. Healthcare
+156 | 2511.23075 | SpaceMind: Camera-Guided Modality Fusion for Spatial Reasoning in Vision-Language Models | Model-Centric Enhancements
+157 | 2511.21688 | G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning | Model-Centric Enhancements
+158 | 2511.21631 | Qwen3-VL Technical Report | Multimodal Instruction Tuning (& Latest Works) / Foundation Model (Textual and Multimodal)
+159 | 2511.20644 | Vision-Language Memory for Spatial Reasoning | 3D Information Enhancement
+160 | 2511.15567 | Computer-Use Agents as Judges for Generative User Interface | Coding / GUI
+161 | 2511.14159 | MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs | 5.1 Hallucination
+162 | 2511.13719 | Scaling Spatial Intelligence with Multimodal Foundation | Data-Centric Spatial Enhancement
+163 | 2511.11239 | Beyond Flatlands: Unlocking Spatial Intelligence by Decoupling 3D Reasoning from Numerical Regression | 3D Information Enhancement
+164 | 2511.10946 | Abstract 3D Perception for Spatial Intelligence in Vision-Language Models | Training-Free Prompting
+165 | 2511.08195 | UI2Code^N: A Visual Language Model for Test-Time Scalable Interactive UI-to-Code Generation | Coding / GUI
+166 | 2511.07403 | SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards | Model-Centric Enhancements
+167 | 2511.05491 | Visual Spatial Tuning | Data-Centric Spatial Enhancement
+168 | 2511.04670 | Cambrian-S: Towards Spatial Supersensing in Video | Model-Centric Enhancements
+169 | 2511.02280 | SAIL-RL: Guiding MLLMs in When and How to Think via Dual-Reward RL Tuning | 3.1. RL Alignment for VLM
+170 | 2510.26583 | Emu3.5: Native Multimodal Models are World Learners | Multimodal Instruction Tuning (& Latest Works)
+171 | 2510.23868 | GIFT: Group-relative Implicit Fine Tuning Integrates GRPO with DPO and UNA | 3.1. RL Alignment for VLM
+172 | 2510.21817 | VITA-E: Natural Embodied Interaction with Concurrent Seeing, Hearing, Speaking, and Acting | Multimodal Instruction Tuning (& Latest Works)
+173 | 2510.18632 | Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views | Model-Centric Enhancements
+174 | 2510.18234 | DeepSeek-OCR: Contexts Optical Compression | Multimodal Instruction Tuning (& Latest Works)
+175 | 2510.15870 | OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding LLM | Multimodal Instruction Tuning (& Latest Works)
+176 | 2510.13747 | InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue | Multimodal Instruction Tuning (& Latest Works)
+177 | 2510.13721 | NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching | Multimodal Instruction Tuning (& Latest Works)
+178 | 2510.09607 | VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation | Multimodal Instruction Tuning (& Latest Works)
+179 | 2510.09201 | Multimodal Prompt Optimizer (MPO): Joint Optimization of Multimodal Prompts | 3.4. Prompt Optimization
+180 | 2510.08531 | SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models | Model-Centric Enhancements
+181 | 2509.25541 | Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play | 3.1. RL Alignment for VLM
+182 | 2509.25413 | DepthLM: Metric Depth From Vision Language Models | Model-Centric Enhancements
+183 | 2509.25297 | Automatically Generating Web Applications from Requirements Via Multi-Agent Test-Driven Development | Coding / GUI
+184 | 2509.23661 | LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training | Multimodal Instruction Tuning (& Latest Works)
+185 | 2509.17765 | Qwen3-Omni Technical Report | Multimodal Instruction Tuning (& Latest Works)
+186 | 2509.17664 | SD-VLM: Spatial Measuring and Understanding with Depth-Encoded Vision-Language Models | 3D Information Enhancement
+187 | 2509.16087 | See&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model (HKUST(GZ)) [[paper]]( | Training-Free Prompting
+188 | 2509.15490 | SmolRGPT: Efficient Spatial Reasoning for Warehouse Environments with 600M Parameters | 3D Information Enhancement
+189 | 2509.13317 | 3D Aware Region Prompted Vision Language Model | 3D Information Enhancement
+190 | 2509.02544 | UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning | Coding / GUI
+191 | 2508.19652 | Vision-SR1: Self-rewarding vision-language model via reasoning decomposition | 3.1. RL Alignment for VLM
+192 | 2508.18265 | InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency | Multimodal Instruction Tuning (& Latest Works) / 1. 📚 SoTA VLMs
+193 | 2508.11630 | Thyme: Think Beyond Images | Multimodal Instruction Tuning (& Latest Works)
+194 | 2508.09241 | FineState-Bench: A Comprehensive Benchmark for Fine-Grained State Control in GUI Agents | Coding / GUI
+195 | 2508.06471 | GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models | Foundation Model (Textual and Multimodal)
+196 | 2508.06259 | SIFThinker: Spatially-Aware Image Focus for Visual Reasoning | Model-Centric Enhancements
+197 | 2507.22827 | ScreenCoder: Advancing Visual-to-Code Generation for Front-End Automation via Modular Multimodal Agents | Coding / GUI
+198 | 2507.20534 | Kimi K2: Open Agentic Intelligence | Foundation Model (Textual and Multimodal)
+199 | 2507.20529 | Enhancing Spatial Reasoning through Visual and Textual Thinking | Model-Centric Enhancements
+200 | 2507.18932 | MMESGBench: Pioneering Multimodal Understanding and Complex Reasoning Benchmark for ESG Tasks | Image Understanding Benchmark

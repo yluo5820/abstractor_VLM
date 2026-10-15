@@ -1,0 +1,22 @@
+{
+  "scope": "stopping-policy-only",
+  "pilot_source_sha256": "8063239f7d9958e44e75d5cd58943f43edcecd38ff3ec50d271df8112d310264",
+  "training_source_sha256": "304ef7992f6f31be479cecd8dc2c2fba6880e897ea7b533f35cda33265bfb36e",
+  "core_functions_unchanged": true,
+  "unchanged_core_functions": [
+    "answer_labels",
+    "encode",
+    "suffix_loss",
+    "epoch_order",
+    "source_digest",
+    "save_checkpoint",
+    "restore_checkpoint",
+    "make_train_mode",
+    "validate"
+  ],
+  "optimizer_loop_body_ast_identical": true,
+  "validation": "Eight focused local tests passed; existing H200 pilot retained for unchanged core. No new GPU pilot claimed.",
+  "reason": "User questioned the three-epoch cutoff and wants the approved two-hour budget to determine the initial scale.",
+  "job_id": "6092150",
+  "resources_changed": false
+}

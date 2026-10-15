@@ -1,0 +1,20 @@
+{
+  "verified": false,
+  "verification_notes": "Populate from inspect.sh and a valid existing job or verified Slurm associations; never copy guessed settings.",
+  "ssh_alias": "ice-login",
+  "login_hostname": "login-ice.pace.gatech.edu",
+  "login_username": "yluo432",
+  "account": "",
+  "partition": "",
+  "qos": "",
+  "gpu_request": {"flag": "--gres", "value": "gpu:1"},
+  "gpu_count": 1,
+  "cpus": 2,
+  "memory_gib": 16,
+  "time": "00:20:00",
+  "user_resource_approval": "",
+  "project_path": "",
+  "environment_path": "",
+  "cache_path": "",
+  "modules": []
+}

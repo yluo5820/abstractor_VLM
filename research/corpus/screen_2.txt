@@ -1,0 +1,200 @@
+201 | 2507.18071 | Group Sequence Policy Optimization | 3.1. RL Alignment for VLM
+202 | 2507.12508 | Mindjourney: Test-time scaling with world models for spatial reasoning | Training-Free Prompting
+203 | 2507.08306 | M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning | Model-Centric Enhancements
+204 | 2507.04952 | ArtifactsBench: Bridging the Visual-Interactive Gap in LLM Code Generation Evaluation | Coding / GUI
+205 | 2507.01949 | Kwai Keye-VL (Kuaishou) | 1. 📚 SoTA VLMs
+206 | 2507.01006 | GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning | Multimodal Instruction Tuning (& Latest Works)
+207 | 2506.24102 | DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World | Multimodal Instruction Tuning (& Latest Works)
+208 | 2506.21656 | Fine-Grained Preference Optimization Improves Spatial Reasoning in VLMs | Model-Centric Enhancements
+209 | 2506.20670 | MMSearch-R1: Incentivizing LMMs to Search | Multimodal Instruction Tuning (& Latest Works)
+210 | 2506.18902 | jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval | Multimodal Embedding/Retrieval
+211 | 2506.18385 | INTERNSPATIAL: A COMPREHENSIVE DATASET FOR SPATIAL REASONING IN VISION-LANGUAGE MODELS | Data-Centric Spatial Enhancement
+212 | 2506.15564 | Show-o2: Improved Native Unified Multimodal Models | Multimodal Instruction Tuning (& Latest Works)
+213 | 2506.13759 | Discrete Diffusion in Large Language and Multimodal Models: A Survey | Multimodal Survey
+214 | 2506.13654 | Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning | Multimodal Instruction Tuning (& Latest Works)
+215 | 2506.10821 | VideoDeepResearch: Long Video Understanding With Agentic Tool Using | LLM-Aided Visual Reasoning
+216 | 2506.09965 | ViLaSR: Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing | Model-Centric Enhancements
+217 | 2506.09344 | Ming-Omni: A Unified Multimodal Model for Perception and Generation | Omni Understanding
+218 | 2506.08591 | Diversity-Guided MLP Reduction for Efficient Large Vision Transformers | Visual Understanding
+219 | 2506.07491 | SPATIALLM: Training Large Language Models for Structured Indoor Modeling | 3D Information Enhancement
+220 | 2506.07138 | Learning Compact Vision Tokens for Efficient Large Multimodal Models | Visual Understanding
+221 | 2506.06251 | DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation | Coding / GUI
+222 | 2506.04308 | RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics | 3D Information Enhancement
+223 | 2506.03569 | MiMo-VL Technical Report | Multimodal Instruction Tuning (& Latest Works) / 1. 📚 SoTA VLMs
+224 | 2506.01946 | 3DRS: MLLMs Need 3D-Aware Representation Supervision for Scene Understanding | 3D Information Enhancement
+225 | 2506.01371 | SVQA-R1: Reinforcing Spatial Reasoning in MLLMs via View-Consistent Reward Optimization | Model-Centric Enhancements
+226 | 2505.24625 | Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors | 3D Information Enhancement
+227 | 2505.23747 | Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence | 3D Information Enhancement
+228 | 2505.23661 | OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation | Multimodal Instruction Tuning (& Latest Works)
+229 | 2505.23606 | Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model | Diffusion MLLM
+230 | 2505.20279 | VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction | 3D Information Enhancement
+231 | 2505.20147 | FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities | Unified Understanding and Generation / Diffusion MLLM
+232 | 2505.20124 | TUNA: Comprehensive Fine-grained Temporal Understanding Evaluation on Dense Dynamic Videos | Video Understanding Benchmark
+233 | 2505.19650 | Modality Curation: Building Universal Embeddings for Advanced Multimodal Information Retrieval | Multimodal Embedding/Retrieval
+234 | 2505.17015 | Multi-SpatialMLLM: Multi-Frame Spatial Understanding with MultiModal Large Language Models | Data-Centric Spatial Enhancement
+235 | 2505.16990 | Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding | Diffusion MLLM
+236 | 2505.16933 | LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning | Diffusion MLLM
+237 | 2505.16839 | LaViDa: A Large Diffusion Language Model for Multimodal Understanding | Diffusion MLLM
+238 | 2505.15809 | MMaDA: Multimodal Large Diffusion Language Models | Multimodal Instruction Tuning (& Latest Works) / Unified Understanding and Generation / Diffusion MLLM
+239 | 2505.14683 | Emerging Properties in Unified Multimodal Pretraining | Multimodal Instruction Tuning (& Latest Works) / 1. 📚 SoTA VLMs
+240 | 2505.14682 | UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation | Multimodal Instruction Tuning (& Latest Works) / Unified Understanding and Generation
+241 | 2505.14677 | Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning | 3.1. RL Alignment for VLM
+242 | 2505.13886 | Game-RL: Synthesizing Multimodal Verifiable Game Data to Boost VLMs' General Reasoning | 3.1. RL Alignment for VLM
+243 | 2505.12448 | SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning | 3D Information Enhancement
+244 | 2505.09568 | BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset | Multimodal Instruction Tuning (& Latest Works)
+245 | 2505.09118 | Seeing Beyond the Scene: Enhancing Vision-Language Models with Interactional Reasoning | Explicit 2D Information Injection
+246 | 2505.07062 | Seed1.5-VL Technical Report | Multimodal Instruction Tuning (& Latest Works)
+247 | 2505.05472 | Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation | Unified Understanding and Generation
+248 | 2505.04921 | Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models | Multimodal Instruction Tuning (& Latest Works)
+249 | 2505.04911 | SpatialPrompting: Keyframe-driven Zero-Shot Spatial Reasoning with Off-the-Shelf Multimodal Large Language Models | Training-Free Prompting
+250 | 2505.03739 | - VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model | ✨ Highlights of NJU-MiG / Multimodal Instruction Tuning (& Latest Works)
+251 | 2505.03733 | WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch | Coding / GUI
+252 | 2505.02835 | R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning | Multimodal RLHF
+253 | 2505.02567 | Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities | Unified Understanding and Generation / Multimodal Survey
+254 | 2505.01481 | VideoHallu | 🎞️ Video Understanding
+255 | 2505.00788 | SpatialLLM: A Compound 3D-Informed Design towards Spatially-Intelligent Large Multimodal Models | Model-Centric Enhancements
+256 | 2504.20690 | In-ContextEdit:EnablingInstructionalImageEditingwithIn-Context GenerationinLargeScaleDiffusionTransformer | 3.4. Prompt Optimization
+257 | 2504.20648 | SpaRE: Enhancing Spatial Reasoning in Vision-Language Models with Synthetic Data | Data-Centric Spatial Enhancement
+258 | 2504.20024 | SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning, | Model-Centric Enhancements
+259 | 2504.16656 | Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning | Multimodal Instruction Tuning (& Latest Works)
+260 | 2504.15279 | VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models | Multimodal Dataset
+261 | 2504.15271 | Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models | Multimodal Instruction Tuning (& Latest Works) / 3.2. Finetuning for VLM
+262 | 2504.15270 | An LMM for Efficient Video Understanding via Reinforced Compression of Video Cubes | Multimodal Instruction Tuning (& Latest Works)
+263 | 2504.12680 | Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning | Model-Centric Enhancements
+264 | 2504.10479 | InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models | Multimodal Instruction Tuning (& Latest Works) / Foundation Model (Textual and Multimodal) / Visual Understanding / 1. 📚 SoTA VLMs
+265 | 2504.10471 | MIEB: Massive Image Embedding Benchmark | Multimodal Embedding/Retrieval
+266 | 2504.07491 | Kimi-VL Technical Report | Multimodal Instruction Tuning (& Latest Works)
+267 | 2504.07089 | OMNICAPTIONER: One Captioner to Rule Them All | 3.2. Finetuning for VLM
+268 | 2504.06958 | VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning | 3.1. RL Alignment for VLM
+269 | 2504.01805 | SpaceR: Reinforcing MLLMs in Video Spatial Reasoning | Model-Centric Enhancements
+270 | 2504.00954 | IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval | Multimodal Embedding/Retrieval
+271 | 2504.00883 | Improved Visual-Spatial Reasoning via R1-Zero-Like Training | Model-Centric Enhancements
+272 | 2503.23503 | Evolutionary Prompt Optimization Discovers Emergent Multimodal Reasoning Strategies | 3.4. Prompt Optimization
+273 | 2503.23463 | OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model | 4.3.4. Autonomous Driving
+274 | 2503.21776 | Video-R1: Reinforcing Video Reasoning in MLLMs | 3.1. RL Alignment for VLM
+275 | 2503.21755 | VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness | 5.4.2 Commonsense and Physics Alignment
+276 | 2503.21307 | InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression | Visual Understanding
+277 | 2503.20215 | Qwen2.5-Omni Technical Report | Omni Understanding / 1. 📚 SoTA VLMs
+278 | 2503.19794 | PAVE: Patching and Adapting Video Large Language Models | Omni Understanding
+279 | 2503.18923 | Video SimpleQA | 🎞️ Video Understanding
+280 | 2503.18470 | MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse | Model-Centric Enhancements
+281 | 2503.17352 | OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement | 3.1. RL Alignment for VLM
+282 | 2503.14939 | VisNumBench | 🧮 Visual Math (+ Visual Math Reasoning)
+283 | 2503.14504 | Aligning Multimodal LLM with Human Preference: A Survey | Multimodal RLHF
+284 | 2503.14021 | MP-GUI: Modality Perception with MLLMs for GUI Understanding | 4.1 Embodied VLM Agents
+285 | 2503.13444 | VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning | 4.2. Generative Visual Media Applications
+286 | 2503.13185 | 3DAxisPrompt: Promoting the 3d grounding and reasoning in gpt-4o | Training-Free Prompting
+287 | 2503.13111 | MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs | 3D Information Enhancement
+288 | 2503.12937 | R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization | 3.1. RL Alignment for VLM
+289 | 2503.11647 | ReCamMaster: Camera-Controlled Generative Rendering from A Single Video | Video Generation
+290 | 2503.10639 | GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing | Image Generation
+291 | 2503.10631 | HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model | 4.3. Robotics and Embodied AI
+292 | 2503.10615 | R1‑Onevision | 🔎 Visual Reasoning / VQA (+ Multilingual & OCR)
+293 | 2503.10582 | VisualWebInstruct | 🔎 Visual Reasoning / VQA (+ Multilingual & OCR)
+294 | 2503.09820 | Vi-LAD: Vision-Language Attention Distillation for Socially-Aware Robot Navigation in Dynamic Environments | 4.3.2. Navigation
+295 | 2503.08884 | Spurious Correlation in Multimodal LLMs | 4.2. Generative Visual Media Applications
+296 | 2503.07885 | Safety Guardrails for LLM-Enabled Robots | 5.2 Safety
+297 | 2503.07603 | Should VLMs be Pre-trained with Image Data? | 3.2. Finetuning for VLM
+298 | 2503.07536 | LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL | 3.1. RL Alignment for VLM
+299 | 2503.07365 | MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning | 3.1. RL Alignment for VLM
+300 | 2503.07265 | WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation | 5.4.2 Commonsense and Physics Alignment
+301 | 2503.07065 | Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning | 3.1. RL Alignment for VLM
+302 | 2503.06749 | Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models | 3.1. RL Alignment for VLM
+303 | 2503.06287 | Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding | 5.4.2 Commonsense and Physics Alignment
+304 | 2503.06271 | SplatTalk: 3D VQA with Gaussian Splatting | 3D Information Enhancement
+305 | 2503.05383 | VLMs Play StarCraft II: A Benchmark and Multimodal Decision Method | 4.1 Embodied VLM Agents
+306 | 2503.05379 | R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning | Omni Understanding
+307 | 2503.05236 | Unified Reward Model for Multimodal Understanding and Generation | Unified Understanding and Generation / 3.1. RL Alignment for VLM
+308 | 2503.04812 | LLaVE: Large Language and Vision Embedding Models with Hardness-Weighted Contrastive Learning | Multimodal Embedding/Retrieval
+309 | 2503.03190 | DSPNet: Dual-vision Scene Perception for Robust 3D Question Answering | 3D Information Enhancement
+310 | 2503.01879 | Nexus-O: An Omni-Perceptive And -Interactive Model for Language, Audio, And Vision | Multimodal Instruction Tuning (& Latest Works)
+311 | 2503.01773 | Why is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas | Model-Centric Enhancements
+312 | 2503.01743 | Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs | Multimodal Instruction Tuning (& Latest Works)
+313 | 2503.01115 | WeGen: A Unified Model for Interactive Multimodal Generation as We Chat | 4.2. Generative Visual Media Applications
+314 | 2503.01067 | All Roads Lead to Likelihood: The Value of Reinforcement Learning in Fine-Tuning | 3.1. RL Alignment for VLM
+315 | 2503.00513 | Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning | 3D Information Enhancement
+316 | 2503.00200 | Unified Video Action Model | 4.3. Robotics and Embodied AI
+317 | 2502.20826 | CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval | Multimodal Embedding/Retrieval
+318 | 2502.20694 | WorldModelBench: Judging Video Generation Models As World Models | 5.4.2 Commonsense and Physics Alignment
+319 | 2502.20321 | UniTok: A Unified Tokenizer for Visual Generation and Understanding | Unified Understanding and Generation
+320 | 2502.19680 | M-LLM Based Video Frame Selection for Efficient Video Understanding | Visual Understanding
+321 | 2502.18411 | OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference | Omni Understanding / 3.1. RL Alignment for VLM
+322 | 2502.17425 | Introducing Visual Perception Token into Multimodal Large Language Model | Model-Centric Enhancements
+323 | 2502.17422 | MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs | Visual Understanding
+324 | 2502.14786 | BAGEL (Bytedance) | 1. 📚 SoTA VLMs
+325 | 2502.14113 | Object-centric Binding in Contrastive Language-Image Pretraining | Explicit 2D Information Injection
+326 | 2502.13923 | Qwen2.5-VL Technical Report | Multimodal Instruction Tuning (& Latest Works) / Foundation Model (Textual and Multimodal) / 1. 📚 SoTA VLMs
+327 | 2502.13143 | SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation | Training-Free Prompting
+328 | 2502.13130 | Magma: A Foundation Model for Multimodal AI Agents | 4.3. Robotics and Embodied AI
+329 | 2502.12558 | MomentSeeker: A Comprehensive Benchmark and A Strong Baseline For Moment Retrieval Within Long Videos | Multimodal Embedding/Retrieval
+330 | 2502.12191 | AnyTouch: Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors | 4.3.1. Manipulation
+331 | 2502.12084 | VLM²‑Bench | 🔎 Visual Reasoning / VQA (+ Multilingual & OCR)
+332 | 2502.11431 | Any Information Is Just Worth One Single Screenshot: Unifying Search With Visualized Information Retrieval | Multimodal Embedding/Retrieval
+333 | 2502.10391 | MM-RLHF: The Next Step Forward in Multimodal LLM Alignment | Multimodal RLHF / 3.1. RL Alignment for VLM
+334 | 2502.09560 | EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents | 4.3. Robotics and Embodied AI
+335 | 2502.06734 | Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists | Video Generation / Multimodal Dataset
+336 | 2502.05177 | Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray | Multimodal Instruction Tuning (& Latest Works)
+337 | 2502.04328 | Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment | Omni Understanding
+338 | 2502.04326 | WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal LLMs | Omni Understanding
+339 | 2502.04076 | Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency | 5.4.2 Commonsense and Physics Alignment
+340 | 2501.17811 | Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling | Unified Understanding and Generation
+341 | 2501.16411 | PhysBench: Benchmarking and Enhancing VLMs for Physical World Understanding | 5.4.2 Commonsense and Physics Alignment
+342 | 2501.15368 | Baichuan-Omni-1.5 Technical Report | Omni Understanding
+343 | 2501.14818 | Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models | Model-Centric Enhancements
+344 | 2501.13926 | Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step | 3.1. RL Alignment for VLM
+345 | 2501.13826 | Video-MMMU | 🎞️ Video Understanding
+346 | 2501.13106 | VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding | Foundation Models
+347 | 2501.12386 | InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling | Visual Understanding
+348 | 2501.10074 | SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning | Model-Centric Enhancements
+349 | 2501.09038 | Do generative video models understand physical principles? | 5.4.2 Commonsense and Physics Alignment
+350 | 2501.08282 | LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding | Visual Understanding
+351 | 2501.07542 | Imagine while Reasoning in Space: Multimodal Visualization-of-Thought | 5.4.2 Commonsense and Physics Alignment / Model-Centric Enhancements
+352 | 2501.06186 | LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs | Multimodal Instruction Tuning (& Latest Works)
+353 | 2501.05067 | LLaVA-Octopus: Unlocking Instruction-Driven Adaptive Projector Fusion for Video Understanding | Visual Understanding
+354 | 2501.04003 | Drive-Bench | 2.3. Benchmark Datasets, Simulators, and Generative Models for Embodied VLM / 4.3.4. Autonomous Driving
+355 | 2501.04001 | Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos | Visual Understanding
+356 | 2501.02189 | > 🌐 Language: English · 简体中文 | 
+357 | 2501.01986 | FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Visual Language Models | Visual Understanding
+358 | 2501.01957 | - VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction | ✨ Highlights of NJU-MiG / Multimodal Instruction Tuning (& Latest Works)
+359 | 2501.01428 | GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models | 3D Information Enhancement
+360 | 2501.01163 | 3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer | 3D Information Enhancement
+361 | 2501.00513 | CaReBench: A Fine-Grained Benchmark for Video Captioning and Retrieval | Multimodal Embedding/Retrieval
+362 | 2412.19412 | MINIMA: Modality Invariant Image Matching | Multimodal Embedding/Retrieval
+363 | 2412.18605 | Orient Anything: Learning Robust Object Orientation Estimation from Rendering 3D Models | Data-Centric Spatial Enhancement
+364 | 2412.18426 | GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent | Coding / GUI
+365 | 2412.16855 | GME: Improving Universal Multimodal Retrieval by Multimodal LLMs | Multimodal Embedding/Retrieval
+366 | 2412.15838 | Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback | Omni Understanding
+367 | 2412.15188 | LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation | Unified Understanding and Generation
+368 | 2412.15115 | BAGEL (Bytedance) | 1. 📚 SoTA VLMs
+369 | 2412.14475 | MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval | Multimodal Embedding/Retrieval
+370 | 2412.14171 | Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces | Evaluation
+371 | 2412.12225 | DLF: Disentangled-Language-Focused Multimodal Sentiment Analysis | 4.4. Human-Centered AI
+372 | 2412.11694 | From Specific-MLLM to Omni-MLLM: A Survey about the MLLMs alligned with Multi-Modality | Omni Understanding / Multimodal Survey
+373 | 2412.11077 | Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval | Multimodal Embedding/Retrieval
+374 | 2412.10360 | Apollo: An Exploration of Video Understanding in Large Multimodal Models | Multimodal Instruction Tuning (& Latest Works) / Visual Understanding
+375 | 2412.10302 | DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding | Multimodal Instruction Tuning (& Latest Works)
+376 | 2412.09604 | SynerGen-VL: Towards Synergistic Image Understanding and Generation with Vision Experts and Token Folding | Unified Understanding and Generation
+377 | 2412.09596 | InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions | Multimodal Instruction Tuning (& Latest Works)
+378 | 2412.08687 | VisionArena | 💬 Multimodal Conversation / 3.2. Finetuning for VLM
+379 | 2412.08646 | StreamChat: Chatting with Streaming Video | Multimodal Instruction Tuning (& Latest Works)
+380 | 2412.08619 | Synthetic Vision: Training Vision-Language Models to Understand Physics | 5.6 Scarce of High-quality Dataset
+381 | 2412.06673 | ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance | Unified Understanding and Generation
+382 | 2412.06322 | LLaVA-SpaceSGG: Visual Instruct Tuning for Open-vocabulary Scene Graph Generation with Enhanced Spatial Relations | Data-Centric Spatial Enhancement
+383 | 2412.05271 | Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling | Multimodal Instruction Tuning (& Latest Works) / Foundation Model (Textual and Multimodal) / Visual Understanding
+384 | 2412.05243 | CompCap: Improving Multimodal Large Language Models with Composite Captions | Multimodal Instruction Tuning (& Latest Works) / Visual Understanding
+385 | 2412.05185 | LinVT: Empower Your Image-level Large Language Model to Understand Videos | Multimodal Instruction Tuning (& Latest Works)
+386 | 2412.04814 | LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment | Video Generation
+387 | 2412.04729 | Espresso: High Compression For Rich Extraction From Videos for Your Vision-Language Model | 3.2. Finetuning for VLM
+388 | 2412.04616 | Assessing and Learning Alignment of Unimodal Vision and Language Models | 5.4.1 Multi-modality Alignment
+389 | 2412.04468 | NVILA: Efficient Frontier Visual Language Models | Multimodal Instruction Tuning (& Latest Works)
+390 | 2412.04453 | NaVILA: Legged Robot Vision-Language-Action Model for Navigation | 4.3.2. Navigation
+391 | 2412.04432 | Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation | Unified Understanding and Generation
+392 | 2412.04383 | SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding (HKUST(GZ)) [[paper]]( | Training-Free Prompting
+393 | 2412.04332 | Liquid: Language Models are Scalable Multi-modal Generators | Unified Understanding and Generation
+394 | 2412.03572 | Navigation World Models | 4.3.2. Navigation
+395 | 2412.03565 | Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning | Multimodal Instruction Tuning (& Latest Works) / Datasets of Multimodal Instruction Tuning / Benchmarks for Evaluation / 🎞️ Video Understanding / 3.2. Finetuning for VLM / 5.6 Scarce of High-quality Dataset
+396 | 2412.03548 | Perception Tokens Enhance Visual Reasoning in Multimodal Language Models | Model-Centric Enhancements
+397 | 2412.03069 | TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation | Unified Understanding and Generation
+398 | 2412.01720 | LamRA: Large Multimodal Model as Your Advanced Retrieval Assistant | Multimodal Embedding/Retrieval
+399 | 2412.01292 | LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences | 3D Information Enhancement
+400 | 2412.00127 | Orthus: Autoregressive Interleaved Image-Text Generation with Modality-Specific Heads | Unified Understanding and Generation

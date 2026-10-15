@@ -1,0 +1,99 @@
+1122 | 2507.20198 | > A Survey of Token Compression for Efficient Multimodal Large Language Models [[arXiv]]( | Awesome Multimodal Token Compression
+1123 | 2605.15621 | LRCP: Low-Rank Compressibility Guided Visual Token Pruning for Efficient LVLMs | Recent Papers (Last 6 Months)
+1124 | 2605.07019 | LensVLM: Selective Context Expansion for Compressed Visual Representation of Text | Recent Papers (Last 6 Months)
+1125 | 2603.01236 | AgilePruner: An Empirical Study of Attention and Diversity for Adaptive Visual Token Pruning in Large Vision-Language Models | Recent Papers (Last 6 Months)
+1126 | 2601.22674 | VisionTrim: Unified Vision Token Compression for Training-Free MLLM Acceleration | Recent Papers (Last 6 Months)
+1127 | 2601.03928 | FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection | Recent Papers (Last 6 Months)
+1128 | 2512.99999 | Prune Redundancy, Preserve Essence: Vision Token Compression in VLMs via Synergistic Importance-Diversity | Recent Papers (Last 6 Months)
+1129 | 2512.10324 | EchoingPixels: Cross-Modal Adaptive Token Reduction for Efficient Audio-Visual LLMs | Recent Papers (Last 6 Months)
+1130 | 2512.00891 | Accelerating Streaming Video Large Language Models via Hierarchical Token Compression | Recent Papers (Last 6 Months)
+1131 | 2511.00141 | FLoC: Facility Location-Based Efficient Visual Token Compression for Long Video Understanding | Recent Papers (Last 6 Months)
+1132 | 2605.20035 | Stage-adaptive Token Selection for Efficient Omni-modal LLMs | Recent Papers (Last 6 Months)
+1133 | 2602.04804 | OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models | Recent Papers (Last 6 Months)
+1134 | 2511.14582 | OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models | Recent Papers (Last 6 Months)
+1135 | 2510.18269 | StreamingTOM: Streaming Token Compression for Efficient Video Understanding | Published in Recent Conference/Journal
+1136 | 2510.22936 | PPE: Positional Preservation Embedding for Token Compression in Multimodal Large Language Models | Published in Recent Conference/Journal
+1137 | 2510.07915 | MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding | Published in Recent Conference/Journal
+1138 | 2506.01097 | Task-Related Token Compression in Multimodal Large Language Models from an Explainability Perspective | Published in Recent Conference/Journal
+1139 | 2509.00969 | Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token Compressors | Published in Recent Conference/Journal
+1140 | 2510.17364 | Recurrent Attention-based Token Selection for Efficient Streaming Video-LLMs | Published in Recent Conference/Journal
+1141 | 2509.23931 | AutoPrune: Each Complexity Deserves a Pruning Policy | Published in Recent Conference/Journal
+1142 | 2507.13348 | VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning | Published in Recent Conference/Journal
+1143 | 2506.10967 | Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs | Published in Recent Conference/Journal
+1144 | 2506.00993 | FlexSelect: Flexible Token Selection for Efficient Long Video Understanding | Published in Recent Conference/Journal
+1145 | 2505.22038 | Balanced Token Pruning: Accelerating Vision Language Models Beyond Local Optimization | Published in Recent Conference/Journal
+1146 | 2505.21334 | HoliTom: Holistic Token Merging for Fast Video Large Language Models | Published in Recent Conference/Journal
+1147 | 2505.10118 | Why 1 + 1 < 1 in Visual Token Pruning: Beyond Naive Integration via Multi-Objective Balanced Covering | Published in Recent Conference/Journal
+1148 | 2503.16980 | VQToken: Neural Discrete Token Representation Learning for Extreme Token Reduction in Video Large Language Models | Published in Recent Conference/Journal
+1149 | 2503.11187 | FastVID: Dynamic Density Pruning for Fast Video Large Language Models | Published in Recent Conference/Journal
+1150 | 2508.05211 | VFlowOpt: A Token Pruning Framework for LMMs with Visual Information Flow-Guided Optimization | Published in Recent Conference/Journal
+1151 | 2508.00367 | Representation Shift: Unifying Token Compression with FlashAttention | Published in Recent Conference/Journal
+1152 | 2507.20842 | METEOR: Multi-Encoder Collaborative Token Pruning for Efficient Vision Language Models | Published in Recent Conference/Journal
+1153 | 2507.07990 | Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video-LLMs | Published in Recent Conference/Journal
+1154 | 2507.02591 | AuroraLong: Bringing RNNs Back to Efficient Open-Ended Video Understanding | Published in Recent Conference/Journal
+1155 | 2503.21817 | Skip-Vision: Efficient and Scalable Acceleration of Vision-Language Models via Adaptive Token Skipping | Published in Recent Conference/Journal
+1156 | 2503.14075 | Growing a Twig to Accelerate Large Vision-Language Models | Published in Recent Conference/Journal
+1157 | 2503.12496 | Does Your Vision-Language Model Get Lost in the Long Video Sampling Dilemma? | Published in Recent Conference/Journal
+1158 | 2501.02430 | FOLDER: Accelerating Multi-modal Large Language Models with Enhanced Performance | Published in Recent Conference/Journal
+1159 | 2412.09530 | Dynamic-VLM: Simple Dynamic Visual Token Compression for VideoLLM | Published in Recent Conference/Journal
+1160 | 2412.09501 | Lyra: An Efficient and Speech-Centric Framework for Omni-Cognition | Published in Recent Conference/Journal
+1161 | 2412.03248 | AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning | Published in Recent Conference/Journal
+1162 | 2412.01818 | Beyond Text-Visual Attention: Exploiting Visual Cues for Effective Token Pruning in VLMs | Published in Recent Conference/Journal
+1163 | 2410.08584 | ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification | Published in Recent Conference/Journal
+1164 | 2408.17443 | HERMES: temporal-coHERent long-forM understanding with Episodes and Semantics | Published in Recent Conference/Journal
+1165 | 2403.15388 | LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models | Published in Recent Conference/Journal
+1166 | 2506.00479 | EffiVLM-Bench: A Comprehensive Benchmark for Evaluating Training-Free Acceleration in Large Visual-Languge Models | Published in Recent Conference/Journal
+1167 | 2503.11315 | MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens | Published in Recent Conference/Journal
+1168 | 2502.17599 | MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference | Published in Recent Conference/Journal
+1169 | 2412.16117 | PruneVid: Visual Token Pruning for Efficient Video Large Language Models | Published in Recent Conference/Journal
+1170 | 2410.12388 | Prompt Compression for Large Language Models: A Survey | Published in Recent Conference/Journal
+1171 | 2505.19235 | CoreMatching: A Co-adaptive Sparse Inference Framework with Token and Neuron Pruning for Comprehensive Acceleration of Vision-Language Models | Published in Recent Conference/Journal
+1172 | 2504.10344 | ALMTokenizer: A Low-bitrate and Semantic-rich Audio Codec Tokenizer for Audio Language Modeling | Published in Recent Conference/Journal
+1173 | 2504.02438 | Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation | Published in Recent Conference/Journal
+1174 | 2410.04417 | SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference | Published in Recent Conference/Journal
+1175 | 2508.17857 | VISA: Group-wise Visual Token Selection and Aggregation via Graph Summarization for Efficient MLLMs Inference | Published in Recent Conference/Journal
+1176 | 2508.01236 | Mitigating Information Loss under High Pruning Rates for Efficient Large Vision Language Models | Published in Recent Conference/Journal
+1177 | 2504.17343 | TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos | Published in Recent Conference/Journal
+1178 | 2510.17800 | Glyph: Scaling Context Windows via Visual-Text Compression | Image-Related
+1179 | 2407.03104 | KeyVideoLLM: Towards large-scale video keyframe selection | Training-Free
+1180 | 2506.22139 | Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation | Training-Free
+1181 | 2510.27280 | FOCUS: Efficient Keyframe Selection for Long Video Understanding | Training-Free
+1182 | 2410.03226 | Frame-Voyager: Learning to query frames for video LLMs | Training-Aware
+1183 | 2510.12793 | ViCO: A Training Strategy towards Semantic Aware Dynamic High-Resolution | Adaptive Resolution
+1184 | 2412.09613 | PVC: Progressive Visual Token Compression | Attention-Free
+1185 | 2409.10994 | Less is More: A Simple yet Effective Token Reduction Method | Attention-Free
+1186 | 2412.04467 | VisionZip: Longer is Better but Not Necessary | Attention-Aware
+1187 | 2509.23663 | HIVTP: Hierarchical Visual Token Pruning | Attention-Aware
+1188 | 2506.20066 | ToSA: Token Merging with Spatial Awareness | Attention-Aware
+1189 | 2510.17777 | SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference | Attention-Aware
+1190 | 2502.11494 | DART: Stop looking for important tokens, duplication matters more | Diversity-Guided
+1191 | 2505.14454 | VidCom2: Video Compression Commander | Diversity-Guided
+1192 | 2410.17247 | PyramidDrop: Accelerating via pyramid visual redundancy reduction | Attention-Guided
+1193 | 2506.19225 | Video-XL-2: Towards Very Long-Video Understanding Through Task-Aware KV Sparsification | Attention-Guided
+1194 | 2510.09608 | StreamingVLM: Real-time understanding for infinite video streams | Attention-Guided
+1195 | 2510.02295 | VideoNSA: Native Sparse Attention Scales Video Understanding | Sparse Attention
+1196 | 2502.18137 | SpargeAttn: Accurate sparse attention accelerating any model inference | Sparse Attention
+1197 | 2503.16428 | XAttention: Block sparse attention with antidiagonal scoring | Sparse Attention
+1198 | 2504.16083 | MMInference: Modality-Aware Permutation Sparse Attention | Sparse Attention
+1199 | 2406.18139 | LOOK-M: Look-once optimization in KV cache | Token-Level
+1200 | 2503.00540 | ReKV: Streaming video QA with in-context video KV-cache retrieval | Token-Level
+1201 | 2505.15269 | LiveVLM: Efficient Online Video Understanding via Streaming-Oriented KV Cache | Token-Level
+1202 | 2503.08461 | FastCache: Optimizing multimodal LLM serving | Token-Level
+1203 | 2410.23317 | VL-Cache: Sparsity and modality-aware KV cache compression | Layer-Level
+1204 | 2506.15745 | InfiniPot-V: Memory-Constrained KV Cache Compression | Layer-Level
+1205 | 2506.05344 | SparseMM: Head Sparsity Emerges from Visual Concept Responses | Head-Level
+1206 | 2501.15021 | AKVQ-VL: Attention-Aware KV Cache Adaptive 2-Bit Quantization | Bit-Level
+1207 | 2502.14882 | CalibQuant: 1-Bit KV Cache Quantization for Multimodal LLMs | Bit-Level
+1208 | 2503.16257 | VidKV: Plug-and-Play 1.x-Bit KV Cache Quantization | Bit-Level
+1209 | 2509.11961 | Spec-LLaVA: Accelerating VLMs with Dynamic Tree-Based Speculative Decoding | Training-Aware
+1210 | 2505.14260 | MSD: Speculative Decoding Reimagined for Multimodal Large Language Models | Training-Aware
+1211 | 2509.15235 | ViSpec: Accelerating VLMs with Vision-Aware Speculative Decoding | Training-Aware
+1212 | 2510.22641 | FastVLM: Self-Speculative Decoding for Fast Vision-Language Model Inference | Training-Aware
+1213 | 2509.11815 | SpecVLM: Fast Speculative Decoding in Vision-Language Models | Training-Aware
+1214 | 2505.12728 | FLASH: Latent-Aware Semi-Autoregressive Speculative Decoding | Training-Aware
+1215 | 2509.17743 | Adaptive Fast-and-Slow Visual Program Reasoning for Long-Form VideoQA | Efficient Reasoning
+1216 | 2505.23727 | PixelThink: Towards Efficient Chain-of-Pixel Reasoning | Efficient Reasoning
+1217 | 2505.15154 | Prolonged reasoning is not all you need: Certainty-based adaptive routing | Efficient Reasoning
+1218 | 2407.15754 | LongVideoBench | Video Understanding Benchmarks
+1219 | 2501.05787 | Token Compression Survey | Related Surveys
+1220 | 2312.03863 | Efficient LLMs Survey | Related Surveys

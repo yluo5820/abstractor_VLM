@@ -1,0 +1,2466 @@
+{
+  "screened_at": "2026-09-14",
+  "method": "All 300 title/category lines read. Broad topical title screening only; no claim of abstract or full-paper review. Core means supplied title/category strongly indicates visual-language content; adjacent includes visual generation or embodied work without explicit VLM focus.",
+  "counts": {
+    "vlm_core": 248,
+    "exclude_nonvisual": 2,
+    "adjacent": 49,
+    "unparseable": 1
+  },
+  "additional_collision_summary": [
+    "Generic small-detail zooming: 2502.17422; visual grounding heads: 2503.06287.",
+    "Generic visual compression: FrameFusion, LongVU, TokenPacker, LLaVolta, DocKylin and Matryoshka Query Transformer are established.",
+    "Generic perturbation/counterfactual hallucination audits: Hallu-PI 2408.01355, BEAF 2407.13442, AutoHallusion 2406.10900 and relationship hallucinations 2406.16449.",
+    "Spatial mechanism/prior work: 2503.01773, 2502.14113, 2410.17434, 2409.09788 and 2406.01584."
+  ],
+  "records": [
+    {
+      "id": 301,
+      "arxiv_id": "2503.07065",
+      "title": "Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning",
+      "supplied_category": "3.1. RL Alignment for VLM",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 302,
+      "arxiv_id": "2503.06749",
+      "title": "Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models",
+      "supplied_category": "3.1. RL Alignment for VLM",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 303,
+      "arxiv_id": "2503.06287",
+      "title": "Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding",
+      "supplied_category": "5.4.2 Commonsense and Physics Alignment",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Training-free attention-head visual grounding; nearest precursor for low-cost localization signals."
+    },
+    {
+      "id": 304,
+      "arxiv_id": "2503.06271",
+      "title": "SplatTalk: 3D VQA with Gaussian Splatting",
+      "supplied_category": "3D Information Enhancement",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 305,
+      "arxiv_id": "2503.05383",
+      "title": "VLMs Play StarCraft II: A Benchmark and Multimodal Decision Method",
+      "supplied_category": "4.1 Embodied VLM Agents",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 306,
+      "arxiv_id": "2503.05379",
+      "title": "R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning",
+      "supplied_category": "Omni Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 307,
+      "arxiv_id": "2503.05236",
+      "title": "Unified Reward Model for Multimodal Understanding and Generation",
+      "supplied_category": "Unified Understanding and Generation / 3.1. RL Alignment for VLM",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 308,
+      "arxiv_id": "2503.04812",
+      "title": "LLaVE: Large Language and Vision Embedding Models with Hardness-Weighted Contrastive Learning",
+      "supplied_category": "Multimodal Embedding/Retrieval",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 309,
+      "arxiv_id": "2503.03190",
+      "title": "DSPNet: Dual-vision Scene Perception for Robust 3D Question Answering",
+      "supplied_category": "3D Information Enhancement",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 310,
+      "arxiv_id": "2503.01879",
+      "title": "Nexus-O: An Omni-Perceptive And -Interactive Model for Language, Audio, And Vision",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 311,
+      "arxiv_id": "2503.01773",
+      "title": "Why is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas",
+      "supplied_category": "Model-Centric Enhancements",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Attention-focus account of spatial reasoning difficulty; compare against any background-evidence mechanism."
+    },
+    {
+      "id": 312,
+      "arxiv_id": "2503.01743",
+      "title": "Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "metadata_warning": "Supplied title/category may overstate visual modality; verify abstract before inclusion in core review."
+    },
+    {
+      "id": 313,
+      "arxiv_id": "2503.01115",
+      "title": "WeGen: A Unified Model for Interactive Multimodal Generation as We Chat",
+      "supplied_category": "4.2. Generative Visual Media Applications",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 314,
+      "arxiv_id": "2503.01067",
+      "title": "All Roads Lead to Likelihood: The Value of Reinforcement Learning in Fine-Tuning",
+      "supplied_category": "3.1. RL Alignment for VLM",
+      "disposition": "exclude_nonvisual",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 315,
+      "arxiv_id": "2503.00513",
+      "title": "Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning",
+      "supplied_category": "3D Information Enhancement",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 316,
+      "arxiv_id": "2503.00200",
+      "title": "Unified Video Action Model",
+      "supplied_category": "4.3. Robotics and Embodied AI",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 317,
+      "arxiv_id": "2502.20826",
+      "title": "CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval",
+      "supplied_category": "Multimodal Embedding/Retrieval",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 318,
+      "arxiv_id": "2502.20694",
+      "title": "WorldModelBench: Judging Video Generation Models As World Models",
+      "supplied_category": "5.4.2 Commonsense and Physics Alignment",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 319,
+      "arxiv_id": "2502.20321",
+      "title": "UniTok: A Unified Tokenizer for Visual Generation and Understanding",
+      "supplied_category": "Unified Understanding and Generation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 320,
+      "arxiv_id": "2502.19680",
+      "title": "M-LLM Based Video Frame Selection for Efficient Video Understanding",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Frame-selection efficiency already established; do not claim novelty for generic frame budget selection."
+    },
+    {
+      "id": 321,
+      "arxiv_id": "2502.18411",
+      "title": "OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference",
+      "supplied_category": "Omni Understanding / 3.1. RL Alignment for VLM",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 322,
+      "arxiv_id": "2502.17425",
+      "title": "Introducing Visual Perception Token into Multimodal Large Language Model",
+      "supplied_category": "Model-Centric Enhancements",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 323,
+      "arxiv_id": "2502.17422",
+      "title": "MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Training-free small-detail perception already established; collision for simple zoom/crop idea."
+    },
+    {
+      "id": 324,
+      "arxiv_id": "2502.14786",
+      "title": "BAGEL (Bytedance)",
+      "supplied_category": "1. 📚 SoTA VLMs",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "metadata_warning": "Repeated generic BAGEL label attached to different arXiv IDs; verify canonical title before citing."
+    },
+    {
+      "id": 325,
+      "arxiv_id": "2502.14113",
+      "title": "Object-centric Binding in Contrastive Language-Image Pretraining",
+      "supplied_category": "Explicit 2D Information Injection",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Object-centric binding prior work; relevant to content versus relation preservation."
+    },
+    {
+      "id": 326,
+      "arxiv_id": "2502.13923",
+      "title": "Qwen2.5-VL Technical Report",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works) / Foundation Model (Textual and Multimodal) / 1. 📚 SoTA VLMs",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Small open target backbone family; verify checkpoint size and actual memory empirically."
+    },
+    {
+      "id": 327,
+      "arxiv_id": "2502.13143",
+      "title": "SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation",
+      "supplied_category": "Training-Free Prompting",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 328,
+      "arxiv_id": "2502.13130",
+      "title": "Magma: A Foundation Model for Multimodal AI Agents",
+      "supplied_category": "4.3. Robotics and Embodied AI",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 329,
+      "arxiv_id": "2502.12558",
+      "title": "MomentSeeker: A Comprehensive Benchmark and A Strong Baseline For Moment Retrieval Within Long Videos",
+      "supplied_category": "Multimodal Embedding/Retrieval",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 330,
+      "arxiv_id": "2502.12191",
+      "title": "AnyTouch: Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors",
+      "supplied_category": "4.3.1. Manipulation",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 331,
+      "arxiv_id": "2502.12084",
+      "title": "VLM²‑Bench",
+      "supplied_category": "🔎 Visual Reasoning / VQA (+ Multilingual & OCR)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 332,
+      "arxiv_id": "2502.11431",
+      "title": "Any Information Is Just Worth One Single Screenshot: Unifying Search With Visualized Information Retrieval",
+      "supplied_category": "Multimodal Embedding/Retrieval",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 333,
+      "arxiv_id": "2502.10391",
+      "title": "MM-RLHF: The Next Step Forward in Multimodal LLM Alignment",
+      "supplied_category": "Multimodal RLHF / 3.1. RL Alignment for VLM",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 334,
+      "arxiv_id": "2502.09560",
+      "title": "EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents",
+      "supplied_category": "4.3. Robotics and Embodied AI",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 335,
+      "arxiv_id": "2502.06734",
+      "title": "Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists",
+      "supplied_category": "Video Generation / Multimodal Dataset",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 336,
+      "arxiv_id": "2502.05177",
+      "title": "Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 337,
+      "arxiv_id": "2502.04328",
+      "title": "Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment",
+      "supplied_category": "Omni Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 338,
+      "arxiv_id": "2502.04326",
+      "title": "WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal LLMs",
+      "supplied_category": "Omni Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 339,
+      "arxiv_id": "2502.04076",
+      "title": "Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency",
+      "supplied_category": "5.4.2 Commonsense and Physics Alignment",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 340,
+      "arxiv_id": "2501.17811",
+      "title": "Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling",
+      "supplied_category": "Unified Understanding and Generation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 341,
+      "arxiv_id": "2501.16411",
+      "title": "PhysBench: Benchmarking and Enhancing VLMs for Physical World Understanding",
+      "supplied_category": "5.4.2 Commonsense and Physics Alignment",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 342,
+      "arxiv_id": "2501.15368",
+      "title": "Baichuan-Omni-1.5 Technical Report",
+      "supplied_category": "Omni Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 343,
+      "arxiv_id": "2501.14818",
+      "title": "Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models",
+      "supplied_category": "Model-Centric Enhancements",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 344,
+      "arxiv_id": "2501.13926",
+      "title": "Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step",
+      "supplied_category": "3.1. RL Alignment for VLM",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 345,
+      "arxiv_id": "2501.13826",
+      "title": "Video-MMMU",
+      "supplied_category": "🎞️ Video Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 346,
+      "arxiv_id": "2501.13106",
+      "title": "VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding",
+      "supplied_category": "Foundation Models",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 347,
+      "arxiv_id": "2501.12386",
+      "title": "InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 348,
+      "arxiv_id": "2501.10074",
+      "title": "SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning",
+      "supplied_category": "Model-Centric Enhancements",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 349,
+      "arxiv_id": "2501.09038",
+      "title": "Do generative video models understand physical principles?",
+      "supplied_category": "5.4.2 Commonsense and Physics Alignment",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 350,
+      "arxiv_id": "2501.08282",
+      "title": "LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 351,
+      "arxiv_id": "2501.07542",
+      "title": "Imagine while Reasoning in Space: Multimodal Visualization-of-Thought",
+      "supplied_category": "5.4.2 Commonsense and Physics Alignment / Model-Centric Enhancements",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 352,
+      "arxiv_id": "2501.06186",
+      "title": "LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 353,
+      "arxiv_id": "2501.05067",
+      "title": "LLaVA-Octopus: Unlocking Instruction-Driven Adaptive Projector Fusion for Video Understanding",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 354,
+      "arxiv_id": "2501.04003",
+      "title": "Drive-Bench",
+      "supplied_category": "2.3. Benchmark Datasets, Simulators, and Generative Models for Embodied VLM / 4.3.4. Autonomous Driving",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 355,
+      "arxiv_id": "2501.04001",
+      "title": "Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 356,
+      "arxiv_id": "2501.02189",
+      "title": "> 🌐 Language: English · 简体中文",
+      "supplied_category": "",
+      "disposition": "unparseable",
+      "screening_depth": "title_and_supplied_category_only",
+      "metadata_warning": "Title field contains a language/navigation fragment rather than a paper title."
+    },
+    {
+      "id": 357,
+      "arxiv_id": "2501.01986",
+      "title": "FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Visual Language Models",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Similarity-and-importance token reduction is an existing combination."
+    },
+    {
+      "id": 358,
+      "arxiv_id": "2501.01957",
+      "title": "- VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction",
+      "supplied_category": "✨ Highlights of NJU-MiG / Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 359,
+      "arxiv_id": "2501.01428",
+      "title": "GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models",
+      "supplied_category": "3D Information Enhancement",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 360,
+      "arxiv_id": "2501.01163",
+      "title": "3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer",
+      "supplied_category": "3D Information Enhancement",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 361,
+      "arxiv_id": "2501.00513",
+      "title": "CaReBench: A Fine-Grained Benchmark for Video Captioning and Retrieval",
+      "supplied_category": "Multimodal Embedding/Retrieval",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 362,
+      "arxiv_id": "2412.19412",
+      "title": "MINIMA: Modality Invariant Image Matching",
+      "supplied_category": "Multimodal Embedding/Retrieval",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 363,
+      "arxiv_id": "2412.18605",
+      "title": "Orient Anything: Learning Robust Object Orientation Estimation from Rendering 3D Models",
+      "supplied_category": "Data-Centric Spatial Enhancement",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 364,
+      "arxiv_id": "2412.18426",
+      "title": "GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent",
+      "supplied_category": "Coding / GUI",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 365,
+      "arxiv_id": "2412.16855",
+      "title": "GME: Improving Universal Multimodal Retrieval by Multimodal LLMs",
+      "supplied_category": "Multimodal Embedding/Retrieval",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 366,
+      "arxiv_id": "2412.15838",
+      "title": "Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback",
+      "supplied_category": "Omni Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 367,
+      "arxiv_id": "2412.15188",
+      "title": "LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation",
+      "supplied_category": "Unified Understanding and Generation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 368,
+      "arxiv_id": "2412.15115",
+      "title": "BAGEL (Bytedance)",
+      "supplied_category": "1. 📚 SoTA VLMs",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "metadata_warning": "Repeated generic BAGEL label attached to different arXiv IDs; verify canonical title before citing."
+    },
+    {
+      "id": 369,
+      "arxiv_id": "2412.14475",
+      "title": "MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval",
+      "supplied_category": "Multimodal Embedding/Retrieval",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 370,
+      "arxiv_id": "2412.14171",
+      "title": "Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces",
+      "supplied_category": "Evaluation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Spatial memory/recall baseline context."
+    },
+    {
+      "id": 371,
+      "arxiv_id": "2412.12225",
+      "title": "DLF: Disentangled-Language-Focused Multimodal Sentiment Analysis",
+      "supplied_category": "4.4. Human-Centered AI",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 372,
+      "arxiv_id": "2412.11694",
+      "title": "From Specific-MLLM to Omni-MLLM: A Survey about the MLLMs alligned with Multi-Modality",
+      "supplied_category": "Omni Understanding / Multimodal Survey",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 373,
+      "arxiv_id": "2412.11077",
+      "title": "Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval",
+      "supplied_category": "Multimodal Embedding/Retrieval",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 374,
+      "arxiv_id": "2412.10360",
+      "title": "Apollo: An Exploration of Video Understanding in Large Multimodal Models",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works) / Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 375,
+      "arxiv_id": "2412.10302",
+      "title": "DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 376,
+      "arxiv_id": "2412.09604",
+      "title": "SynerGen-VL: Towards Synergistic Image Understanding and Generation with Vision Experts and Token Folding",
+      "supplied_category": "Unified Understanding and Generation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 377,
+      "arxiv_id": "2412.09596",
+      "title": "InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 378,
+      "arxiv_id": "2412.08687",
+      "title": "VisionArena",
+      "supplied_category": "💬 Multimodal Conversation / 3.2. Finetuning for VLM",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 379,
+      "arxiv_id": "2412.08646",
+      "title": "StreamChat: Chatting with Streaming Video",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 380,
+      "arxiv_id": "2412.08619",
+      "title": "Synthetic Vision: Training Vision-Language Models to Understand Physics",
+      "supplied_category": "5.6 Scarce of High-quality Dataset",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 381,
+      "arxiv_id": "2412.06673",
+      "title": "ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance",
+      "supplied_category": "Unified Understanding and Generation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 382,
+      "arxiv_id": "2412.06322",
+      "title": "LLaVA-SpaceSGG: Visual Instruct Tuning for Open-vocabulary Scene Graph Generation with Enhanced Spatial Relations",
+      "supplied_category": "Data-Centric Spatial Enhancement",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 383,
+      "arxiv_id": "2412.05271",
+      "title": "Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works) / Foundation Model (Textual and Multimodal) / Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 384,
+      "arxiv_id": "2412.05243",
+      "title": "CompCap: Improving Multimodal Large Language Models with Composite Captions",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works) / Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 385,
+      "arxiv_id": "2412.05185",
+      "title": "LinVT: Empower Your Image-level Large Language Model to Understand Videos",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 386,
+      "arxiv_id": "2412.04814",
+      "title": "LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment",
+      "supplied_category": "Video Generation",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 387,
+      "arxiv_id": "2412.04729",
+      "title": "Espresso: High Compression For Rich Extraction From Videos for Your Vision-Language Model",
+      "supplied_category": "3.2. Finetuning for VLM",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "High compression for extraction already studied."
+    },
+    {
+      "id": 388,
+      "arxiv_id": "2412.04616",
+      "title": "Assessing and Learning Alignment of Unimodal Vision and Language Models",
+      "supplied_category": "5.4.1 Multi-modality Alignment",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 389,
+      "arxiv_id": "2412.04468",
+      "title": "NVILA: Efficient Frontier Visual Language Models",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Efficient VLM architecture baseline."
+    },
+    {
+      "id": 390,
+      "arxiv_id": "2412.04453",
+      "title": "NaVILA: Legged Robot Vision-Language-Action Model for Navigation",
+      "supplied_category": "4.3.2. Navigation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 391,
+      "arxiv_id": "2412.04432",
+      "title": "Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation",
+      "supplied_category": "Unified Understanding and Generation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 392,
+      "arxiv_id": "2412.04383",
+      "title": "SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding (HKUST(GZ)) [[paper]](",
+      "supplied_category": "Training-Free Prompting",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 393,
+      "arxiv_id": "2412.04332",
+      "title": "Liquid: Language Models are Scalable Multi-modal Generators",
+      "supplied_category": "Unified Understanding and Generation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 394,
+      "arxiv_id": "2412.03572",
+      "title": "Navigation World Models",
+      "supplied_category": "4.3.2. Navigation",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 395,
+      "arxiv_id": "2412.03565",
+      "title": "Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works) / Datasets of Multimodal Instruction Tuning / Benchmarks for Evaluation / 🎞️ Video Understanding / 3.2. Finetuning for VLM / 5.6 Scarce of High-quality Dataset",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 396,
+      "arxiv_id": "2412.03548",
+      "title": "Perception Tokens Enhance Visual Reasoning in Multimodal Language Models",
+      "supplied_category": "Model-Centric Enhancements",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Perception-token improvement is established prior work."
+    },
+    {
+      "id": 397,
+      "arxiv_id": "2412.03069",
+      "title": "TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation",
+      "supplied_category": "Unified Understanding and Generation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 398,
+      "arxiv_id": "2412.01720",
+      "title": "LamRA: Large Multimodal Model as Your Advanced Retrieval Assistant",
+      "supplied_category": "Multimodal Embedding/Retrieval",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 399,
+      "arxiv_id": "2412.01292",
+      "title": "LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences",
+      "supplied_category": "3D Information Enhancement",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 400,
+      "arxiv_id": "2412.00127",
+      "title": "Orthus: Autoregressive Interleaved Image-Text Generation with Modality-Specific Heads",
+      "supplied_category": "Unified Understanding and Generation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 401,
+      "arxiv_id": "2411.19951",
+      "title": "Sparrow: Data-Efficient Video-LLM with Text-to-Image Augmentation",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 402,
+      "arxiv_id": "2411.18676",
+      "title": "Embodied Red Teaming for Auditing Robotic Foundation Models",
+      "supplied_category": "5.2 Safety",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 403,
+      "arxiv_id": "2411.18363",
+      "title": "ChatRex: Taming Multimodal LLM for Joint Perception and Understanding",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 404,
+      "arxiv_id": "2411.18211",
+      "title": "TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 405,
+      "arxiv_id": "2411.18203",
+      "title": "Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning",
+      "supplied_category": "5.4.1 Multi-modality Alignment",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 406,
+      "arxiv_id": "2411.17465",
+      "title": "ShowUI: One Vision-Language-Action Model for GUI Visual Agent",
+      "supplied_category": "4.4.1. Web Agent",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 407,
+      "arxiv_id": "2411.16537",
+      "title": "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics",
+      "supplied_category": "Data-Centric Spatial Enhancement",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Existing spatial benchmark/data; avoid expensive new annotation."
+    },
+    {
+      "id": 408,
+      "arxiv_id": "2411.15296",
+      "title": "- 🌟 MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs",
+      "supplied_category": "✨ Highlights of NJU-MiG",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 409,
+      "arxiv_id": "2411.14432",
+      "title": "Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models",
+      "supplied_category": "Multimodal Chain-of-Thought",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 410,
+      "arxiv_id": "2411.14062",
+      "title": "MMGenBench: Evaluating the Limits of LMMs from the Text-to-Image Generation Perspective",
+      "supplied_category": "Evaluation / Benchmarks for Evaluation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 411,
+      "arxiv_id": "2411.13503",
+      "title": "VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models",
+      "supplied_category": "5.4.2 Commonsense and Physics Alignment",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 412,
+      "arxiv_id": "2411.11066",
+      "title": "TS-LLaVA: Constructing Visual Tokens through Thumbnail-and-Sampling for Training-Free Video Large Language Models",
+      "supplied_category": "Others",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Thumbnail plus sampling is established training-free video baseline."
+    },
+    {
+      "id": 413,
+      "arxiv_id": "2411.09022",
+      "title": "DART-LLM: Dependency-Aware Multi-Robot Task Decomposition and Execution using Large Language Models",
+      "supplied_category": "4.3. Robotics and Embodied AI",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 414,
+      "arxiv_id": "2411.03292",
+      "title": "Interaction2Code: Benchmarking MLLM-based Interactive Webpage Code Generation from Interactive Prototyping",
+      "supplied_category": "Coding / GUI",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 415,
+      "arxiv_id": "2411.02571",
+      "title": "MM-Embed: Universal Multimodal Retrieval with Multimodal LLMs",
+      "supplied_category": "Multimodal Embedding/Retrieval",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 416,
+      "arxiv_id": "2411.02385",
+      "title": "How Far is Video Generation from World Model: A Physical Law Perspective",
+      "supplied_category": "5.4.2 Commonsense and Physics Alignment",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 417,
+      "arxiv_id": "2410.23266",
+      "title": "TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models",
+      "supplied_category": "Video Understanding Benchmark",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 418,
+      "arxiv_id": "2410.18927",
+      "title": "SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models",
+      "supplied_category": "5.2 Safety",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 419,
+      "arxiv_id": "2410.18558",
+      "title": "Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data",
+      "supplied_category": "Multimodal Dataset",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 420,
+      "arxiv_id": "2410.18072",
+      "title": "WorldSimBench: Towards Video Generation Models as World Simulators",
+      "supplied_category": "5.4.2 Commonsense and Physics Alignment",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 421,
+      "arxiv_id": "2410.17434",
+      "title": "LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Adaptive spatiotemporal compression is established."
+    },
+    {
+      "id": 422,
+      "arxiv_id": "2410.17241",
+      "title": "Frontiers in Intelligent Colonoscopy",
+      "supplied_category": "4.4.3. Healthcare",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 423,
+      "arxiv_id": "2410.16267",
+      "title": "xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Extreme token compression already studied."
+    },
+    {
+      "id": 424,
+      "arxiv_id": "2410.16232",
+      "title": "Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping",
+      "supplied_category": "Coding / GUI",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 425,
+      "arxiv_id": "2410.16162",
+      "title": "Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Spatial Reasoning",
+      "supplied_category": "Data-Centric Spatial Enhancement",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Basic spatial ability versus relational generalization relevant to proposed causal compression audit."
+    },
+    {
+      "id": 426,
+      "arxiv_id": "2410.15701",
+      "title": "Students Rather Than Experts: A New AI for Education Pipeline to Model More Human-Like and Personalized Early Adolescence",
+      "supplied_category": "4.4.4. Social Goodness",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 427,
+      "arxiv_id": "2410.14669",
+      "title": "NaturalBench",
+      "supplied_category": "🧠 Multimodal General Intelligence",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "NaturalBench could be image-dependence check."
+    },
+    {
+      "id": 428,
+      "arxiv_id": "2410.14668",
+      "title": "MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image Description and Reasoning Steps",
+      "supplied_category": "Benchmarks for Evaluation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 429,
+      "arxiv_id": "2410.13863",
+      "title": "Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens",
+      "supplied_category": "Image Generation",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 430,
+      "arxiv_id": "2410.13848",
+      "title": "Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation",
+      "supplied_category": "Unified Understanding and Generation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 431,
+      "arxiv_id": "2410.13691",
+      "title": "Jailbreaking LLM-Controlled Robots",
+      "supplied_category": "4.3. Robotics and Embodied AI",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 432,
+      "arxiv_id": "2410.13232",
+      "title": "Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation",
+      "supplied_category": "4.4.1. Web Agent / 5.6 Scarce of High-quality Dataset",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 433,
+      "arxiv_id": "2410.12109",
+      "title": "OMCAT: Omni Context Aware Transformer",
+      "supplied_category": "Omni Understanding / Multimodal Embedding/Retrieval",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 434,
+      "arxiv_id": "2410.11087",
+      "title": "Locality Alignment Improves Vision-Language Models",
+      "supplied_category": "Model-Centric Enhancements",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 435,
+      "arxiv_id": "2410.10818",
+      "title": "TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models",
+      "supplied_category": "Benchmarks for Evaluation / Video Understanding Benchmark",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 436,
+      "arxiv_id": "2410.10816",
+      "title": "LVD-2M: A Long-take Video Dataset with Temporally Dense Captions",
+      "supplied_category": "Multimodal Dataset",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 437,
+      "arxiv_id": "2410.10783",
+      "title": "LiveXiv -- A Multi-Modal Live Benchmark Based on Arxiv Papers Content",
+      "supplied_category": "Benchmarks for Evaluation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 438,
+      "arxiv_id": "2410.09575",
+      "title": "Ross: Reconstructive Visual Instruction Tuning",
+      "supplied_category": "Model-Centric Enhancements",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 439,
+      "arxiv_id": "2410.08792",
+      "title": "VLM See, Robot Do: Human Demo Video to Robot Action Plan via Vision Language Model",
+      "supplied_category": "4.3. Robotics and Embodied AI",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 440,
+      "arxiv_id": "2410.08565",
+      "title": "Baichuan-Omni Technical Report",
+      "supplied_category": "Omni Understanding / 1. 📚 SoTA VLMs",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 441,
+      "arxiv_id": "2410.07167",
+      "title": "Deciphering Cross-Modal Alignment in Large Vision-Language Models with Modality Integration Rate",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 442,
+      "arxiv_id": "2410.07113",
+      "title": "Personalized Visual Instruction Tuning",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 443,
+      "arxiv_id": "2410.06765",
+      "title": "To Preserve or To Compress: An In-Depth Study of Connector Selection in Multimodal Large Language Models",
+      "supplied_category": "Model-Centric Enhancements",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Closest broad precursor on preserving versus compressing connectors."
+    },
+    {
+      "id": 444,
+      "arxiv_id": "2410.06682",
+      "title": "Enhancing Multimodal LLM for Detailed and Accurate Video Captioning using Multi-Round Preference Optimization",
+      "supplied_category": "Multimodal RLHF",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 445,
+      "arxiv_id": "2410.06158",
+      "title": "GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation",
+      "supplied_category": "4.3. Robotics and Embodied AI",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 446,
+      "arxiv_id": "2410.05160",
+      "title": "VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks",
+      "supplied_category": "Multimodal Embedding/Retrieval",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 447,
+      "arxiv_id": "2410.03878",
+      "title": "SPARTUN3D: Situated Spatial Understanding of 3D World in Large Language Models",
+      "supplied_category": "Data-Centric Spatial Enhancement",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 448,
+      "arxiv_id": "2410.03577",
+      "title": "Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models",
+      "supplied_category": "Multimodal Hallucination",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Visual retracing for hallucination mitigation is established."
+    },
+    {
+      "id": 449,
+      "arxiv_id": "2410.03051",
+      "title": "AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works) / Video Understanding Benchmark",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 450,
+      "arxiv_id": "2410.02762",
+      "title": "Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations",
+      "supplied_category": "Multimodal Hallucination",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Interpretation and editing of vision-language representations already studied."
+    },
+    {
+      "id": 451,
+      "arxiv_id": "2410.02713",
+      "title": "Video Instruction Tuning With Synthetic Data",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 452,
+      "arxiv_id": "2410.02193",
+      "title": "Guiding Long-Horizon Task and Motion Planning with Vision Language Models",
+      "supplied_category": "4.3. Robotics and Embodied AI",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 453,
+      "arxiv_id": "2410.01089",
+      "title": "FMBench: Benchmarking Fairness in Multimodal Large Language Models on Medical Tasks",
+      "supplied_category": "5.3 Fairness",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 454,
+      "arxiv_id": "2410.00371",
+      "title": "AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation",
+      "supplied_category": "4.3. Robotics and Embodied AI",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 455,
+      "arxiv_id": "2410.00255",
+      "title": "Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning",
+      "supplied_category": "3D Information Enhancement",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 456,
+      "arxiv_id": "2409.19242",
+      "title": "SciDoc2Diagrammer-MAF: Towards Generation of Scientific Diagrams from Documents guided by Multi-Aspect Feedback Refinement",
+      "supplied_category": "4.1 Embodied VLM Agents",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 457,
+      "arxiv_id": "2409.18964",
+      "title": "PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation",
+      "supplied_category": "5.4.2 Commonsense and Physics Alignment",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 458,
+      "arxiv_id": "2409.18938",
+      "title": "From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding",
+      "supplied_category": "Multimodal Survey",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 459,
+      "arxiv_id": "2409.18869",
+      "title": "Emu3: Next-Token Prediction is All You Need",
+      "supplied_category": "Foundation Models / Unified Understanding and Generation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 460,
+      "arxiv_id": "2409.18125",
+      "title": "LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D Capabilities",
+      "supplied_category": "3D Information Enhancement",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 461,
+      "arxiv_id": "2409.18111",
+      "title": "E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding",
+      "supplied_category": "Datasets of Multimodal Instruction Tuning / Video Understanding Benchmark",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 462,
+      "arxiv_id": "2409.18042",
+      "title": "EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works) / Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 463,
+      "arxiv_id": "2409.17146",
+      "title": "Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 464,
+      "arxiv_id": "2409.15272",
+      "title": "OmniBench: Towards The Future of Universal Omni-Language Models",
+      "supplied_category": "Evaluation / Benchmarks for Evaluation / Omni Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 465,
+      "arxiv_id": "2409.14066",
+      "title": "KALIE: Fine-Tuning Vision-Language Models for Open-World Manipulation without Robot Data",
+      "supplied_category": "4.3. Robotics and Embodied AI / 5.6 Scarce of High-quality Dataset",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 466,
+      "arxiv_id": "2409.13612",
+      "title": "FIHA: Autonomous Hallucination Evaluation in Vision-Language Models with Davidson Scene Graphs",
+      "supplied_category": "Multimodal Hallucination",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 467,
+      "arxiv_id": "2409.13407",
+      "title": "Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 468,
+      "arxiv_id": "2409.12191",
+      "title": "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works) / Foundation Model (Textual and Multimodal)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Dynamic-resolution model family for resolution budget experiments."
+    },
+    {
+      "id": 469,
+      "arxiv_id": "2409.11340",
+      "title": "OmniGen: Unified Image Generation",
+      "supplied_category": "Image Generation",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 470,
+      "arxiv_id": "2409.09788",
+      "title": "Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models",
+      "supplied_category": "Training-Free Prompting",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Reference-object reasoning prior work for proposed relational token audit."
+    },
+    {
+      "id": 471,
+      "arxiv_id": "2409.05840",
+      "title": "MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct",
+      "supplied_category": "Datasets of Multimodal Instruction Tuning",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 472,
+      "arxiv_id": "2409.04828",
+      "title": "POINTS: Improving Your Vision-language Model with Affordable Strategies",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 473,
+      "arxiv_id": "2409.03277",
+      "title": "ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Charts connector baseline, likely training cost beyond preferred scope."
+    },
+    {
+      "id": 474,
+      "arxiv_id": "2409.03054",
+      "title": "Context-Aware Image Descriptions for Web Accessibility",
+      "supplied_category": "4.4.2. Accessibility",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 475,
+      "arxiv_id": "2409.02889",
+      "title": "LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 476,
+      "arxiv_id": "2409.02389",
+      "title": "Multi-modal Situated Reasoning in 3D Scenes",
+      "supplied_category": "Datasets of Multimodal Instruction Tuning / Data-Centric Spatial Enhancement",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 477,
+      "arxiv_id": "2409.00147",
+      "title": "MultiMath: Bridging Visual and Mathematical Reasoning for Large Language Models",
+      "supplied_category": "4.4.4. Social Goodness",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 478,
+      "arxiv_id": "2408.16725",
+      "title": "End-to-End Mini-Omni",
+      "supplied_category": "1. 📚 SoTA VLMs",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only",
+      "metadata_warning": "Supplied title/category may overstate visual modality; verify abstract before inclusion in core review."
+    },
+    {
+      "id": 479,
+      "arxiv_id": "2408.16224",
+      "title": "LLaVA-SG: Leveraging Scene Graphs as Visual Semantic Expression in Vision-Language Models",
+      "supplied_category": "Explicit 2D Information Injection",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 480,
+      "arxiv_id": "2408.15998",
+      "title": "EAGLE: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 481,
+      "arxiv_id": "2408.15881",
+      "title": "LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 482,
+      "arxiv_id": "2408.13257",
+      "title": "MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?",
+      "supplied_category": "Evaluation / Benchmarks for Evaluation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "High-resolution real-world stress-test data."
+    },
+    {
+      "id": 483,
+      "arxiv_id": "2408.12528",
+      "title": "Show-o: One Single Transformer to Unify Multimodal Understanding and Generation",
+      "supplied_category": "Unified Understanding and Generation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 484,
+      "arxiv_id": "2408.12109",
+      "title": "RoVRM: A Robust Visual Reward Model Optimized via Auxiliary Textual Preference Data",
+      "supplied_category": "Multimodal RLHF",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 485,
+      "arxiv_id": "2408.11039",
+      "title": "Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model",
+      "supplied_category": "Unified Understanding and Generation / 1. 📚 SoTA VLMs",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 486,
+      "arxiv_id": "2408.08872",
+      "title": "xGen-MM (BLIP-3): A Family of Open Large Multimodal Models",
+      "supplied_category": "Foundation Models / Visual Understanding / 1. 📚 SoTA VLMs",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 487,
+      "arxiv_id": "2408.05211",
+      "title": "- VITA: Towards Open-Source Interactive Omni Multimodal LLM",
+      "supplied_category": "✨ Highlights of NJU-MiG / Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 488,
+      "arxiv_id": "2408.04840",
+      "title": "mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 489,
+      "arxiv_id": "2408.03326",
+      "title": "LLaVA-OneVision: Easy Visual Task Transfer",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works) / Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 490,
+      "arxiv_id": "2408.02865",
+      "title": "VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge",
+      "supplied_category": "4.4.3. Healthcare",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 491,
+      "arxiv_id": "2408.02629",
+      "title": "VidGen-1M: A Large-Scale Dataset for Text-to-video Generation",
+      "supplied_category": "Video Generation / Multimodal Dataset",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 492,
+      "arxiv_id": "2408.01800",
+      "title": "MiniCPM-V: A GPT-4V Level MLLM on Your Phone",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Small model deployment baseline."
+    },
+    {
+      "id": 493,
+      "arxiv_id": "2408.01355",
+      "title": "Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs",
+      "supplied_category": "5.1 Hallucination",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Input perturbation hallucination benchmark; collision for generic robustness benchmark."
+    },
+    {
+      "id": 494,
+      "arxiv_id": "2408.00754",
+      "title": "Coarse Correspondences Boost Spatial-Temporal Reasoning in Multimodal Language Model",
+      "supplied_category": "Training-Free Prompting",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 495,
+      "arxiv_id": "2408.00555",
+      "title": "Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation",
+      "supplied_category": "Multimodal Hallucination",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 496,
+      "arxiv_id": "2407.21783",
+      "title": "The Llama 3 Herd of Models",
+      "supplied_category": "Foundation Models / 1. 📚 SoTA VLMs",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 497,
+      "arxiv_id": "2407.21771",
+      "title": "Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs",
+      "supplied_category": "Multimodal Hallucination",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 498,
+      "arxiv_id": "2407.19679",
+      "title": "Harnessing Large Vision and Language Models in Agriculture: A Review",
+      "supplied_category": "4.4.4. Social Goodness",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 499,
+      "arxiv_id": "2407.17453",
+      "title": "VILA^2: VILA Augmented VILA",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 500,
+      "arxiv_id": "2407.15841",
+      "title": "SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 501,
+      "arxiv_id": "2407.14177",
+      "title": "EVLM: An Efficient Vision-Language Model for Visual Understanding",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 502,
+      "arxiv_id": "2407.14133",
+      "title": "I Know About “Up”! Enhancing Spatial Reasoning in Visual Language Models Through 3D Reconstruction",
+      "supplied_category": "Training-Free Prompting",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 503,
+      "arxiv_id": "2407.13761",
+      "title": "SegPoint: Segment Any Point Cloud via Large Language Model",
+      "supplied_category": "3D Information Enhancement",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 504,
+      "arxiv_id": "2407.13442",
+      "title": "BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-Language Models",
+      "supplied_category": "5.1 Hallucination",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Before-after image-change hallucination evaluation; reuse or explicitly differentiate counterfactual tests."
+    },
+    {
+      "id": 505,
+      "arxiv_id": "2407.12580",
+      "title": "E5-V: Universal Embeddings with Multimodal Large Language Models",
+      "supplied_category": "Multimodal Embedding/Retrieval",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 506,
+      "arxiv_id": "2407.11895",
+      "title": "OmniBind: Large-scale Omni Multimodal Representation via Binding Spaces",
+      "supplied_category": "Omni Understanding / Multimodal Embedding/Retrieval",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 507,
+      "arxiv_id": "2407.10920",
+      "title": "Benchmarking Vision Language Models for Cultural Understanding",
+      "supplied_category": "5.3 Fairness",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 508,
+      "arxiv_id": "2407.09043",
+      "title": "Vision-Language Model is NOT All You Need: Augmentation Strategies for Molecule Language Models",
+      "supplied_category": "4.4.4. Social Goodness",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 509,
+      "arxiv_id": "2407.07577",
+      "title": "IDA-VLM: Towards Movie Understanding via ID-Aware Large Vision-Language Model",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 510,
+      "arxiv_id": "2407.06886",
+      "title": "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI",
+      "supplied_category": "4.1 Embodied VLM Agents",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 511,
+      "arxiv_id": "2407.06358",
+      "title": "MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions",
+      "supplied_category": "Video Generation / Multimodal Dataset",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 512,
+      "arxiv_id": "2407.06304",
+      "title": "VIMI: Grounding Video Generation through Multi-modal Instruction",
+      "supplied_category": "Video Generation",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 513,
+      "arxiv_id": "2407.03320",
+      "title": "InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works) / Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 514,
+      "arxiv_id": "2407.02392",
+      "title": "TokenPacker: Efficient Visual Projector for Multimodal LLM",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Efficient visual projector prior work."
+    },
+    {
+      "id": 515,
+      "arxiv_id": "2407.02371",
+      "title": "OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation",
+      "supplied_category": "Video Generation / Multimodal Dataset",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 516,
+      "arxiv_id": "2407.01599",
+      "title": "JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models",
+      "supplied_category": "5.2 Safety",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 517,
+      "arxiv_id": "2407.01525",
+      "title": "ScanReason: Empowering 3D Visual Grounding with Reasoning Capabilities",
+      "supplied_category": "3D Information Enhancement",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 518,
+      "arxiv_id": "2407.00983",
+      "title": "FairMedFM: Fairness Benchmarking for Medical Imaging Foundation Models",
+      "supplied_category": "5.3 Fairness",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 519,
+      "arxiv_id": "2407.00634",
+      "title": "Tarsier: Recipes for Training and Evaluating Large Video Description Models",
+      "supplied_category": "Visual Understanding / Video Understanding Benchmark",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 520,
+      "arxiv_id": "2407.00468",
+      "title": "MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation",
+      "supplied_category": "Evaluation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Efficient/trustworthy multimodal evaluation prior work."
+    },
+    {
+      "id": 521,
+      "arxiv_id": "2406.20098",
+      "title": "Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs",
+      "supplied_category": "Evaluation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 522,
+      "arxiv_id": "2406.20092",
+      "title": "LLaVolta: Efficient Multi-modal Models via Stage-wise Visual Context Compression",
+      "supplied_category": "3.2. Finetuning for VLM",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Stage-wise visual compression is established."
+    },
+    {
+      "id": 523,
+      "arxiv_id": "2406.19389",
+      "title": "OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 524,
+      "arxiv_id": "2406.19101",
+      "title": "DocKylin: A Large Multimodal Model for Visual Document Understanding with Efficient Visual Slimming",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Document visual slimming is established."
+    },
+    {
+      "id": 525,
+      "arxiv_id": "2406.19097",
+      "title": "Fairness and Bias in Multimodal AI: A Survey",
+      "supplied_category": "5.3 Fairness",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 526,
+      "arxiv_id": "2406.18521",
+      "title": "CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs",
+      "supplied_category": "Evaluation / Benchmarks for Evaluation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Realistic chart benchmark to test brittle OCR/resolution routing."
+    },
+    {
+      "id": 527,
+      "arxiv_id": "2406.18227",
+      "title": "GUIDE: A Guideline-Guided Dataset for Instructional Video Comprehension",
+      "supplied_category": "Multimodal Dataset",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 528,
+      "arxiv_id": "2406.16860",
+      "title": "Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works) / Visual Understanding / Model-Centric Enhancements",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Vision-centric diagnostics prior work."
+    },
+    {
+      "id": 529,
+      "arxiv_id": "2406.16852",
+      "title": "Long Context Transfer from Language to Vision",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works) / Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 530,
+      "arxiv_id": "2406.16449",
+      "title": "Evaluating and Analyzing Relationship Hallucinations in LVLMs",
+      "supplied_category": "Multimodal Hallucination",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Relationship hallucination evaluation; collision for generic relation audit."
+    },
+    {
+      "id": 531,
+      "arxiv_id": "2406.15704",
+      "title": "video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 532,
+      "arxiv_id": "2406.15252",
+      "title": "VideoScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation",
+      "supplied_category": "5.4.2 Commonsense and Physics Alignment",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 533,
+      "arxiv_id": "2406.13787",
+      "title": "LIT: Large Language Model Driven Intention Tracking for Proactive Human-Robot Collaboration – A Robot Sous-Chef Application",
+      "supplied_category": "4.4. Human-Centered AI",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 534,
+      "arxiv_id": "2406.13743",
+      "title": "GenAI‑Bench",
+      "supplied_category": "🌄 Text‑to‑Image Generation",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 535,
+      "arxiv_id": "2406.13642",
+      "title": "SpatialBot: Precise Spatial Understanding with Vision Language Models",
+      "supplied_category": "3D Information Enhancement",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 536,
+      "arxiv_id": "2406.12742",
+      "title": "Benchmarking Multi-Image Understanding in Vision and Language Models: Perception, Knowledge, Reasoning, and Multi-Hop Reasoning",
+      "supplied_category": "Image Understanding Benchmark",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 537,
+      "arxiv_id": "2406.12718",
+      "title": "AGLA: Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention",
+      "supplied_category": "Multimodal Hallucination",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Global/local attention mitigation is established."
+    },
+    {
+      "id": 538,
+      "arxiv_id": "2406.12246",
+      "title": "TroL: Traversal of Layers for Large Language and Vision Models",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 539,
+      "arxiv_id": "2406.11832",
+      "title": "Unveiling Encoder-Free Vision-Language Models",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 540,
+      "arxiv_id": "2406.11816",
+      "title": "VideoLLM-online: Online Video Large Language Model for Streaming Video",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 541,
+      "arxiv_id": "2406.11303",
+      "title": "VideoVista: A Versatile Benchmark for Video Understanding and Reasoning",
+      "supplied_category": "Video Understanding Benchmark",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 542,
+      "arxiv_id": "2406.11271",
+      "title": "MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens",
+      "supplied_category": "Multimodal Dataset / 1. 📚 SoTA VLMs",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 543,
+      "arxiv_id": "2406.11262",
+      "title": "Generative Visual Instruction Tuning",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 544,
+      "arxiv_id": "2406.10900",
+      "title": "AutoHallusion",
+      "supplied_category": "🚨 Hallucination Detection / Control / 5.1 Hallucination",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Automated visual hallucination stress generation prior work."
+    },
+    {
+      "id": 545,
+      "arxiv_id": "2406.10889",
+      "title": "VELOCITI: Can Video-Language Models Bind Semantic Concepts through Time?",
+      "supplied_category": "Benchmarks for Evaluation / Video Understanding Benchmark",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Binding concepts across time prior benchmark."
+    },
+    {
+      "id": 546,
+      "arxiv_id": "2406.10721",
+      "title": "RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 547,
+      "arxiv_id": "2406.10638",
+      "title": "Seeing Clearly, Answering Incorrectly: A Multimodal Robustness Benchmark for Evaluating MLLMs on Leading Questions",
+      "supplied_category": "Benchmarks for Evaluation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Leading-question multimodal robustness is established."
+    },
+    {
+      "id": 548,
+      "arxiv_id": "2406.10462",
+      "title": "CoMM: A Coherent Interleaved Image-Text Dataset for Multimodal Understanding and Generation",
+      "supplied_category": "Multimodal Dataset",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 549,
+      "arxiv_id": "2406.10228",
+      "title": "VEGA: Learning Interleaved Image-Text Comprehension in Vision-Language Large Models",
+      "supplied_category": "Datasets of Multimodal Instruction Tuning",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 550,
+      "arxiv_id": "2406.09961",
+      "title": "ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation",
+      "supplied_category": "Evaluation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 551,
+      "arxiv_id": "2406.09838",
+      "title": "Vision-Language Models Meet Meteorology: Developing Models for Extreme Weather Events Detection with Heatmaps",
+      "supplied_category": "4.4.4. Social Goodness",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 552,
+      "arxiv_id": "2406.09418",
+      "title": "VideoGPT+: Integrating Image and Video Encoders for Enhanced Video Understanding",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 553,
+      "arxiv_id": "2406.09412",
+      "title": "Explore the Limits of Omni-modal Pretraining at Scale",
+      "supplied_category": "Omni Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 554,
+      "arxiv_id": "2406.09406",
+      "title": "4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities",
+      "supplied_category": "Visual Understanding",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 555,
+      "arxiv_id": "2406.09403",
+      "title": "Visual SKETCHPAD: Sketching as a visual chain of thought for multimodal language models",
+      "supplied_category": "Training-Free Prompting",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Visual tools as reasoning prior work."
+    },
+    {
+      "id": 556,
+      "arxiv_id": "2406.09240",
+      "title": "Comparison Visual Instruction Tuning",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 557,
+      "arxiv_id": "2406.08824",
+      "title": "LLM-Driven Robots Risk Enacting Discrimination, Violence, and Unlawful Actions",
+      "supplied_category": "4.3. Robotics and Embodied AI",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 558,
+      "arxiv_id": "2406.08487",
+      "title": "Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 559,
+      "arxiv_id": "2406.08478",
+      "title": "What If We Recaption Billions of Web Images with LLaMA-3?",
+      "supplied_category": "Multimodal Dataset",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 560,
+      "arxiv_id": "2406.07550",
+      "title": "An Image is Worth 32 Tokens for Reconstruction and Generation",
+      "supplied_category": "Unified Understanding and Generation",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 561,
+      "arxiv_id": "2406.07544",
+      "title": "Situational Awareness Matters in 3D Vision Language Reasoning",
+      "supplied_category": "3D Information Enhancement",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 562,
+      "arxiv_id": "2406.07476",
+      "title": "VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works) / Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 563,
+      "arxiv_id": "2406.04325",
+      "title": "ShareGPT4Video: Improving Video Understanding and Generation with Better Captions",
+      "supplied_category": "Datasets of Pre-Training for Alignment",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 564,
+      "arxiv_id": "2406.04264",
+      "title": "MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding",
+      "supplied_category": "Video Understanding Benchmark",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 565,
+      "arxiv_id": "2406.03520",
+      "title": "VideoPhy: Evaluating Physical Commonsense for Video Generation",
+      "supplied_category": "5.4.2 Commonsense and Physics Alignment",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 566,
+      "arxiv_id": "2406.03496",
+      "title": "Wings: Learning Multimodal LLMs without Text-only Forgetting",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 567,
+      "arxiv_id": "2406.02987",
+      "title": "Enhancing Multimodal Large Language Models with Multi-instance Visual Prompt Generator for Visual Representation Enrichment",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 568,
+      "arxiv_id": "2406.02884",
+      "title": "PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with LLM",
+      "supplied_category": "Visual Understanding",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 569,
+      "arxiv_id": "2406.02539",
+      "title": "Parrot: Multilingual Visual Instruction Tuning",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 570,
+      "arxiv_id": "2406.01920",
+      "title": "CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models",
+      "supplied_category": "Multimodal Hallucination",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 571,
+      "arxiv_id": "2406.01584",
+      "title": "SpatialRGPT: Grounded Spatial Reasoning in Vision-Language Models",
+      "supplied_category": "3D Information Enhancement",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Spatial grounding baseline."
+    },
+    {
+      "id": 572,
+      "arxiv_id": "2406.00872",
+      "title": "OLIVE: Object Level In-Context Visual Embeddings",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 573,
+      "arxiv_id": "2405.21075",
+      "title": "- Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis",
+      "supplied_category": "✨ Highlights of NJU-MiG / Evaluation / Benchmarks for Evaluation / Video Understanding Benchmark",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 574,
+      "arxiv_id": "2405.20797",
+      "title": "Ovis: Structural Embedding Alignment for Multimodal Large Language Model",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 575,
+      "arxiv_id": "2405.19335",
+      "title": "X-VILA: Cross-Modality Alignment for Large Language Model",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 576,
+      "arxiv_id": "2405.19315",
+      "title": "Matryoshka Query Transformer for Large Vision-Language Models",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Nested query budgets already studied."
+    },
+    {
+      "id": 577,
+      "arxiv_id": "2405.18654",
+      "title": "Mitigating Object Hallucination via Data Augmented Contrastive Tuning",
+      "supplied_category": "Multimodal Hallucination",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 578,
+      "arxiv_id": "2405.17428",
+      "title": "NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models",
+      "supplied_category": "Multimodal Embedding/Retrieval",
+      "disposition": "exclude_nonvisual",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 579,
+      "arxiv_id": "2405.16473",
+      "title": "M3CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought",
+      "supplied_category": "Benchmarks for Evaluation",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 580,
+      "arxiv_id": "2405.15973",
+      "title": "Enhancing Visual-Language Modality Alignment in Large Vision Language Models via Self-Improvement",
+      "supplied_category": "5.4.1 Multi-modality Alignment",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 581,
+      "arxiv_id": "2405.15738",
+      "title": "ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works) / Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 582,
+      "arxiv_id": "2405.15684",
+      "title": "Prompt-Aware Adapter: Towards Learning Adaptive Visual Tokens for Multimodal Large Language Models",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Prompt-aware adaptive visual tokens already studied."
+    },
+    {
+      "id": 583,
+      "arxiv_id": "2405.15683",
+      "title": "VDGD: Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap",
+      "supplied_category": "Multimodal Hallucination",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 584,
+      "arxiv_id": "2405.15574",
+      "title": "Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 585,
+      "arxiv_id": "2405.14974",
+      "title": "LOVA3: Learning to Visual Question Answering, Asking and Assessment",
+      "supplied_category": "Visual Understanding / Image Understanding Benchmark",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 586,
+      "arxiv_id": "2405.14129",
+      "title": "AlignGPT: Multi-modal Large Language Models with Adaptive Alignment Capability",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 587,
+      "arxiv_id": "2405.13872",
+      "title": "Image-of-Thought Prompting for Visual Reasoning Refinement in Multimodal Large Language Models",
+      "supplied_category": "Training-Free Prompting",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 588,
+      "arxiv_id": "2405.10140",
+      "title": "Libra: Building Decoupled Vision System on Large Language Models",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works)",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 589,
+      "arxiv_id": "2405.09818",
+      "title": "Chameleon: Mixed-Modal Early-Fusion Foundation Models",
+      "supplied_category": "Foundation Models / Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 590,
+      "arxiv_id": "2405.08668",
+      "title": "Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research",
+      "supplied_category": "4.4. Human-Centered AI",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 591,
+      "arxiv_id": "2405.07162",
+      "title": "Learning Reward for Robot Skills Using Large Language Models via Self-Alignment",
+      "supplied_category": "4.3. Robotics and Embodied AI",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 592,
+      "arxiv_id": "2405.05949",
+      "title": "CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts",
+      "supplied_category": "Multimodal Instruction Tuning (& Latest Works) / Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 593,
+      "arxiv_id": "2405.05945",
+      "title": "Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers",
+      "supplied_category": "Image Generation / Video Generation",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 594,
+      "arxiv_id": "2405.05363",
+      "title": "LOC-ZSON: Language-driven Object-Centric Zero-Shot Object Retrieval and Navigation",
+      "supplied_category": "4.3.2. Navigation",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 595,
+      "arxiv_id": "2405.03685",
+      "title": "Language-Image Models with 3D Understanding (Cube-LLM)",
+      "supplied_category": "Model-Centric Enhancements",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 596,
+      "arxiv_id": "2405.03150",
+      "title": "Video Diffusion Models: A Survey",
+      "supplied_category": "Multimodal Survey",
+      "disposition": "adjacent",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 597,
+      "arxiv_id": "2405.02793",
+      "title": "ImageInWords: Unlocking Hyper-Detailed Image Descriptions",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 598,
+      "arxiv_id": "2405.02246",
+      "title": "What matters when building vision-language models?",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only",
+      "shortlist_reason": "Model design data/compute tradeoffs prior work."
+    },
+    {
+      "id": 599,
+      "arxiv_id": "2405.01483",
+      "title": "MANTIS: Interleaved Multi-Image Instruction Tuning",
+      "supplied_category": "Visual Understanding",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    },
+    {
+      "id": 600,
+      "arxiv_id": "2404.18930",
+      "title": "Hallucination of Multimodal Large Language Models: A Survey",
+      "supplied_category": "5.3 Fairness",
+      "disposition": "vlm_core",
+      "screening_depth": "title_and_supplied_category_only"
+    }
+  ]
+}

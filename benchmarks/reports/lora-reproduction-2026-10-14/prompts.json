@@ -1,0 +1,5 @@
+{
+  "pgm": "Complete the 3 by 3 visual reasoning matrix. The first eight panels are the context, in row-major order; the bottom-right panel is missing. Choose the panel from A through H that completes the rules across the matrix. Respond with only the answer letter.",
+  "rmts": "Each labeled scene shows the same source pair in the top row and a candidate pair in the bottom row. Choose the scene whose bottom pair has the same same-or-different relation as the top pair. Object identity is determined by color, shape, size, and material; ignore position, lighting, and orientation. Respond with only A or B.",
+  "idrules": "Each labeled scene contains two rows of three objects. The top row demonstrates an identity pattern, such as first equals third, last two equal, or all three equal. The bottom-right object is a candidate completion. Choose the scene whose bottom row follows the same identity pattern as its top row. Object identity is determined by color, shape, size, and material; ignore position, lighting, and orientation. Respond with only A, B, C, or D."
+}

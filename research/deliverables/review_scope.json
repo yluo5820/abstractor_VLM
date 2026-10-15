@@ -1,0 +1,13 @@
+{
+  "candidate_records": 1220,
+  "dispositions": {
+    "vlm_core": 1002,
+    "exclude_nonvisual": 17,
+    "adjacent": 199,
+    "unparseable": 2
+  },
+  "focused_unique_papers": 65,
+  "papers_with_selected_full_text_sections": 36,
+  "full_papers_read_cover_to_cover": 0,
+  "caveat": "All counts refer to explicitly recorded depth. A section read is not an all-page review."
+}

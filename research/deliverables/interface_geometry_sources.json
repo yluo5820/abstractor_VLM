@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-15",
+  "scope": "Selected sources used for the interface-geometry follow-up, not an exhaustive bibliography. No paper is claimed read cover-to-cover. Hypotheses and compute allocations are unverified.",
+  "papers": [
+    {
+      "title": "When Language Overwrites Vision: Over-Alignment and Geometric Debiasing in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2605.08245",
+      "review_depth": "selected_sections",
+      "relevance": "Over-alignment and PCA debiasing are already studied."
+    },
+    {
+      "title": "The Dominance of Text Space: Unveiling the Asymmetric Nature of Cross-Modal Alignment in Large Language Models",
+      "url": "https://aclanthology.org/2026.acl-long.1699/",
+      "review_depth": "abstract_and_selected_pdf_excerpt",
+      "relevance": "Projector geometry preservation and spectral filtering are close prior work."
+    },
+    {
+      "title": "Rethinking Model Selection in VLM Through the Lens of Gromov-Wasserstein Distance",
+      "url": "https://arxiv.org/abs/2605.01325",
+      "review_depth": "selected_sections",
+      "relevance": "Structural similarity, learnability, and encoder selection already studied with full training."
+    },
+    {
+      "title": "When Is Rank-1 Enough? Geometry-Guided Initialization for Parameter-Efficient Fine-Tuning",
+      "url": "https://arxiv.org/abs/2602.01522",
+      "review_depth": "selected_sections",
+      "relevance": "Gap-aligned LoRA initialization and layer selection."
+    },
+    {
+      "title": "Understanding and Guiding Layer Placement in Parameter-Efficient Fine-Tuning of Large Language Models",
+      "url": "https://arxiv.org/abs/2602.04019",
+      "review_depth": "abstract",
+      "relevance": "Projected-residual account of adaptation placement is existing work."
+    },
+    {
+      "title": "Distill What the Student Can See: Fisher-Projected On-Policy Distillation for Vision-Language Models",
+      "url": "https://arxiv.org/abs/2608.01263",
+      "review_depth": "selected_sections",
+      "relevance": "Locally reachable visual-output geometry is existing work."
+    },
+    {
+      "title": "A Comprehensive Information-Decomposition Analysis of Large Vision-Language Models",
+      "url": "https://arxiv.org/abs/2603.29676",
+      "review_depth": "selected_sections",
+      "relevance": "Synergy decomposition across models, layers, and training stages."
+    },
+    {
+      "title": "Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better",
+      "url": "https://arxiv.org/abs/2505.23705",
+      "review_depth": "selected_sections",
+      "relevance": "Action-expert interference, stop-gradient design, discrete-action backbone supervision."
+    },
+    {
+      "title": "AEGIS: Anchor-Enforced Gradient Isolation for Knowledge-Preserving Vision-Language-Action Fine-Tuning",
+      "url": "https://arxiv.org/abs/2604.16067",
+      "review_depth": "selected_sections",
+      "relevance": "Existing spectral mismatch account and geometric gradient protection; claims require critical comparison."
+    },
+    {
+      "title": "Flatness Preserves Instruction Following in Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2606.23641",
+      "review_depth": "selected_sections",
+      "relevance": "Existing training-geometry account of instruction blindness; SAM baseline."
+    },
+    {
+      "title": "When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs",
+      "url": "https://arxiv.org/abs/2602.17659",
+      "review_depth": "abstract_and_official_repository",
+      "relevance": "Instruction blindness and counterfactual grounding evaluation already exist."
+    },
+    {
+      "title": "CounterAlign: Counterfactual Supervision for Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2608.21740",
+      "review_depth": "abstract",
+      "relevance": "Counterfactual instruction training is not a fresh standalone idea."
+    },
+    {
+      "title": "Semantic Anchoring for Robotic Action Representations",
+      "url": "https://arxiv.org/abs/2607.13597",
+      "review_depth": "abstract",
+      "relevance": "Shared/private action representations and semantic anchoring are already proposed."
+    },
+    {
+      "title": "From Recovery to Drop-off: How Action Post-training Reduces a VLM's Late-Layer Depth Decodability",
+      "url": "https://arxiv.org/abs/2608.08904",
+      "review_depth": "abstract_and_discovery_excerpt",
+      "relevance": "Action post-training and geometric probe degradation are close territory; no claim of full critical review."
+    },
+    {
+      "title": "Cross-Modal Redundancy and the Geometry of Vision-Language Embeddings",
+      "url": "https://arxiv.org/abs/2602.06218",
+      "review_depth": "abstract",
+      "relevance": "Shared and unimodal subspaces already characterize modality gaps."
+    },
+    {
+      "title": "Escaping Plato's Cave: JAM for Aligning Independently Trained Vision and Language Models",
+      "url": "https://proceedings.mlr.press/v322/yoon26a.html",
+      "review_depth": "abstract",
+      "relevance": "Frozen-model alignment does not necessarily require new foundation pretraining."
+    },
+    {
+      "title": "KODA: Contrastive Representation Comparison and Alignment for Vision-Language Foundation Models",
+      "url": "https://arxiv.org/abs/2606.04180",
+      "review_depth": "abstract",
+      "relevance": "Representation-discrepancy analysis already has dedicated methods."
+    },
+    {
+      "title": "Neural Tangent Kernel: Convergence and Generalization in Neural Networks",
+      "url": "https://arxiv.org/abs/1806.07572",
+      "review_depth": "abstract",
+      "relevance": "Training-kernel mathematics is background, not a proposed new theorem."
+    }
+  ],
+  "official_resources": [
+    {
+      "title": "Course",
+      "url": "https://faculty.cc.gatech.edu/~zk15/teaching/AY2026_cs8803vlm_fall/index.html"
+    },
+    {
+      "title": "SmolVLM2-2.2B-Instruct",
+      "url": "https://huggingface.co/HuggingFaceTB/SmolVLM2-2.2B-Instruct"
+    },
+    {
+      "title": "Qwen2.5-VL-3B-Instruct",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct"
+    },
+    {
+      "title": "SmolVLA",
+      "url": "https://huggingface.co/lerobot/smolvla_base"
+    },
+    {
+      "title": "CLEVR",
+      "url": "https://cs.stanford.edu/people/jcjohns/clevr/"
+    },
+    {
+      "title": "GQA",
+      "url": "https://cs.stanford.edu/people/dorarad/gqa/about.html"
+    },
+    {
+      "title": "LIBERO-CF repository",
+      "url": "https://github.com/yuffish/LIBERO-CF"
+    }
+  ]
+}

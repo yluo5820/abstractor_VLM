@@ -1,0 +1,1770 @@
+[
+  {
+    "record_id": 901,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 902,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 903,
+    "disposition": "exclude_nonvisual",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 904,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 905,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 906,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 907,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Multi-image instruction antecedent; controls for image count and in-context examples.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 908,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 909,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 910,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 911,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 912,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 913,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 914,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 915,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 916,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 917,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 918,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Long-video baseline scope is too costly for primary project.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 919,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 920,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 921,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Hallucination detection nearest earlier baseline.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 922,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 923,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 924,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 925,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Broad integrated benchmark useful only as secondary validation.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 926,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 927,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 928,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 929,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 930,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 931,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 932,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 933,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 934,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 935,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 936,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 937,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 938,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 939,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 940,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 941,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 942,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 943,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 944,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 945,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Region-of-interest prompting is established; crop routing alone is not a gap.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 946,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 947,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 948,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 949,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 950,
+    "disposition": "unparseable",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": "Catalogue-to-ID mismatch requires primary verification; excluded from usable title count."
+  },
+  {
+    "record_id": 951,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 952,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 953,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 954,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 955,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 956,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 957,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 958,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 959,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 960,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Retrieval with frozen models offers compute-feasible baseline.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 961,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 962,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 963,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 964,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Visual evidence acquisition is established.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 965,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 966,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 967,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Multi-image in-context training prior.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 968,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 969,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 970,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 971,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 972,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 973,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 974,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 975,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 976,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 977,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 978,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 979,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 980,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 981,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 982,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 983,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 984,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 985,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Low-cost tuning alone is established.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 986,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 987,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 988,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Image-caption in-context configurations may confound evidence order.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 989,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 990,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 991,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Video infilling and prediction antecedent for temporal interventions.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 992,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Diagnostic video benchmark baseline.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 993,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 994,
+    "disposition": "exclude_nonvisual",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 995,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 996,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 997,
+    "disposition": "exclude_nonvisual",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 998,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 999,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1000,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1001,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "POPE object hallucination baseline.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1002,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "OCR diagnostic antecedent.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1003,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1004,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1005,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Scene graph structured representation is established.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1006,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1007,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1008,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1009,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1010,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1011,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1012,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1013,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1014,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1015,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1016,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Tool composition is established.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1017,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1018,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1019,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1020,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1021,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1022,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1023,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1024,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1025,
+    "disposition": "exclude_nonvisual",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1026,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1027,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Multimodal action and tool baseline.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1028,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Multi-view concept reasoning prior.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1029,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1030,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Programmatic visual reasoning baseline.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1031,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1032,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1033,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1034,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1035,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1036,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1037,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1038,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1039,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Prompt/generate/cache work means caching alone is not new.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1040,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1041,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1042,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1043,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1044,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1045,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1046,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Multimodal chain-of-thought is foundational prior.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1047,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1048,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Frozen-backbone recipe supports class feasibility.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1049,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1050,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1051,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Frozen-language-model VQA baseline.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1052,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1053,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1054,
+    "disposition": "unparseable",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": "Catalogue-to-ID mismatch requires primary verification; excluded from usable title count."
+  },
+  {
+    "record_id": 1055,
+    "disposition": "unparseable",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": "Catalogue-to-ID mismatch requires primary verification; excluded from usable title count."
+  },
+  {
+    "record_id": 1056,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Training-free adaptation exists; avoid generic training-free novelty claims.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1057,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1058,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1059,
+    "disposition": "unparseable",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": "Catalogue-to-ID mismatch requires primary verification; excluded from usable title count."
+  },
+  {
+    "record_id": 1060,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1061,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1062,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1063,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1064,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1065,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1066,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1067,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1068,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1069,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1070,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1071,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1072,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1073,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1074,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1075,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1076,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1077,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1078,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1079,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1080,
+    "disposition": "exclude_nonvisual",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1081,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1082,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1083,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1084,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Zero-shot composed reasoning baseline.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1085,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1086,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1087,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1088,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Retrieval score normalization prior.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1089,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1090,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1091,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1092,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1093,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1094,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1095,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1096,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1097,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1098,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1099,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1100,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1101,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1102,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1103,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1104,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1105,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1106,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "CLIP embedding baseline and dedup feature candidate.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1107,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1108,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1109,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1110,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1111,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1112,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1113,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1114,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1115,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1116,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "CHAIR hallucination metric antecedent.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1117,
+    "disposition": "exclude_nonvisual",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1118,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1119,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1120,
+    "disposition": "exclude_nonvisual",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1121,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  }
+]

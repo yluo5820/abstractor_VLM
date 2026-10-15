@@ -1,0 +1,26 @@
+[
+  {
+    "repo": "BradyFU/Awesome-Multimodal-Large-Language-Models",
+    "url": "https://raw.githubusercontent.com/BradyFU/Awesome-Multimodal-Large-Language-Models/main/README.md",
+    "bytes": 176783,
+    "file": "research/corpus/BradyFU_README.md"
+  },
+  {
+    "repo": "friedrichor/Awesome-Multimodal-Papers",
+    "url": "https://raw.githubusercontent.com/friedrichor/Awesome-Multimodal-Papers/main/README.md",
+    "bytes": 153824,
+    "file": "research/corpus/friedrichor_README.md"
+  },
+  {
+    "repo": "zli12321/Vision-Language-Models-Overview",
+    "url": "https://raw.githubusercontent.com/zli12321/Vision-Language-Models-Overview/main/README.md",
+    "bytes": 130414,
+    "file": "research/corpus/zli12321_README.md"
+  },
+  {
+    "repo": "DishengLL/Awesome-Spatial-VLMs",
+    "url": "https://raw.githubusercontent.com/DishengLL/Awesome-Spatial-VLMs/main/README.md",
+    "bytes": 45184,
+    "file": "research/corpus/DishengLL_README.md"
+  }
+]

@@ -1,0 +1,14 @@
+# Python 3.10-3.12; install into a dedicated user environment after PACE checks.
+# Select an official torch wheel CUDA index compatible with the cluster driver
+# first; see docs/MODELS.md. These versions are an official torch/vision pair.
+torch==2.7.1
+torchvision==0.22.1
+transformers==5.1.0
+huggingface-hub==1.3.0
+tokenizers==0.22.2
+safetensors==0.7.0
+Pillow==11.3.0
+numpy==2.2.6
+num2words==0.5.14
+# Needed by the native chat templates; avoids compiled FlashAttention builds.
+Jinja2==3.1.6

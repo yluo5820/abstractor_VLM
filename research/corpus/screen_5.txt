@@ -1,0 +1,200 @@
+801 | 2311.13614 | HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data | Multimodal Hallucination
+802 | 2311.13435 | PG-Video-LLaVA: Pixel Grounding Large Video-Language Models | Visual Understanding
+803 | 2311.13165 | Multimodal Large Language Models: A Survey | Multimodal Survey
+804 | 2311.12871 | An Embodied Generalist Agent in 3D World | Multimodal Instruction Tuning (& Latest Works) / 3D Information Enhancement
+805 | 2311.12793 | ShareGPT4V: Improving Large Multi-Modal Models with Better Captions | Multimodal Instruction Tuning (& Latest Works) / Datasets of Pre-Training for Alignment / Visual Understanding
+806 | 2311.12631 | GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning | 4.2. Generative Visual Media Applications
+807 | 2311.11865 | VLM-Eval: A General Evaluation on Video Large Language Models | Evaluation
+808 | 2311.11860 | LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge | Multimodal Instruction Tuning (& Latest Works) / Visual Understanding
+809 | 2311.10774 | MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning | Benchmarks for Evaluation
+810 | 2311.10122 | Video-LLaVA: Learning United Visual Representation by Alignment Before Projection | Multimodal Instruction Tuning (& Latest Works) / Visual Understanding
+811 | 2311.10089 | Emu Edit: Precise Image Editing via Recognition and Generation Tasks | Image Generation
+812 | 2311.08046 | Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding | Multimodal Instruction Tuning (& Latest Works)
+813 | 2311.07575 | SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models | Multimodal Instruction Tuning (& Latest Works)
+814 | 2311.07574 | To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning | Multimodal Instruction Tuning (& Latest Works) / Datasets of Multimodal Instruction Tuning
+815 | 2311.07397 | An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation | Multimodal Hallucination / 5.1 Hallucination
+816 | 2311.06607 | Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models | Multimodal Instruction Tuning (& Latest Works)
+817 | 2311.05437 | LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents | Multimodal Instruction Tuning (& Latest Works)
+818 | 2311.05332 | On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving | Evaluation
+819 | 2311.04498 | NExT-Chat: An LMM for Chat, Detection and Segmentation | Multimodal Instruction Tuning (& Latest Works)
+820 | 2311.04257 | mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration | Multimodal Instruction Tuning (& Latest Works) / Visual Understanding
+821 | 2311.04219 | OtterHD: A High-Resolution Multi-modality Model | Multimodal Instruction Tuning (& Latest Works) / Benchmarks for Evaluation
+822 | 2311.03356 | GLaMM: Pixel Grounding Large Multimodal Model | Multimodal Instruction Tuning (& Latest Works)
+823 | 2311.03354 | CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding | Multimodal Instruction Tuning (& Latest Works) / Explicit 2D Information Injection
+824 | 2311.03287 | Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges | Evaluation / Benchmarks for Evaluation
+825 | 2311.03079 | CogVLM: Visual Expert For Large Language Models | Multimodal Instruction Tuning (& Latest Works)
+826 | 2311.03054 | AnyText: Multilingual Visual Text Generation And Editing | Image Generation
+827 | 2311.02817 | Safe-VLN: Collision Avoidance for Vision-and-Language Navigation of Autonomous Robots Operating in Continuous Environments | 5.2 Safety
+828 | 2311.02782 | Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead | Evaluation
+829 | 2311.01487 | What Makes for Good Visual Instructions? Synthesizing Complex Visual Reasoning Instructions for Visual Instruction Tuning | Multimodal Instruction Tuning (& Latest Works) / Datasets of Multimodal Instruction Tuning
+830 | 2311.01477 | FAITHSCORE: Evaluating Hallucinations in Large Vision-Language Models | Multimodal Hallucination
+831 | 2311.00571 | LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing | LLM-Aided Visual Reasoning
+832 | 2310.20700 | SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction | Video Generation
+833 | 2310.20381 | A Comprehensive Study of GPT-4V's Multimodal Capabilities in Medical Imaging | Evaluation
+834 | 2310.20357 | Enhancing the Spatial Awareness Capability of Multi-Modal Large Language Model | Training-Free Prompting
+835 | 2310.19773 | MM-VID: Advancing Video Understanding with GPT-4V(vision) | LLM-Aided Visual Reasoning
+836 | 2310.17796 | ControlLLM: Augment Language Models with Tools by Searching on Graphs | LLM-Aided Visual Reasoning
+837 | 2310.16809 | Exploring OCR Capabilities of GPT-4V(ision) : A Quantitative and In-depth Evaluation | Evaluation
+838 | 2310.16534 | An Early Evaluation of GPT-4V(ision) | Evaluation
+839 | 2310.16436 | DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models | Multimodal Chain-of-Thought
+840 | 2310.16045 | Woodpecker: Hallucination Correction for Multimodal Large Language Models | Multimodal Hallucination / LLM-Aided Visual Reasoning
+841 | 2310.15169 | FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling | Video Generation
+842 | 2310.14566 | HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models | Evaluation / Benchmarks for Evaluation / 🚨 Hallucination Detection / Control / 5.1 Hallucination
+843 | 2310.13724 | Habitat, Habitat 2.0, Habitat 3.0 | 2.3. Benchmark Datasets, Simulators, and Generative Models for Embodied VLM
+844 | 2310.13289 | SALMONN: Towards Generic Hearing Abilities for Large Language Models | Multimodal Instruction Tuning (& Latest Works)
+845 | 2310.13065 | Creative Robot Tool Use with Large Language Models | 4.3.1. Manipulation
+846 | 2310.12931 | Eureka: Human-Level Reward Design via Coding Large Language Models | 4.3. Robotics and Embodied AI
+847 | 2310.11441 | Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V | Training-Free Prompting
+848 | 2310.10942 | UNK-VQA: A Dataset and a Probe into the Abstention Ability of Multi-modal Large Models | Evaluation / Datasets of Multimodal Instruction Tuning
+849 | 2310.10103 | Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning | 4.3.2. Navigation
+850 | 2310.09478 | MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning | Multimodal Instruction Tuning (& Latest Works) / Visual Understanding
+851 | 2310.09199 | PaLI-3 Vision Language Models: Smaller, Faster, Stronger | Foundation Models
+852 | 2310.08949 | EasyGen: Easing Multimodal Generation with a Bidirectional Conditional Diffusion Model and LLMs | Image Generation
+853 | 2310.08884 | Extending Multi-modal Contrastive Representations | 5.4.1 Multi-modality Alignment
+854 | 2310.08864 | Open X-Embodiment: Robotic Learning Datasets and RT-X Models | 4.3.1. Manipulation
+855 | 2310.08588 | Embodied Vision-Language Programmer from Environmental Feedback | 4.1 Embodied VLM Agents
+856 | 2310.08475 | Can We Edit Multimodal Large Language Models? | Evaluation
+857 | 2310.07704 | Ferret: Refer and Ground Anything Anywhere at Any Granularity | Multimodal Instruction Tuning (& Latest Works) / Visual Understanding / Image Understanding Benchmark
+858 | 2310.07653 | Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models | Image Generation
+859 | 2310.06594 | REVO-LION: Evaluating and Refining Vision-Language Instruction Tuning Datasets | Evaluation
+860 | 2310.05338 | Negative Object Presence Evaluation (NOPE) to Measure Object Hallucination in Vision-Language Models | Multimodal Hallucination
+861 | 2310.03744 | Improved Baselines with Visual Instruction Tuning | Multimodal Instruction Tuning (& Latest Works) / Visual Understanding
+862 | 2310.03026 | LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving | 4.3.4. Autonomous Driving
+863 | 2310.02992 | Kosmos-G: Generating Images in Context with Multimodal Large Language Models | Unified Understanding and Generation / Image Generation
+864 | 2310.02255 | MathVista: Evaluating Math Reasoning in Visual Contexts with GPT-4V, Bard, and Other Large Multimodal Models | Evaluation / Benchmarks for Evaluation
+865 | 2310.02239 | MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens | Unified Understanding and Generation
+866 | 2310.02071 | Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond | Benchmarks for Evaluation
+867 | 2310.01957 | Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving | 4.3.4. Autonomous Driving
+868 | 2310.01852 | LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment | Multimodal Instruction Tuning (& Latest Works) / Multimodal Learning
+869 | 2310.01779 | HallE-Switch: Rethinking and Controlling Object Existence Hallucinations in Large Vision Language Models for Detailed Caption | Multimodal Hallucination / 🚨 Hallucination Detection / Control / 5.1 Hallucination
+870 | 2310.01651 | Fool Your (Vision and) Language Model With Embarrassingly Simple Permutations | Evaluation
+871 | 2310.01415 | GPT-Driver: Learning to Drive with GPT | 4.3.4. Autonomous Driving
+872 | 2310.01412 | DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model | 4.3.4. Autonomous Driving
+873 | 2310.00754 | Analyzing and Mitigating Object Hallucination in Large Vision-Language Models | Multimodal Hallucination
+874 | 2310.00653 | Reformulating Vision-Language Foundation Models and Datasets Towards Universal Multimodal Assistants | Multimodal Instruction Tuning (& Latest Works)
+875 | 2310.00647 | Beyond Task Performance: Evaluating and Reducing the Flaws of Large Multimodal Models with In-Context Learning | Evaluation
+876 | 2310.00582 | Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs | Multimodal Instruction Tuning (& Latest Works)
+877 | 2310.00426 | PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis | Image Generation
+878 | 2309.17421 | The Dawn of LMMs: Preliminary Explorations with GPT-4V(vision) | Evaluation
+879 | 2309.16534 | MotionLM: Multi-Agent Motion Forecasting as Language Modeling | 4.3.4. Autonomous Driving
+880 | 2309.16292 | DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models | 4.3.4. Autonomous Driving
+881 | 2309.16058 | AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model | Multimodal Instruction Tuning (& Latest Works)
+882 | 2309.15943 | Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems? | 4.3. Robotics and Embodied AI
+883 | 2309.15112 | InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition | Multimodal Instruction Tuning (& Latest Works)
+884 | 2309.15103 | LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models | Video Generation
+885 | 2309.14525 | Aligning Large Multimodal Models with Factually Augmented RLHF | Multimodal Hallucination / Multimodal RLHF / Benchmarks for Evaluation / Visual Understanding / Image Understanding Benchmark
+886 | 2309.14320 | MUTEX: Learning Unified Policies from Multimodal Task Specifications | 4.3.3. Human-robot Interaction
+887 | 2309.11499 | DreamLLM: Synergistic Multimodal Comprehension and Creation | Multimodal Instruction Tuning (& Latest Works) / Unified Understanding and Generation
+888 | 2309.11497 | FreeU: Free Lunch in Diffusion U-Net | Image Generation
+889 | 2309.10305 | Baichuan Ocean Mini | 1. 📚 SoTA VLMs
+890 | 2309.10020 | Multimodal Foundation Models: From Specialists to General-Purpose Assistants | Multimodal Survey
+891 | 2309.09971 | MindAgent: Emergent Gaming Interaction | LLM-Aided Visual Reasoning
+892 | 2309.09958 | An Empirical Study of Scaling Instruction-Tuned Large Multimodal Models | Multimodal Instruction Tuning (& Latest Works)
+893 | 2309.08637 | TextBind: Multi-turn Interleaved Multimodal Instruction-following | Multimodal Instruction Tuning (& Latest Works)
+894 | 2309.07915 | MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning | Multimodal In-Context Learning / Datasets of In-Context Learning / Visual Understanding
+895 | 2309.07387 | VDialogUE: A Unified Evaluation Benchmark for Visually-grounded Dialogue | Multimodal Dialogue
+896 | 2309.07120 | Sight Beyond Text: Multi-Modal Training Enhances LLMs in Truthfulness and Ethics | Multimodal Instruction Tuning (& Latest Works)
+897 | 2309.05519 | NExT-GPT: Any-to-Any Multimodal LLM | Multimodal Instruction Tuning (& Latest Works) / Unified Understanding and Generation
+898 | 2309.04669 | Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization | Foundation Models / Unified Understanding and Generation
+899 | 2309.04041 | Evaluation and Mitigation of Agnosia in Multimodal Large Language Models | Multimodal Hallucination
+900 | 2309.03905 | ImageBind-LLM: Multi-modality Instruction Tuning | Multimodal Instruction Tuning (& Latest Works)
+901 | 2309.02591 | Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning | Multimodal Instruction Tuning (& Latest Works)
+902 | 2309.02301 | CIEM: Contrastive Instruction Evaluation Method for Better Instruction Tuning | Multimodal Hallucination
+903 | 2309.00770 | Bias and Fairness in Large Language Models: A Survey | 5.3 Fairness
+904 | 2309.00267 | RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback | 5.5 Efficient Training and Fine-Tuning
+905 | 2308.16911 | PointLLM: Empowering Large Language Models to Understand Point Clouds | Multimodal Instruction Tuning (& Latest Works)
+906 | 2308.16890 | TouchStone: Evaluating Vision-Language Models by Language Models | Evaluation
+907 | 2308.16463 | ✨Sparkles: Unlocking Chats Across Multiple Images for Multimodal Instruction-Following Models | Multimodal Instruction Tuning (& Latest Works) / Evaluation / Datasets of Multimodal Instruction Tuning / Benchmarks for Evaluation
+908 | 2308.16349 | Affective Visual Dialog: A Large-Scale Benchmark for Emotional Reasoning Based on Visually Grounded Conversations | Image Understanding Benchmark
+909 | 2308.15126 | Evaluation and Analysis of Hallucination in Large Vision-Language Models | Multimodal Hallucination
+910 | 2308.14746 | CoVR-2: Automatic Data Construction for Composed Video Retrieval | Multimodal Embedding/Retrieval
+911 | 2308.13566 | MLLM-DataEngine: An Iterative Refinement Approach for MLLM | Multimodal Instruction Tuning (& Latest Works)
+912 | 2308.13437 | Position-Enhanced Visual Instruction Tuning for Multimodal Large Language Models | Multimodal Instruction Tuning (& Latest Works) / Explicit 2D Information Injection / Data-Centric Spatial Enhancement
+913 | 2308.12966 | Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities | Multimodal Instruction Tuning (& Latest Works) / Visual Understanding
+914 | 2308.12714 | VIGC: Visual Instruction Generation and Correction | Multimodal Hallucination
+915 | 2308.12038 | Large Multilingual Models Pivot Zero-Shot Multimodal Learning across Languages | Multimodal Instruction Tuning (& Latest Works) / Visual Understanding
+916 | 2308.10253 | StableLLaVA: Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data | Multimodal Instruction Tuning (& Latest Works) / Datasets of Multimodal Instruction Tuning
+917 | 2308.09936 | BLIVA: A Simple Multimodal LLM for Better Handling of Text-rich Visual Questions | Multimodal Instruction Tuning (& Latest Works)
+918 | 2308.09126 | EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding | Video Understanding Benchmark
+919 | 2308.07891 | Link-Context Learning for Multimodal LLMs | Multimodal In-Context Learning / Benchmarks for Evaluation
+920 | 2308.06721 | IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models | Image Generation
+921 | 2308.06394 | Detecting and Preventing Hallucinations in Large Vision Language Models | Multimodal Hallucination / Datasets of Multimodal Instruction Tuning / Benchmarks for Evaluation / 🚨 Hallucination Detection / Control / 5.1 Hallucination
+922 | 2308.04152 | Fine-tuning Multimodal LLMs to Follow Zero-shot Demonstrative Instructions | Multimodal Instruction Tuning (& Latest Works) / Benchmarks for Evaluation
+923 | 2308.03729 | Tiny LVLM-eHub: Early Multimodal Experiments with Bard | Evaluation
+924 | 2308.03349 | SciGraphQA: A Large-Scale Synthetic Multi-Turn Question-Answering Dataset for Scientific Graphs | Evaluation / Benchmarks for Evaluation
+925 | 2308.02490 | MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities | Evaluation / Benchmarks for Evaluation
+926 | 2308.01907 | The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World | Multimodal Instruction Tuning (& Latest Works) / Datasets of Pre-Training for Alignment
+927 | 2308.01390 | OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models | Multimodal In-Context Learning
+928 | 2308.00692 | LISA: Reasoning Segmentation via Large Language Model | Multimodal Instruction Tuning (& Latest Works)
+929 | 2307.16449 | MovieChat: From Dense Token to Sparse Memory for Long Video Understanding | Multimodal Instruction Tuning (& Latest Works)
+930 | 2307.16184 | Unified Model for Image, Video, Audio and Language Tasks | Foundation Models
+931 | 2307.16125 | SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension | Evaluation / Benchmarks for Evaluation / Image Understanding Benchmark
+932 | 2307.15818 | RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control | 4.3.1. Manipulation
+933 | 2307.15189 | Med-Flamingo: a Multimodal Medical Few-shot Learner | Multimodal In-Context Learning / 4.4.3. Healthcare
+934 | 2307.12981 | 3D-LLM: Injecting the 3D World into Large Language Models | Multimodal Instruction Tuning (& Latest Works) / 3D Information Enhancement
+935 | 2307.12856 | A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis | 4.4.1. Web Agent
+936 | 2307.09474 | ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning | Multimodal Instruction Tuning (& Latest Works) / Datasets of Multimodal Instruction Tuning
+937 | 2307.08581 | BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs | Multimodal Instruction Tuning (& Latest Works) / Datasets of Multimodal Instruction Tuning
+938 | 2307.08347 | M-FLAG: Medical Vision-Language Pre-training with Frozen Language Models and Latent Space Geometry Optimization | 4.4.3. Healthcare
+939 | 2307.08041 | Planting a SEED of Vision in Large Language Model | Others / Unified Understanding and Generation
+940 | 2307.07063 | Bootstrapping Vision-Language Learning with Decoupled Language Pre-training | Foundation Models
+941 | 2307.06942 | InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation | Datasets of Pre-Training for Alignment / Multimodal Dataset
+942 | 2307.06281 | MMBench: Is Your Multi-modal Model an All-around Player? | Evaluation / Benchmarks for Evaluation
+943 | 2307.05222 | Generative Pretraining in Multimodality | Multimodal In-Context Learning / Foundation Models / Unified Understanding and Generation
+944 | 2307.04087 | SVIT: Scaling up Visual Instruction Tuning | Multimodal Instruction Tuning (& Latest Works) / Datasets of Multimodal Instruction Tuning / Visual Understanding / Multimodal Dataset
+945 | 2307.03601 | GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest | Multimodal Instruction Tuning (& Latest Works) / Explicit 2D Information Injection
+946 | 2307.02499 | mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding | Multimodal Instruction Tuning (& Latest Works) / Datasets of Multimodal Instruction Tuning
+947 | 2307.02469 | What Matters in Training a GPT4-Style Language Model with Multimodal Inputs? | Multimodal Instruction Tuning (& Latest Works) / Benchmarks for Evaluation
+948 | 2307.01003 | Visual Instruction Tuning with Polite Flamingo | Multimodal Instruction Tuning (& Latest Works) / Datasets of Multimodal Instruction Tuning
+949 | 2306.17107 | LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding | Multimodal Instruction Tuning (& Latest Works) / Datasets of Multimodal Instruction Tuning
+950 | 2306.16527 | xGen-MM (BLIP-3) | 1. 📚 SoTA VLMs
+951 | 2306.16410 | Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language | LLM-Aided Visual Reasoning
+952 | 2306.15401 | Explainable Multimodal Emotion Reasoning | Multimodal Chain-of-Thought / Datasets of Multimodal Chain-of-Thought
+953 | 2306.15195 | Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic | Multimodal Instruction Tuning (& Latest Works) / Multimodal Chain-of-Thought
+954 | 2306.14895 | Large Multimodal Models: Notes on CVPR 2023 Tutorial | Multimodal Survey
+955 | 2306.14824 | Kosmos-2: Grounding Multimodal Large Language Models to the World | Foundation Models / Datasets of Pre-Training for Alignment / Visual Understanding / Multimodal Dataset / Data-Centric Spatial Enhancement
+956 | 2306.14795 | MotionGPT: Human Motion as a Foreign Language | Multimodal Instruction Tuning (& Latest Works) / Datasets of Multimodal Instruction Tuning
+957 | 2306.14565 | Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning | Multimodal Hallucination / Datasets of Multimodal Instruction Tuning / Benchmarks for Evaluation / 5.1 Hallucination
+958 | 2306.13549 | - A Survey on Multimodal Large Language Models | ✨ Highlights of NJU-MiG / Multimodal Survey
+959 | 2306.13394 | - MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models | ✨ Highlights of NJU-MiG / Evaluation / Benchmarks for Evaluation
+960 | 2306.11732 | Retrieving-to-Answer: Zero-Shot Video Question Answering with Frozen Large Language Models | LLM-Aided Visual Reasoning
+961 | 2306.09265 | LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models | Evaluation / Benchmarks for Evaluation
+962 | 2306.09093 | Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration | Multimodal Instruction Tuning (& Latest Works) / Datasets of Multimodal Instruction Tuning
+963 | 2306.08640 | AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn | LLM-Aided Visual Reasoning
+964 | 2306.08129 | AVIS: Autonomous Visual Information Seeking with Large Language Models | Multimodal In-Context Learning / LLM-Aided Visual Reasoning
+965 | 2306.06687 | LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark | Multimodal Instruction Tuning (& Latest Works) / Evaluation / Datasets of Multimodal Instruction Tuning / Benchmarks for Evaluation
+966 | 2306.06531 | AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers | 4.3. Robotics and Embodied AI
+967 | 2306.05425 | MIMIC-IT: Multi-Modal In-Context Instruction Tuning | Multimodal Instruction Tuning (& Latest Works) / Multimodal In-Context Learning / Datasets of Multimodal Instruction Tuning / Datasets of In-Context Learning
+968 | 2306.05424 | Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models | Multimodal Instruction Tuning (& Latest Works) / Datasets of Multimodal Instruction Tuning / Others
+969 | 2306.05179 | M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models | Evaluation / Benchmarks for Evaluation
+970 | 2306.04387 | M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning | Multimodal Instruction Tuning (& Latest Works) / Datasets of Multimodal Instruction Tuning / Visual Understanding / Multimodal Dataset
+971 | 2306.04362 | Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks | Datasets of Pre-Training for Alignment
+972 | 2306.04356 | Fine-Grained Visual Prompting | Training-Free Prompting
+973 | 2306.02858 | Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding | Multimodal Instruction Tuning (& Latest Works)
+974 | 2306.00890 | LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day | Multimodal Instruction Tuning (& Latest Works) / Datasets of Multimodal Instruction Tuning
+975 | 2306.00693 | Can Large Pre-trained Models Help Vision Models on Perception Tasks? | Others
+976 | 2305.18752 | GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction | Multimodal Instruction Tuning (& Latest Works) / LLM-Aided Visual Reasoning / Datasets of Multimodal Instruction Tuning
+977 | 2305.18500 | VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset | Multimodal Embedding/Retrieval
+978 | 2305.18279 | Contextual Object Detection with Multimodal Large Language Models | Others
+979 | 2305.17216 | Generating Images with Multimodal Language Models | Others / Unified Understanding and Generation
+980 | 2305.17066 | Mindstorms in Natural Language-Based Societies of Mind | LLM-Aided Visual Reasoning
+981 | 2305.16934 | On Evaluating Adversarial Robustness of Large Vision-Language Models | Others
+982 | 2305.16355 | PandaGPT: One Model To Instruction-Follow Them All | Multimodal Instruction Tuning (& Latest Works)
+983 | 2305.16103 | ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst | Multimodal Instruction Tuning (& Latest Works) / Datasets of Multimodal Instruction Tuning
+984 | 2305.15393 | LayoutGPT: Compositional Visual Planning and Generation with Large Language Models | LLM-Aided Visual Reasoning
+985 | 2305.15023 | Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models | Multimodal Instruction Tuning (& Latest Works)
+986 | 2305.15021 | EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought | Multimodal Chain-of-Thought / Datasets of Multimodal Chain-of-Thought
+987 | 2305.14985 | IdealGPT: Iteratively Decomposing Vision and Language Reasoning via Large Language Models | LLM-Aided Visual Reasoning
+988 | 2305.14800 | Exploring Diverse In-Context Configurations for Image Captioning | Multimodal In-Context Learning
+989 | 2305.14314 | QLoRA: Efficient Finetuning of Quantized LLMs | 5.5 Efficient Training and Fine-Tuning
+990 | 2305.14167 | DetGPT: Detect What You Need via Reasoning | Multimodal Instruction Tuning (& Latest Works) / Datasets of Multimodal Instruction Tuning
+991 | 2305.13903 | Let’s Think Frame by Frame: Evaluating Video Chain of Thought with Video Infilling and Prediction | Multimodal Chain-of-Thought / Datasets of Multimodal Chain-of-Thought
+992 | 2305.13786 | Perception Test: A Diagnostic Benchmark for Multimodal Video Models | Video Understanding Benchmark / 🎞️ Video Understanding
+993 | 2305.12223 | What Makes for Good Visual Tokenizers for Large Language Models | Model-Centric Enhancements
+994 | 2305.11834 | Pengi: An Audio Language Model for Audio Tasks | Multimodal Instruction Tuning (& Latest Works)
+995 | 2305.11176 | Instruct2Act: Mapping Multi-Modality Instructions to Robotic Actions with Large Language Model | 4.3.1. Manipulation
+996 | 2305.11175 | VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks | Multimodal Instruction Tuning (& Latest Works)
+997 | 2305.10790 | Listen, Think, and Understand | Multimodal Instruction Tuning (& Latest Works)
+998 | 2305.10512 | IMAD: IMage-Augmented multi-modal Dialogue | Others
+999 | 2305.10415 | PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering | Multimodal Instruction Tuning (& Latest Works) / Datasets of Multimodal Instruction Tuning
+1000 | 2305.10400 | What You See is What You Read? Improving Text-Image Alignment Evaluation | 5.4.1 Multi-modality Alignment

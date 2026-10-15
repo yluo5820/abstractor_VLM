@@ -1,0 +1,66 @@
+# Local experiment archives, downloaded dependencies, and CodeGraph index
+.local/
+.codegraph/
+/tmp/
+
+# Environments, caches, and generated runtime files
+.venv*/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+node_modules/
+.DS_Store
+*.sock
+*.log
+slurm-*.out
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+!.env.sample
+.ssh/
+.aws/
+*.pem
+*.key
+credentials.json
+token.json
+
+# Datasets, model weights, and full experiment outputs
+data/
+datasets/
+cache/
+runs/
+logs/
+checkpoints/
+weights/
+wandb/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.onnx
+*.gguf
+*.npz
+*.npy
+*.parquet
+*.arrow
+*.h5
+*.hdf5
+predictions*.jsonl
+
+# Large distribution bundles; keep lightweight figures and reports
+*.tar
+*.tar.gz
+*.tgz
+*.tar.bz2
+*.tar.xz
+*.zip
+*.7z

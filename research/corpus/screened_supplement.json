@@ -1,0 +1,794 @@
+[
+  {
+    "record_id": 1122,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1123,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1124,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Compressed document expansion collides with generic crop/zoom proposals.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1125,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Adaptive attention versus diversity is already studied.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1126,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1127,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "GUI grounding position preservation exists.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1128,
+    "disposition": "unparseable",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": "Suspicious placeholder arXiv ID in catalogue; excluded from usable records."
+  },
+  {
+    "record_id": 1129,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1130,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1131,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1132,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1133,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1134,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1135,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1136,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Token position preservation is established.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1137,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1138,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1139,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1140,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1141,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Input complexity adaptive pruning exists.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1142,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1143,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1144,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1145,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1146,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1147,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Combining pruning objectives already has dedicated study.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1148,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1149,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1150,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1151,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1152,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1153,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1154,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1155,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1156,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1157,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Video sampling dilemma is established.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1158,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1159,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1160,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1161,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1162,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1163,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1164,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1165,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1166,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Efficiency benchmark is prior work; no generic speed benchmark novelty.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1167,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1168,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1169,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1170,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1171,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1172,
+    "disposition": "exclude_nonvisual",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1173,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1174,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1175,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1176,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "High compression information loss is already studied.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1177,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1178,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1179,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1180,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Query-aware frame and resolution selection is established.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1181,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1182,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1183,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1184,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1185,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1186,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1187,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1188,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1189,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Multi-turn cached visual retrieval is relevant prior.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1190,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Duplicate token removal is prior; distinguish source evidence duplication.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1191,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1192,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1193,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1194,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1195,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1196,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1197,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1198,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Modality-aware attention permutation is established.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1199,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1200,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "KV cache retrieval prior.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1201,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1202,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1203,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1204,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1205,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1206,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1207,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1208,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1209,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1210,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1211,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1212,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1213,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1214,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1215,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Adaptive visual reasoning route prior.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1216,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1217,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Certainty-based adaptive reasoning prior.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1218,
+    "disposition": "vlm_core",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "Long video baseline, expensive outside small subsets.",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1219,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  },
+  {
+    "record_id": 1220,
+    "disposition": "adjacent",
+    "review_depth": "title_and_catalogue_category",
+    "shortlist_reason": "",
+    "reviewer": "root",
+    "note": ""
+  }
+]

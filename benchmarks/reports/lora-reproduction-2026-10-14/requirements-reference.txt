@@ -1,0 +1,12 @@
+# Versions used for the evaluated adapters. Use a PyTorch build suitable for your GPU.
+torch==2.7.1
+transformers==5.1.0
+peft==0.18.1
+accelerate==1.12.0
+safetensors==0.7.0
+Pillow==11.3.0
+num2words==0.5.14
+torchvision==0.22.1
+numpy==2.2.6
+huggingface-hub==1.3.0
+tokenizers==0.22.2

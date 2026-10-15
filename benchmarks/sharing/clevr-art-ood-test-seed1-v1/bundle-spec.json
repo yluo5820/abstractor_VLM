@@ -1,0 +1,23 @@
+{
+  "clevr_commit": "f0ce2c81750bfae09b5bf94d009f42e055f2cb3a",
+  "counts": {
+    "idrules": 10000,
+    "rmts": 10000
+  },
+  "labels_sha256": {
+    "RMTS_ood_test.npz": "a7fe285f30e702551a20225414b84dc3c315b03010481f1403f9564c942bb78a",
+    "identity_rules_ood_test.npz": "cc501460a35402e7922803e755c82e5026927d85b77c5e2ab203e255f69cc387"
+  },
+  "license_git_blobs": {
+    "CLEVR_LICENSE": "691f2ca2ad79755975fc23f3175e21a738040982",
+    "CLEVR_PATENTS": "cd2a8c69b5a153412fa71d9490484b7a05a4cdb8",
+    "LICENSE.md": "27cba578407f199eefd500ccf98f44d30d6f3b01"
+  },
+  "manifests": {
+    "clevr-art-idrules-test-full.jsonl": "320142264ae614c3660a1960cd2b0bef891e38a99faa49b52dcfc0a2c58339fc",
+    "clevr-art-rmts-test-full.jsonl": "f2dc09cad2fa644db952a0df96e40a1e59f91654194771f1e9239f655f4f5496"
+  },
+  "name": "clevr-art-ood-test-seed1-v1",
+  "ocra_commit": "f15fa625d7e5b4458d82c24108b26419037d940d",
+  "render_config_sha256": "db166511959435062ac8a1eeac2991cdf5103a9cdff0da0f9f94b5c66a8fd171"
+}

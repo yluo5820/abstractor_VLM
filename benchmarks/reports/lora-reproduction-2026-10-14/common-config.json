@@ -1,0 +1,91 @@
+{
+  "scope": "Completed LoRA-only runs; separate independent adapter for each model and task. Excludes relational modules and pending epoch-two runs.",
+  "lora": {
+    "r": 16,
+    "lora_alpha": 32,
+    "scaling_alpha_over_r": 2,
+    "lora_dropout": 0.05,
+    "bias": "none",
+    "modules_to_save": null,
+    "target_policy": "All torch.nn.Linear descendants of the text/language backbone only; exact targets per model in models.json",
+    "variant": "standard PEFT LoRA; no DoRA, RS-LoRA or quantization",
+    "initialization": "PEFT 0.18.1 default init_lora_weights=True (A initialized, B zero)"
+  },
+  "optimizer": {
+    "class": "torch.optim.AdamW",
+    "lr": 0.0001,
+    "weight_decay": 0.01,
+    "betas": [
+      0.9,
+      0.999
+    ],
+    "eps": 1e-08,
+    "amsgrad": false,
+    "defaults_note": "betas, eps and amsgrad were PyTorch 2.7.1 defaults, not explicit source overrides",
+    "max_grad_norm": 1.0
+  },
+  "schedule": {
+    "warmup_updates": 20,
+    "formula": "lr(step_zero_based) = 1e-4 * min(1, (step+1)/20)",
+    "after_warmup": "constant; no decay",
+    "resume": "Restore optimizer moments, update counter and RNG; warmup is not restarted"
+  },
+  "batching": {
+    "microbatch_per_gpu": 1,
+    "global_batch": 16,
+    "single_gpu_accumulation": 16,
+    "four_gpu_accumulation_per_gpu": 4,
+    "four_gpu_gradient_reduction": "SUM after each example loss is divided by global-batch size",
+    "short_final_batch": "Initial 9000-question runs use the remaining 8 examples at each epoch boundary and normalize by actual batch size"
+  },
+  "precision": {
+    "base": "bfloat16",
+    "lora_and_optimizer": "float32",
+    "cross_entropy_logits": "float32",
+    "quantization": null,
+    "gradient_checkpointing": false,
+    "attention": "sdpa"
+  },
+  "loss": {
+    "objective": "teacher-forced causal cross entropy on correct answer letter plus native chat-ending tokens",
+    "ignore_index": -100,
+    "masked": "All image/prompt/user-prefix tokens",
+    "reduction": "Mean over supervised continuation tokens for each example, then mean over examples",
+    "warning": "Not an eight-class-only loss: predictable chat-ending tokens also contribute to the denominator. Loss magnitude need not be comparable between model tokenizers."
+  },
+  "frozen": "All pretrained parameters, including vision encoder, multimodal projector/connector, language backbone, embeddings and output head. Only LoRA A/B weights receive gradients.",
+  "train_mode": "model.train(); modules ending in vision_tower, multi_modal_projector, vision_model, visual or connector set to eval()",
+  "seeds": {
+    "base": 20261007,
+    "small_data_shuffle": "random.Random(20261007 + epoch).shuffle(indices)",
+    "large_pgm_order": "fixed nested hash order over shared 240000-question pool, no repeats in epoch one",
+    "large_pgm_dropout": "torch.manual_seed(20261007 + rank) after LoRA initialization/broadcast"
+  },
+  "determinism": {
+    "repair_and_large_pgm": "torch.use_deterministic_algorithms(True); CUBLAS_WORKSPACE_CONFIG=:4096:8",
+    "original_lfm_clevr": "Seeded, but deterministic_algorithms was not enabled; do not promise bitwise rerun equality"
+  },
+  "inference": {
+    "do_sample": false,
+    "num_beams": 1,
+    "max_new_tokens": 16,
+    "use_cache": true,
+    "truncation": false,
+    "scoring": "Strict letter parser; invalid output counts as incorrect"
+  },
+  "data": {
+    "clevr": "Per task: 10000 train-domain questions partitioned by seeded SHA256 ID order into 9000 training and 1000 validation; separate OOD test of 10000",
+    "pgm_small": "9000 official-train questions, 1000 official-validation questions; repeat epochs until time cutoff",
+    "pgm_expanded": "Same fixed 240000 pool (20% of official 1.2M train), same 1000 official-validation subset; partial pool coverage for SmolVLM2/SpatialEvo",
+    "input": "single RGB composite and task-specific prompt through pinned native processor/chat template; no augmentation or answer permutation",
+    "pgm_layout": "700x1016 RGB; eight 160x160 context panels in 3x3 grid with missing ninth cell, eight 160x160 candidates A-H in 2x4 grid",
+    "clevr_layout": "two labeled 320x240 candidate scenes side by side for RMTS (688x342 composite); four in 2x2 for identity (688x630 composite)"
+  },
+  "checkpoint_selection": {
+    "small_runs": "Fixed 128-question validation monitor every 200 optimizer updates, plus endpoint; maximize accuracy, tie-break lower loss; attempt final validation on all 1000",
+    "large_pgm": "128-question monitor every 1000 updates, plus endpoint; maximize accuracy, tie-break lower loss; final selected checkpoint validation on 1000",
+    "lfm_20pct": "Resume selected 144000-example/9000-update checkpoint to prescribed 240000-example/15000-update endpoint; retain optimizer/RNG; evaluate fixed endpoint, not test-selected"
+  },
+  "shared_adapter_directory": "/storage/ice1/9/8/yluo432/public-datasets/vlm-lora-adapters-2026-10-14-v1",
+  "shared_pgm_directory": "/storage/ice1/9/8/yluo432/public-datasets/pgm-neutral-train20pct-seed20261007-v1"
+}

@@ -1,0 +1,2153 @@
+{
+  "summary": {
+    "candidate_records": 1220,
+    "dispositions": {
+      "vlm_core": 1002,
+      "exclude_nonvisual": 17,
+      "adjacent": 199,
+      "unparseable": 2
+    },
+    "focused_unique_papers": 65,
+    "papers_with_selected_full_text_sections": 36,
+    "full_papers_read_cover_to_cover": 0,
+    "caveat": "All counts refer to explicitly recorded depth. A section read is not an all-page review."
+  },
+  "sources": [
+    {
+      "id": "bcea",
+      "title": "Look Again Before You Abstain: Budgeted Conformal Evidence Acquisition for Reliable Vision-Language Models",
+      "arxiv_id": "2606.16667",
+      "url": "https://arxiv.org/abs/2606.16667",
+      "full_text_url": "https://arxiv.org/html/2606.16667",
+      "published": "2026-06-15",
+      "version_date": "2026-07-21",
+      "review_depth": "targeted_full_text",
+      "project_relevance": "Crops, claim-type interventions, post-acquisition calibration already studied; very close collision for adaptive abstention.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Jian Xu",
+        "Yanning Wu",
+        "Delu Zeng",
+        "John Paisley",
+        "Qibin Zhao"
+      ],
+      "date": "2026-06-15",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2606.16667",
+      "inspection_records": [
+        {
+          "depth": "targeted_full_text",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2606.16667"
+        }
+      ]
+    },
+    {
+      "id": "conflvlm",
+      "title": "Towards Statistical Factuality Guarantee for Large Vision-Language Models",
+      "arxiv_id": "2502.20560",
+      "url": "https://arxiv.org/abs/2502.20560",
+      "full_text_url": "https://arxiv.org/html/2502.20560",
+      "published": "2025-02-27",
+      "version_date": null,
+      "review_depth": "abstract",
+      "project_relevance": "Conformal claim filtering with general, medical, document applications.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Zhuohang Li",
+        "Chao Yan",
+        "Nicholas J. Jackson",
+        "Wendi Cui",
+        "Bo Li",
+        "Jiaxin Zhang",
+        "Bradley A. Malin"
+      ],
+      "date": "2025-02-27",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2502.20560",
+      "inspection_records": [
+        {
+          "depth": "abstract",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2502.20560"
+        }
+      ]
+    },
+    {
+      "id": "cap",
+      "title": "Learning Conformal Abstention Policies for Adaptive Risk Management in Large Language and Vision-Language Models",
+      "arxiv_id": "2502.06884",
+      "url": "https://arxiv.org/abs/2502.06884",
+      "full_text_url": "https://arxiv.org/html/2502.06884",
+      "published": "2025-02-08",
+      "version_date": null,
+      "review_depth": "abstract",
+      "project_relevance": "Per-instance conformal abstention policy; broad abstention novelty collision.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "date": "2025-02-08",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2502.06884",
+      "inspection_records": [
+        {
+          "depth": "abstract",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2502.06884"
+        }
+      ]
+    },
+    {
+      "id": "mioh",
+      "title": "Fine-Grained Multi-Image Object Hallucination Benchmark",
+      "arxiv_id": "2608.30653",
+      "url": "https://arxiv.org/abs/2608.30653",
+      "full_text_url": "https://arxiv.org/html/2608.30653",
+      "published": "2026-08-31",
+      "version_date": null,
+      "review_depth": "targeted_full_text",
+      "project_relevance": "Fine-grained multi-image tasks and pressures; number of images, perceptual difficulty, contextual bias.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Joonki Min",
+        "Chaeyun Kim",
+        "Hyungwook Choi",
+        "Yejin Kim",
+        "Kihyun Kim",
+        "Yohan Jo",
+        "Joonseok Lee"
+      ],
+      "date": "2026-08-31",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2608.30653",
+      "inspection_records": [
+        {
+          "depth": "targeted_full_text",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2608.30653"
+        }
+      ]
+    },
+    {
+      "id": "mihbench",
+      "title": "MIHBench: Benchmarking and Mitigating Multi-Image Hallucinations in Multimodal Large Language Models",
+      "arxiv_id": "2508.00726",
+      "url": "https://arxiv.org/abs/2508.00726",
+      "full_text_url": "https://arxiv.org/html/2508.00726",
+      "published": "2025-08",
+      "version_date": null,
+      "review_depth": "targeted_full_text",
+      "project_relevance": "Existence, counting, identity consistency and dynamic attention balancing.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "date": "2025-08",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2508.00726",
+      "inspection_records": [
+        {
+          "depth": "targeted_full_text",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2508.00726"
+        }
+      ]
+    },
+    {
+      "id": "sofa",
+      "title": "Identifying and Mitigating Position Bias of Multi-image Vision-Language Models",
+      "arxiv_id": "2503.13792",
+      "url": "https://arxiv.org/abs/2503.13792",
+      "full_text_url": "https://arxiv.org/html/2503.13792",
+      "published": "2025-03-18",
+      "version_date": null,
+      "review_depth": "targeted_full_text",
+      "project_relevance": "Position bias; training-free interpolation toward bidirectional inter-image attention.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Xinyu Tian",
+        "Shu Zou",
+        "Zhaoyuan Yang",
+        "Jing Zhang"
+      ],
+      "date": "2025-03-18",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2503.13792",
+      "inspection_records": [
+        {
+          "depth": "targeted_full_text",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2503.13792"
+        }
+      ]
+    },
+    {
+      "id": "delimiter",
+      "title": "Enhancing Multi-Image Understanding through Delimiter Token Scaling",
+      "arxiv_id": "2602.01984",
+      "url": "https://arxiv.org/abs/2602.01984",
+      "full_text_url": "https://arxiv.org/html/2602.01984",
+      "published": "2026-02-02",
+      "version_date": null,
+      "review_depth": "abstract_and_primary_pdf_intro",
+      "project_relevance": "Image separation through delimiter hidden-state scaling; low-cost comparator.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Minyoung Lee",
+        "Yeji Park",
+        "Dongjun Hwang",
+        "Yejin Kim",
+        "Seong Joon Oh",
+        "Junsuk Choe"
+      ],
+      "date": "2026-02-02",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2602.01984",
+      "inspection_records": [
+        {
+          "depth": "abstract_and_primary_pdf_intro",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2602.01984"
+        }
+      ]
+    },
+    {
+      "id": "capl",
+      "title": "Looking Back and Forth: Cross-Image Attention Calibration and Attentive Preference Learning for Multi-Image Hallucination Mitigation",
+      "arxiv_id": "2603.07048",
+      "url": "https://arxiv.org/abs/2603.07048",
+      "full_text_url": "https://arxiv.org/html/2603.07048",
+      "published": "2026-03-07",
+      "version_date": null,
+      "review_depth": "targeted_full_text",
+      "project_relevance": "Selective inter-image attention plus preference learning; fixed mask mixing and alternating layer strategy.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Xiaochen Yang",
+        "Hao Fang",
+        "Jiawei Kong",
+        "Yaoxin Mao",
+        "Bin Chen",
+        "Shu-Tao Xia"
+      ],
+      "date": "2026-03-07",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2603.07048",
+      "inspection_records": [
+        {
+          "depth": "targeted_full_text",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2603.07048"
+        }
+      ]
+    },
+    {
+      "id": "cgc",
+      "title": "CGC: Compositional Grounded Contrast for Fine-Grained Multi-Image Understanding",
+      "arxiv_id": "2604.22498",
+      "url": "https://arxiv.org/abs/2604.22498",
+      "full_text_url": "https://arxiv.org/html/2604.22498",
+      "published": "2026-04-24",
+      "version_date": null,
+      "review_depth": "targeted_full_text",
+      "project_relevance": "Source-aware grounding, correlated crops, object constancy already used for GRPO.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Lihao Zheng",
+        "Zhenwei Shao",
+        "Yu Zhou",
+        "Yan Yang",
+        "Xintian Shen",
+        "Jiawei Chen",
+        "Hao Ma",
+        "Tao Wei"
+      ],
+      "date": "2026-04-24",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2604.22498",
+      "inspection_records": [
+        {
+          "depth": "targeted_full_text",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2604.22498"
+        }
+      ]
+    },
+    {
+      "id": "focus",
+      "title": "Mitigating Cross-Image Information Leakage in LVLMs for Multi-Image Tasks",
+      "arxiv_id": "2508.13744",
+      "url": "https://arxiv.org/abs/2508.13744",
+      "full_text_url": "https://arxiv.org/html/2508.13744",
+      "published": "2025-08",
+      "version_date": null,
+      "review_depth": "abstract",
+      "project_relevance": "Training-free architecture-agnostic focused decoding; source isolation comparator.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "date": "2025-08",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2508.13744",
+      "inspection_records": [
+        {
+          "depth": "abstract",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2508.13744"
+        }
+      ]
+    },
+    {
+      "id": "mvhrscd",
+      "title": "Revealing Multi-View Hallucination in Large Vision-Language Models",
+      "arxiv_id": "2603.23934",
+      "url": "https://arxiv.org/abs/2603.23934",
+      "full_text_url": "https://arxiv.org/html/2603.23934",
+      "published": "2026-03-25",
+      "version_date": null,
+      "review_depth": "targeted_full_text",
+      "project_relevance": "Cross-view/cross-instance benchmark and contrastive text-attention masking.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Wooje Park",
+        "Insu Lee",
+        "Soohyun Kim",
+        "Jaeyun Jang",
+        "Minyoung Noh",
+        "Kyuhong Shim",
+        "Byonghyo Shim"
+      ],
+      "date": "2026-03-25",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2603.23934",
+      "inspection_records": [
+        {
+          "depth": "targeted_full_text",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2603.23934"
+        }
+      ]
+    },
+    {
+      "id": "avam",
+      "title": "AVAM: Universal Training-free Adaptive Visual Anchoring Embedded into Multimodal Large Language Model for Multi-image Question Answering",
+      "arxiv_id": "2508.17860",
+      "url": "https://arxiv.org/abs/2508.17860",
+      "full_text_url": "https://arxiv.org/html/2508.17860",
+      "published": "2025-08-25",
+      "version_date": null,
+      "review_depth": "abstract_and_primary_pdf_intro",
+      "project_relevance": "Adaptive contiguous visual compression and collaborative decoding; adaptive selection comparator.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Kang Zeng",
+        "Guojin Zhong",
+        "Jintao Cheng",
+        "Jin Yuan",
+        "Zhiyong Li"
+      ],
+      "date": "2025-08-25",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2508.17860",
+      "inspection_records": [
+        {
+          "depth": "abstract_and_primary_pdf_intro",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2508.17860"
+        }
+      ]
+    },
+    {
+      "id": "mmaqa",
+      "title": "Knowing When Not to Answer: Evaluating Abstention in Multimodal Reasoning Systems",
+      "arxiv_id": "2604.14799",
+      "url": "https://arxiv.org/abs/2604.14799",
+      "full_text_url": "https://arxiv.org/html/2604.14799",
+      "published": "2026-04-16",
+      "version_date": null,
+      "review_depth": "abstract",
+      "project_relevance": "Matched evidence sufficiency and modality dependency transformations; degraded/contradictory evidence failure.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Nishanth Madhusudhan",
+        "Vikas Yadav",
+        "Alexandre Lacoste"
+      ],
+      "date": "2026-04-16",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2604.14799",
+      "inspection_records": [
+        {
+          "depth": "abstract",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2604.14799"
+        }
+      ]
+    },
+    {
+      "id": "traps",
+      "title": "TRAPSBench: Vision-Language Models Encode but Fail to Express Epistemic Restraint",
+      "arxiv_id": "2608.13167",
+      "url": "https://arxiv.org/abs/2608.13167",
+      "full_text_url": "https://arxiv.org/html/2608.13167",
+      "published": "2026-08-13",
+      "version_date": null,
+      "review_depth": "targeted_full_text",
+      "project_relevance": "Matched physics video pairs, answerability probes and activation steering already studied.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Fnu Pramono",
+        "John Cai",
+        "Sourabh Kulkarni"
+      ],
+      "date": "2026-08-13",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2608.13167",
+      "inspection_records": [
+        {
+          "depth": "targeted_full_text",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2608.13167"
+        },
+        {
+          "depth": "selected_full_text_sections",
+          "origin": "sources_agents_reasoning.json",
+          "read_url": "https://arxiv.org/html/2608.13167v1"
+        }
+      ]
+    },
+    {
+      "id": "quantuncertainty",
+      "title": "Bigger or Cheaper? Scale and Quantization Effects on Uncertainty Signals in Vision-Language Models Under Image Degradation",
+      "arxiv_id": "2607.24440",
+      "url": "https://arxiv.org/abs/2607.24440",
+      "full_text_url": "https://arxiv.org/html/2607.24440",
+      "published": "2026-07-27",
+      "version_date": null,
+      "review_depth": "abstract",
+      "project_relevance": "Direct collision for generic quantization-confidence study.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "M M Asif Ferdous"
+      ],
+      "date": "2026-07-27",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2607.24440",
+      "inspection_records": [
+        {
+          "depth": "abstract",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2607.24440"
+        }
+      ]
+    },
+    {
+      "id": "beforeflip",
+      "title": "BEFORE THE FLIP: Measuring Hidden Score Shifts In Quantized Vision Language Models Before The Answer Changes for Visual Question Answering",
+      "arxiv_id": "2609.06922",
+      "url": "https://arxiv.org/abs/2609.06922",
+      "full_text_url": "https://arxiv.org/html/2609.06922",
+      "published": "2026-09-07",
+      "version_date": null,
+      "review_depth": "abstract",
+      "project_relevance": "Direct collision for quantization-induced latent grounding shifts; reports no robust gain from question-specific bit allocation.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Sourajit Saha",
+        "Shubhashis Roy Dipta",
+        "Shaswati Saha",
+        "Nobin Sarwar",
+        "Yuxuan Jiang"
+      ],
+      "date": "2026-09-07",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2609.06922",
+      "inspection_records": [
+        {
+          "depth": "abstract",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2609.06922"
+        }
+      ]
+    },
+    {
+      "id": "causalsufficiency",
+      "title": "Hacking Hallucinations of MLLMs with Causal Sufficiency and Necessity",
+      "arxiv_id": "2508.04182",
+      "url": "https://arxiv.org/abs/2508.04182",
+      "full_text_url": "https://arxiv.org/html/2508.04182",
+      "published": "2025-08-06",
+      "version_date": null,
+      "review_depth": "targeted_full_text",
+      "project_relevance": "Causal sufficiency/necessity of inference tokens for GRPO; no broad novelty for these concepts.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Peizheng Guo",
+        "Jingyao Wang",
+        "Wenwen Qiang",
+        "Huijie Guo",
+        "Changwen Zheng",
+        "Jiahuan Zhou",
+        "Gang Hua"
+      ],
+      "date": "2025-08-06",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2508.04182",
+      "inspection_records": [
+        {
+          "depth": "targeted_full_text",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2508.04182"
+        }
+      ]
+    },
+    {
+      "id": "treble",
+      "title": "Treble Counterfactual VLMs: A Causal Approach to Hallucination",
+      "arxiv_id": "2503.06169",
+      "url": "https://arxiv.org/abs/2503.06169",
+      "full_text_url": "https://arxiv.org/html/2503.06169",
+      "published": "2025-03-08",
+      "version_date": null,
+      "review_depth": "abstract",
+      "project_relevance": "Modality-specific and cross-modal causal interventions; generic visual ablation is crowded.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "date": "2025-03-08",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2503.06169",
+      "inspection_records": [
+        {
+          "depth": "abstract",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2503.06169"
+        }
+      ]
+    },
+    {
+      "id": "safeplaying",
+      "title": "Does Playing it Safe Count as Faithfulness? Reassessing LVLM Hallucination Mitigation Methods",
+      "arxiv_id": "2609.01888",
+      "url": "https://arxiv.org/abs/2609.01888",
+      "full_text_url": "https://arxiv.org/html/2609.01888",
+      "published": "2026-09-01",
+      "version_date": null,
+      "review_depth": "abstract",
+      "project_relevance": "Hallucination reductions can reflect less informative responses; broad informativeness critique already exists.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Mehrdad Fazli",
+        "Sina Mansouri",
+        "Mohit Marvania",
+        "Ziwei Zhu"
+      ],
+      "date": "2026-09-01",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2609.01888",
+      "inspection_records": [
+        {
+          "depth": "abstract",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2609.01888"
+        }
+      ]
+    },
+    {
+      "id": "truthlens",
+      "title": "TruthLens: Object Hallucination Detection via Self-Evaluating Truthfulness Scores in LVLMs",
+      "arxiv_id": "2608.05616",
+      "url": "https://arxiv.org/abs/2608.05616",
+      "full_text_url": "https://arxiv.org/html/2608.05616",
+      "published": "2026-08-06",
+      "version_date": null,
+      "review_depth": "abstract",
+      "project_relevance": "Special-token truthfulness signal and small fine-tuning; not novel to expose latent correctness.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Yanqi Wu",
+        "Runhe Lai",
+        "Xinhua Lu",
+        "Qichao Chen",
+        "Zhiping Zhou",
+        "Jia-Xin Zhuang",
+        "Weijiang Yu",
+        "Ruixuan Wang"
+      ],
+      "date": "2026-08-06",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2608.05616",
+      "inspection_records": [
+        {
+          "depth": "abstract",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2608.05616"
+        }
+      ]
+    },
+    {
+      "id": "halp",
+      "title": "HALP: Detecting Hallucinations in Vision-Language Models without Generating a Single Token",
+      "arxiv_id": "2603.05465",
+      "url": "https://arxiv.org/abs/2603.05465",
+      "full_text_url": "https://arxiv.org/html/2603.05465",
+      "published": "2026-03-05",
+      "version_date": null,
+      "review_depth": "abstract",
+      "project_relevance": "Single-pass pre-generation hallucination probes; broad cheap detector idea already done.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Sai Akhil Kogilathota",
+        "Sripadha Vallabha E G",
+        "Luzhe Sun",
+        "Jiawei Zhou"
+      ],
+      "date": "2026-03-05",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2603.05465",
+      "inspection_records": [
+        {
+          "depth": "abstract",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2603.05465"
+        }
+      ]
+    },
+    {
+      "id": "vlcalibration",
+      "title": "VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning",
+      "arxiv_id": "2604.09529",
+      "url": "https://arxiv.org/abs/2604.09529",
+      "full_text_url": "https://arxiv.org/html/2604.09529",
+      "published": "2026-04-10",
+      "version_date": null,
+      "review_depth": "abstract",
+      "project_relevance": "Separate visual/reasoning confidence, perturbation KL plus token entropy; direct confidence decomposition collision.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Wenyi Xiao",
+        "Xinchi Xu",
+        "Leilei Gan"
+      ],
+      "date": "2026-04-10",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2604.09529",
+      "inspection_records": [
+        {
+          "depth": "abstract",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2604.09529"
+        }
+      ]
+    },
+    {
+      "id": "needwords",
+      "title": "VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors",
+      "arxiv_id": "2604.02486",
+      "url": "https://arxiv.org/abs/2604.02486",
+      "full_text_url": "https://arxiv.org/html/2604.02486",
+      "published": "2026-04-02",
+      "version_date": "2026-08-04",
+      "review_depth": "abstract",
+      "project_relevance": "Semantic names/arbitrary anchors help fine-grained perception; naming-based method already studied.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Haz Sameen Shahgir",
+        "Xiaofu Chen",
+        "Yu Fu",
+        "Erfan Shayegani",
+        "Nael Abu-Ghazaleh",
+        "Yova Kementchedjhieva",
+        "Yue Dong"
+      ],
+      "date": "2026-04-02",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://arxiv.org/abs/2604.02486",
+      "inspection_records": [
+        {
+          "depth": "abstract",
+          "origin": "sources_reliability.json",
+          "read_url": "https://arxiv.org/html/2604.02486"
+        }
+      ]
+    },
+    {
+      "id": "mimic",
+      "title": "More Images, More Problems? A Controlled Analysis of VLM Failure Modes.",
+      "url": "https://aclanthology.org/2026.findings-acl.366/",
+      "full_text_url": "https://aclanthology.org/2026.findings-acl.366.pdf",
+      "published": "2026-07",
+      "review_depth": "targeted_full_text",
+      "project_relevance": "Already controls image count versus sequence length and information spread; masking late inter-image attention and procedural training.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Anurag Das",
+        "Adrian Bulat",
+        "Alberto Baldrati",
+        "Ioannis Maniadis Metaxas",
+        "Bernt Schiele",
+        "Georgios Tzimiropoulos",
+        "Brais Martinez"
+      ],
+      "date": "2026-07",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://aclanthology.org/2026.findings-acl.366/",
+      "inspection_records": [
+        {
+          "depth": "targeted_full_text",
+          "origin": "sources_reliability.json",
+          "read_url": "https://aclanthology.org/2026.findings-acl.366.pdf"
+        }
+      ]
+    },
+    {
+      "id": "utilitymrag",
+      "title": "Utility-Oriented Visual Evidence Selection for Multimodal Retrieval-Augmented Generation",
+      "url": "https://aclanthology.org/2026.acl-long.1620/",
+      "full_text_url": "https://aclanthology.org/2026.acl-long.1620.pdf",
+      "published": "2026-07",
+      "review_depth": "abstract",
+      "project_relevance": "Training-free lightweight utility selector; essential comparator for evidence selection.",
+      "source_type": "primary_paper",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Weiqing Luo",
+        "Zongye Hu",
+        "Xiao Wang",
+        "Zhiyuan Yu",
+        "Haofeng Zhang",
+        "Ziyi Huang"
+      ],
+      "date": "2026-07",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://aclanthology.org/2026.acl-long.1620/",
+      "inspection_records": [
+        {
+          "depth": "abstract",
+          "origin": "sources_reliability.json",
+          "read_url": "https://aclanthology.org/2026.acl-long.1620.pdf"
+        }
+      ]
+    },
+    {
+      "id": "countingcopies",
+      "title": "Counting Copies as Evidence: Confidence Inflation from Dependent Evidence in Retrieval-Augmented Generation (RAG)",
+      "url": "https://www.researchgate.net/publication/412230355_Counting_Copies_as_Evidence_Confidence_Inflation_from_Dependent_Evidence_in_Retrieval-Augmented_Generation_RAG",
+      "doi": "10.5281/zenodo.21923648",
+      "published": "2026-08",
+      "review_depth": "targeted_full_text_author_uploaded",
+      "project_relevance": "Direct conceptual prior on provenance and confidence inflation. Position paper proposing research agenda, not a completed empirical VLM result.",
+      "source_type": "primary_author_preprint",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Irwan Rahadi"
+      ],
+      "date": "2026-08",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://www.researchgate.net/publication/412230355_Counting_Copies_as_Evidence_Confidence_Inflation_from_Dependent_Evidence_in_Retrieval-Augmented_Generation_RAG",
+      "inspection_records": [
+        {
+          "depth": "targeted_full_text_author_uploaded",
+          "origin": "sources_reliability.json",
+          "read_url": "https://www.researchgate.net/publication/412230355_Counting_Copies_as_Evidence_Confidence_Inflation_from_Dependent_Evidence_in_Retrieval-Augmented_Generation_RAG"
+        }
+      ]
+    },
+    {
+      "id": "nlvr",
+      "title": "Natural Language for Visual Reasoning / NLVR2 official data",
+      "url": "https://lil.nlp.cornell.edu/nlvr/",
+      "review_depth": "official_dataset_page",
+      "project_relevance": "Natural photographs with compositional quantified statements; image access may require form.",
+      "source_type": "primary_dataset",
+      "accessed": "2026-09-14",
+      "date": "n.d.",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://lil.nlp.cornell.edu/nlvr/",
+      "inspection_records": [
+        {
+          "depth": "official_dataset_page",
+          "origin": "sources_reliability.json",
+          "read_url": "https://lil.nlp.cornell.edu/nlvr/"
+        }
+      ]
+    },
+    {
+      "id": "coco",
+      "title": "COCO official dataset",
+      "url": "https://cocodataset.org/",
+      "review_depth": "official_dataset_page",
+      "project_relevance": "Existing object annotations support cheap controlled galleries; absence labels require manual checks.",
+      "source_type": "primary_dataset",
+      "accessed": "2026-09-14",
+      "date": "n.d.",
+      "ledger_origin": "sources_reliability.json",
+      "citation_url": "https://cocodataset.org/",
+      "inspection_records": [
+        {
+          "depth": "official_dataset_page",
+          "origin": "sources_reliability.json",
+          "read_url": "https://cocodataset.org/"
+        }
+      ]
+    },
+    {
+      "id": "qwen25_3b",
+      "title": "Qwen2.5-VL-3B-Instruct",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct",
+      "review_depth": "official_model_card",
+      "project_relevance": "Compact open local baseline with multi-image inputs.",
+      "source_type": "primary_model_card",
+      "accessed": "2026-09-14",
+      "date": "official model card; accessed 2026-09-14",
+      "ledger_origin": "sources_reliability.json",
+      "authors": [
+        "Qwen team"
+      ],
+      "citation_url": "https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct",
+      "inspection_records": [
+        {
+          "depth": "official_model_card",
+          "origin": "sources_reliability.json",
+          "read_url": "https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct"
+        }
+      ]
+    },
+    {
+      "id": "qwen3_4b",
+      "title": "Qwen3-VL-4B-Instruct",
+      "url": "https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct",
+      "review_depth": "official_model_card",
+      "project_relevance": "More recent compact open baseline; cross-family replication still required.",
+      "source_type": "primary_model_card",
+      "accessed": "2026-09-14",
+      "date": "official model card; accessed 2026-09-14",
+      "ledger_origin": "sources_reliability.json",
+      "authors": [
+        "Qwen team"
+      ],
+      "citation_url": "https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct",
+      "inspection_records": [
+        {
+          "depth": "official_model_card",
+          "origin": "sources_reliability.json",
+          "read_url": "https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct"
+        }
+      ]
+    },
+    {
+      "key": "fastv",
+      "arxiv_id": "2403.06764",
+      "title": "An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models",
+      "first_public_date": "2024-03-11",
+      "review_depth": "abstract_and_metadata",
+      "primary_url": "https://arxiv.org/abs/2403.06764",
+      "review_notes": "Historical early-layer attention pruning baseline",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Chen, Liang",
+        "Zhao, Haozhe",
+        "Liu, Tianyu",
+        "Bai, Shuai",
+        "Lin, Junyang",
+        "Zhou, Chang",
+        "Chang, Baobao"
+      ],
+      "abstract_url": "https://arxiv.org/abs/2403.06764",
+      "citation_date": "2024/03/11",
+      "canonical_title_from_meta": "An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models",
+      "metadata_fetch": "primary_arxiv_html",
+      "url": "https://arxiv.org/abs/2403.06764",
+      "date": "2024-03-11",
+      "ledger_origin": "sources_efficiency.json",
+      "citation_url": "https://arxiv.org/abs/2403.06764",
+      "inspection_records": [
+        {
+          "depth": "abstract_and_metadata",
+          "origin": "sources_efficiency.json",
+          "read_url": "https://arxiv.org/abs/2403.06764"
+        }
+      ]
+    },
+    {
+      "key": "feather",
+      "arxiv_id": null,
+      "title": "Feather the Throttle: Revisiting Visual Token Pruning for Vision-Language Model Acceleration",
+      "first_public_date": "2025",
+      "review_depth": "author_project_methods_results",
+      "primary_url": "https://web.stanford.edu/~markendo/projects/feather",
+      "review_notes": "Positional bias, localization degradation, uniform spatial coverage and staged pruning",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Mark Endo",
+        "Xiaohan Wang",
+        "Serena Yeung-Levy"
+      ],
+      "url": "https://web.stanford.edu/~markendo/projects/feather",
+      "date": "2025",
+      "ledger_origin": "sources_efficiency.json",
+      "citation_url": "https://web.stanford.edu/~markendo/projects/feather",
+      "inspection_records": [
+        {
+          "depth": "author_project_methods_results",
+          "origin": "sources_efficiency.json",
+          "read_url": "https://web.stanford.edu/~markendo/projects/feather"
+        }
+      ]
+    },
+    {
+      "key": "posprune",
+      "arxiv_id": null,
+      "title": "PosPrune: Visual Token Pruning with Positional Bias Correction for Efficient Large Vision-Language Models",
+      "first_public_date": "2026-03-14",
+      "review_depth": "primary_abstract",
+      "primary_url": "https://ojs.aaai.org/index.php/AAAI/article/view/38020",
+      "review_notes": "Region-aware pruning and positional correction",
+      "accessed": "2026-09-14",
+      "authors": null,
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/38020",
+      "date": "2026-03-14",
+      "ledger_origin": "sources_efficiency.json",
+      "citation_url": "https://ojs.aaai.org/index.php/AAAI/article/view/38020",
+      "inspection_records": [
+        {
+          "depth": "primary_abstract",
+          "origin": "sources_efficiency.json",
+          "read_url": "https://ojs.aaai.org/index.php/AAAI/article/view/38020"
+        }
+      ]
+    },
+    {
+      "key": "et_prune",
+      "arxiv_id": "2608.01979",
+      "title": "ET-Prune: Evidence-Aware Dynamic Budgeting for Visual Token Pruning in Text-Rich MLLMs",
+      "first_public_date": "2026-08-03",
+      "review_depth": "full_text_sections",
+      "primary_url": "https://arxiv.org/html/2608.01979v1",
+      "review_notes": "Read methods incl equations 2-9, evaluation setup, calibration subset and retention tables; direct OCR evidence collision",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Ding, Zizhong",
+        "Li, Junxian",
+        "Liu, Kai",
+        "Zhang, Shaoqiu",
+        "Xiao, Xiao",
+        "Kong, Linghe",
+        "Zhang, Yulun"
+      ],
+      "abstract_url": "https://arxiv.org/abs/2608.01979",
+      "citation_date": "2026/08/03",
+      "canonical_title_from_meta": "ET-Prune: Evidence-Aware Dynamic Budgeting for Visual Token Pruning in Text-Rich MLLMs",
+      "metadata_fetch": "primary_arxiv_html",
+      "url": "https://arxiv.org/html/2608.01979v1",
+      "date": "2026-08-03",
+      "ledger_origin": "sources_efficiency.json",
+      "citation_url": "https://arxiv.org/abs/2608.01979",
+      "inspection_records": [
+        {
+          "depth": "full_text_sections",
+          "origin": "sources_efficiency.json",
+          "read_url": "https://arxiv.org/html/2608.01979v1"
+        }
+      ]
+    },
+    {
+      "key": "e2s",
+      "arxiv_id": "2608.23253",
+      "title": "E2S-Pruner: Progressive Two-Stage Evidence Fusion for Visual Token Pruning in Vision-Language Models",
+      "first_public_date": "2026-08-24",
+      "review_depth": "abstract_and_metadata",
+      "primary_url": "https://arxiv.org/abs/2608.23253",
+      "review_notes": "Evidence uncertainty and spatial novelty constraints are existing work",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Qian, Taoyu",
+        "Wang, Qi",
+        "Shi, Daqian",
+        "Jiang, Yuanhao",
+        "Gao, Shang",
+        "Yu, Hualong"
+      ],
+      "abstract_url": "https://arxiv.org/abs/2608.23253",
+      "citation_date": "2026/08/24",
+      "canonical_title_from_meta": "E2S-Pruner: Progressive Two-Stage Evidence Fusion for Visual Token Pruning in Vision-Language Models",
+      "metadata_fetch": "primary_arxiv_html",
+      "url": "https://arxiv.org/abs/2608.23253",
+      "date": "2026-08-24",
+      "ledger_origin": "sources_efficiency.json",
+      "citation_url": "https://arxiv.org/abs/2608.23253",
+      "inspection_records": [
+        {
+          "depth": "abstract_and_metadata",
+          "origin": "sources_efficiency.json",
+          "read_url": "https://arxiv.org/abs/2608.23253"
+        }
+      ]
+    },
+    {
+      "key": "sagem",
+      "arxiv_id": "2608.15075",
+      "title": "SA-GEM: Scale-Adaptive and Geospatial Evidence-Modulated Token Pruning for Efficient Remote Sensing Large Vision-Language Models",
+      "first_public_date": "2026-08-15",
+      "review_depth": "abstract_and_metadata",
+      "primary_url": "https://arxiv.org/abs/2608.15075",
+      "review_notes": "Remote-sensing resolution and evidence routing collision",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Ma, Kexin",
+        "Xiao, Jing",
+        "Xing, Bowen",
+        "Liao, Liang",
+        "Lin, Chia-Wen"
+      ],
+      "abstract_url": "https://arxiv.org/abs/2608.15075",
+      "citation_date": "2026/08/15",
+      "canonical_title_from_meta": "SA-GEM: Scale-Adaptive and Geospatial Evidence-Modulated Token Pruning for Efficient Remote Sensing Large Vision-Language Models",
+      "metadata_fetch": "primary_arxiv_html",
+      "url": "https://arxiv.org/abs/2608.15075",
+      "date": "2026-08-15",
+      "ledger_origin": "sources_efficiency.json",
+      "citation_url": "https://arxiv.org/abs/2608.15075",
+      "inspection_records": [
+        {
+          "depth": "abstract_and_metadata",
+          "origin": "sources_efficiency.json",
+          "read_url": "https://arxiv.org/abs/2608.15075"
+        }
+      ]
+    },
+    {
+      "key": "apet",
+      "arxiv_id": null,
+      "title": "ApET: Approximation-Error Guided Token Compression for Efficient VLMs",
+      "first_public_date": "2026-06",
+      "review_depth": "primary_abstract",
+      "primary_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Ma_ApET_Approximation-Error_Guided_Token_Compression_for_Efficient_VLMs_CVPR_2026_paper.html",
+      "review_notes": "Non-attention reconstruction-error compression baseline",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Qiankun Ma",
+        "Ziyao Zhang",
+        "Haofei Wang",
+        "Zhen Song",
+        "Jie Chen",
+        "Hairong Zheng"
+      ],
+      "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Ma_ApET_Approximation-Error_Guided_Token_Compression_for_Efficient_VLMs_CVPR_2026_paper.html",
+      "date": "2026-06",
+      "ledger_origin": "sources_efficiency.json",
+      "citation_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Ma_ApET_Approximation-Error_Guided_Token_Compression_for_Efficient_VLMs_CVPR_2026_paper.html",
+      "inspection_records": [
+        {
+          "depth": "primary_abstract",
+          "origin": "sources_efficiency.json",
+          "read_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Ma_ApET_Approximation-Error_Guided_Token_Compression_for_Efficient_VLMs_CVPR_2026_paper.html"
+        }
+      ]
+    },
+    {
+      "key": "spatial_binding",
+      "arxiv_id": "2603.22278",
+      "title": "The Dual Mechanisms of Spatial Variable Binding in Vision-Language Models",
+      "first_public_date": "2026-03-23",
+      "review_depth": "author_project_methods_results_and_abstract",
+      "primary_url": "https://spatial.baulab.info/",
+      "review_notes": "Read setup, object versus strip causal patching, models and natural-image extension; v2 metadata revised 2026-06-04",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Cui, Kelly",
+        "Prakash, Nikhil",
+        "Messica, Shoval",
+        "Raina, Ayush",
+        "Bau, David",
+        "Torralba, Antonio",
+        "Shaham, Tamar Rott"
+      ],
+      "abstract_url": "https://arxiv.org/abs/2603.22278",
+      "citation_date": "2026/03/23",
+      "canonical_title_from_meta": "The Dual Mechanisms of Spatial Variable Binding in Vision-Language Models",
+      "metadata_fetch": "primary_arxiv_html",
+      "url": "https://spatial.baulab.info/",
+      "date": "2026-03-23",
+      "ledger_origin": "sources_efficiency.json",
+      "citation_url": "https://arxiv.org/abs/2603.22278",
+      "inspection_records": [
+        {
+          "depth": "author_project_methods_results_and_abstract",
+          "origin": "sources_efficiency.json",
+          "read_url": "https://spatial.baulab.info/"
+        }
+      ]
+    },
+    {
+      "key": "less_is_more",
+      "arxiv_id": "2601.12042",
+      "title": "Less Is More — Until It Breaks: Security Pitfalls of Vision Token Compression in Large Vision-Language Models",
+      "first_public_date": "2026-01",
+      "review_depth": "full_text_sections",
+      "primary_url": "https://arxiv.org/html/2601.12042v1",
+      "review_notes": "Read robustness setup, ranking mechanism, compression-aware attack and experiment/ablation sections",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Zhang, Xiaomei",
+        "Zhang, Zhaoxi",
+        "Zhang, Leo Yu",
+        "Zhang, Yanjun",
+        "Tao, Guanhong",
+        "Pan, Shirui"
+      ],
+      "abstract_url": "https://arxiv.org/abs/2601.12042",
+      "citation_date": "2026/01/17",
+      "canonical_title_from_meta": "Less Is More -- Until It Breaks: Security Pitfalls of Vision Token Compression in Large Vision-Language Models",
+      "metadata_fetch": "primary_arxiv_html",
+      "url": "https://arxiv.org/html/2601.12042v1",
+      "date": "2026-01",
+      "ledger_origin": "sources_efficiency.json",
+      "citation_url": "https://arxiv.org/abs/2601.12042",
+      "inspection_records": [
+        {
+          "depth": "full_text_sections",
+          "origin": "sources_efficiency.json",
+          "read_url": "https://arxiv.org/html/2601.12042v1"
+        }
+      ]
+    },
+    {
+      "key": "cares",
+      "arxiv_id": "2510.19496",
+      "title": "CARES: Context-Aware Resolution Selector for VLMs",
+      "first_public_date": "2025-10-22",
+      "review_depth": "primary_method_excerpt_and_abstract",
+      "primary_url": "https://aclanthology.org/2026.acl-long.102.pdf",
+      "review_notes": "Read sufficient-resolution labels and proxy method in ACL primary PDF excerpt; abstract verified on arXiv",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Kimhi, Moshe",
+        "Shabtay, Nimrod",
+        "Giryes, Raja",
+        "Baskin, Chaim",
+        "Schwartz, Eli"
+      ],
+      "abstract_url": "https://arxiv.org/abs/2510.19496",
+      "citation_date": "2025/10/22",
+      "canonical_title_from_meta": "CARES: Context-Aware Resolution Selector for VLMs",
+      "metadata_fetch": "primary_arxiv_html",
+      "url": "https://aclanthology.org/2026.acl-long.102.pdf",
+      "date": "2025-10-22",
+      "ledger_origin": "sources_efficiency.json",
+      "citation_url": "https://arxiv.org/abs/2510.19496",
+      "inspection_records": [
+        {
+          "depth": "primary_method_excerpt_and_abstract",
+          "origin": "sources_efficiency.json",
+          "read_url": "https://aclanthology.org/2026.acl-long.102.pdf"
+        }
+      ]
+    },
+    {
+      "key": "virgo",
+      "arxiv_id": "2606.21968",
+      "title": "Look Before You Zoom: Adaptive Routing for the Resolution-Context Trade-off in Visual RAG",
+      "first_public_date": "2026-06-20",
+      "review_depth": "full_text_sections",
+      "primary_url": "https://arxiv.org/html/2606.21968v1",
+      "review_notes": "Read setup, scale failure modes and methods introduction; global/attention/patch routing collision",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Tran, Oanh N.",
+        "Le, Thanh Quoc Hung",
+        "Chew, Oscar",
+        "Huang, Kuan-Hao",
+        "Doan, Khoa D."
+      ],
+      "abstract_url": "https://arxiv.org/abs/2606.21968",
+      "citation_date": "2026/06/20",
+      "canonical_title_from_meta": "Look Before You Zoom: Adaptive Routing for the Resolution-Context Trade-off in Visual RAG",
+      "metadata_fetch": "primary_arxiv_html",
+      "url": "https://arxiv.org/html/2606.21968v1",
+      "date": "2026-06-20",
+      "ledger_origin": "sources_efficiency.json",
+      "citation_url": "https://arxiv.org/abs/2606.21968",
+      "inspection_records": [
+        {
+          "depth": "full_text_sections",
+          "origin": "sources_efficiency.json",
+          "read_url": "https://arxiv.org/html/2606.21968v1"
+        }
+      ]
+    },
+    {
+      "key": "lazymcot",
+      "arxiv_id": "2606.16158",
+      "title": "Focus When Necessary: Adaptive Routing and Collaborative Grounding for Training-Free Visual Grounding",
+      "first_public_date": "2026-06-15",
+      "review_depth": "full_text_sections",
+      "primary_url": "https://arxiv.org/html/2606.16158v1",
+      "review_notes": "Read first-token features, GBDT, conformal must-recall subset, routing, experiments and alpha sweep; official repo README also inspected",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Wang, Yifan",
+        "Li, Peiming",
+        "Li, Shiyu",
+        "Hu, Zhiyuan",
+        "Yang, Xiaochen",
+        "Yang, Wenming",
+        "Tang, Yang",
+        "Wei, Zheng"
+      ],
+      "abstract_url": "https://arxiv.org/abs/2606.16158",
+      "citation_date": "2026/06/15",
+      "canonical_title_from_meta": "Focus When Necessary: Adaptive Routing and Collaborative Grounding for Training-Free Visual Grounding",
+      "metadata_fetch": "primary_arxiv_html",
+      "url": "https://arxiv.org/html/2606.16158v1",
+      "date": "2026-06-15",
+      "ledger_origin": "sources_efficiency.json",
+      "citation_url": "https://arxiv.org/abs/2606.16158",
+      "inspection_records": [
+        {
+          "depth": "full_text_sections",
+          "origin": "sources_efficiency.json",
+          "read_url": "https://arxiv.org/html/2606.16158v1"
+        }
+      ]
+    },
+    {
+      "key": "safe_cascade",
+      "arxiv_id": "2606.19646",
+      "title": "SAFE-Cascade: Cost-Adaptive Vision-Language Routing for Chart Question Answering",
+      "first_public_date": "2026-06",
+      "review_depth": "full_text_sections",
+      "primary_url": "https://arxiv.org/html/2606.19646v1",
+      "review_notes": "Read system design and held-out experiment; cite as available preprint, not claim future conference already happened",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Dwivedi, Ayush",
+        "Wang, Qixin",
+        "Soni, Ashvi",
+        "Wang, Ruoteng",
+        "Li, Han",
+        "Mahapatra, Animesh",
+        "Agrawal, Neeraj",
+        "Wu, Xintao"
+      ],
+      "abstract_url": "https://arxiv.org/abs/2606.19646",
+      "citation_date": "2026/06/17",
+      "canonical_title_from_meta": "SAFE-Cascade: Cost-Adaptive Vision-Language Routing for Chart Question Answering",
+      "metadata_fetch": "primary_arxiv_html",
+      "url": "https://arxiv.org/html/2606.19646v1",
+      "date": "2026-06",
+      "ledger_origin": "sources_efficiency.json",
+      "citation_url": "https://arxiv.org/abs/2606.19646",
+      "inspection_records": [
+        {
+          "depth": "full_text_sections",
+          "origin": "sources_efficiency.json",
+          "read_url": "https://arxiv.org/html/2606.19646v1"
+        }
+      ]
+    },
+    {
+      "key": "break_even",
+      "arxiv_id": "2608.03649",
+      "title": "When Do Fewer Visual Tokens Accelerate Multimodal Inference? A Break-Even Study Across Decision Locations and Hardware",
+      "first_public_date": "2026-08-04",
+      "review_depth": "full_text_sections",
+      "primary_url": "https://arxiv.org/html/2608.03649v1",
+      "review_notes": "Read pilot, costs, conditional quality, split/hardware details, counterfactual gate, static selector and calibration appendix",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Dou, Hao",
+        "Tian, Ruiwen"
+      ],
+      "abstract_url": "https://arxiv.org/abs/2608.03649",
+      "citation_date": "2026/08/04",
+      "canonical_title_from_meta": "When Do Fewer Visual Tokens Accelerate Multimodal Inference? A Break-Even Study Across Decision Locations and Hardware",
+      "metadata_fetch": "primary_arxiv_html",
+      "url": "https://arxiv.org/html/2608.03649v1",
+      "date": "2026-08-04",
+      "ledger_origin": "sources_efficiency.json",
+      "citation_url": "https://arxiv.org/abs/2608.03649",
+      "inspection_records": [
+        {
+          "depth": "full_text_sections",
+          "origin": "sources_efficiency.json",
+          "read_url": "https://arxiv.org/html/2608.03649v1"
+        }
+      ]
+    },
+    {
+      "key": "sparsevila",
+      "arxiv_id": "2510.17777",
+      "title": "SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference",
+      "first_public_date": "2025-10-20",
+      "review_depth": "abstract_and_metadata",
+      "primary_url": "https://arxiv.org/abs/2510.17777",
+      "review_notes": "Prefill pruning/decoding retrieval and multi-turn retained cache direct collision",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Khaki, Samir",
+        "Guo, Junxian",
+        "Tang, Jiaming",
+        "Yang, Shang",
+        "Chen, Yukang",
+        "Plataniotis, Konstantinos N.",
+        "Lu, Yao",
+        "Han, Song",
+        "Liu, Zhijian"
+      ],
+      "abstract_url": "https://arxiv.org/abs/2510.17777",
+      "citation_date": "2025/10/20",
+      "canonical_title_from_meta": "SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference",
+      "metadata_fetch": "primary_arxiv_html",
+      "url": "https://arxiv.org/abs/2510.17777",
+      "date": "2025-10-20",
+      "ledger_origin": "sources_efficiency.json",
+      "citation_url": "https://arxiv.org/abs/2510.17777",
+      "inspection_records": [
+        {
+          "depth": "abstract_and_metadata",
+          "origin": "sources_efficiency.json",
+          "read_url": "https://arxiv.org/abs/2510.17777"
+        }
+      ]
+    },
+    {
+      "key": "metacompress",
+      "arxiv_id": "2603.21701",
+      "title": "Rethinking Token Reduction for Large Vision-Language Models",
+      "first_public_date": "2026-03-23",
+      "review_depth": "full_text_sections",
+      "primary_url": "https://arxiv.org/html/2603.21701v1",
+      "review_notes": "Read multi-turn problem, compression formulation and which-tokens-to-keep setup; CVPR primary PDF excerpt corroborates scope",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Wang, Yi",
+        "Zhang, Haofei",
+        "Huang, Qihan",
+        "Cao, Anda",
+        "Fang, Gongfan",
+        "Wang, Wei",
+        "Jin, Xuan",
+        "Song, Jie",
+        "Song, Mingli",
+        "Wang, Xinchao"
+      ],
+      "abstract_url": "https://arxiv.org/abs/2603.21701",
+      "citation_date": "2026/03/23",
+      "canonical_title_from_meta": "Rethinking Token Reduction for Large Vision-Language Models",
+      "metadata_fetch": "primary_arxiv_html",
+      "url": "https://arxiv.org/html/2603.21701v1",
+      "date": "2026-03-23",
+      "ledger_origin": "sources_efficiency.json",
+      "citation_url": "https://arxiv.org/abs/2603.21701",
+      "inspection_records": [
+        {
+          "depth": "full_text_sections",
+          "origin": "sources_efficiency.json",
+          "read_url": "https://arxiv.org/html/2603.21701v1"
+        }
+      ]
+    },
+    {
+      "key": "conduit",
+      "arxiv_id": "2609.05821",
+      "title": "CONDUIT: A Unified Residual-Stream Restoration Framework for KV Cache Reuse in Vision-Language Models",
+      "first_public_date": "2026-09-05",
+      "review_depth": "full_text_sections",
+      "primary_url": "https://arxiv.org/html/2609.05821v1",
+      "review_notes": "Read changed-prefix problem, scoring equations and multi-image reweighting, main data/model tables; latest ranking-critical collision",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Chen, Pengan",
+        "Zheng, Kaisheng",
+        "Hong, Liang",
+        "Yi, Lixia",
+        "Jiang, Jiyue",
+        "Chen, Jiayang",
+        "Wang, Yixuan",
+        "Fan, Yimin",
+        "Liu, Xinyuan",
+        "Li, Jiayi",
+        "Zhang, Zhanqiu",
+        "Guo, Yiwen",
+        "Li, Yu"
+      ],
+      "abstract_url": "https://arxiv.org/abs/2609.05821",
+      "citation_date": "2026/09/05",
+      "canonical_title_from_meta": "CONDUIT: A Unified Residual-Stream Restoration Framework for KV Cache Reuse in Vision-Language Models",
+      "metadata_fetch": "primary_arxiv_html",
+      "url": "https://arxiv.org/html/2609.05821v1",
+      "date": "2026-09-05",
+      "ledger_origin": "sources_efficiency.json",
+      "citation_url": "https://arxiv.org/abs/2609.05821",
+      "inspection_records": [
+        {
+          "depth": "full_text_sections",
+          "origin": "sources_efficiency.json",
+          "read_url": "https://arxiv.org/html/2609.05821v1"
+        }
+      ]
+    },
+    {
+      "key": "crc",
+      "arxiv_id": "2208.02814",
+      "title": "Conformal Risk Control",
+      "first_public_date": "2022-08-04",
+      "review_depth": "abstract_and_official_repository_method",
+      "primary_url": "https://arxiv.org/abs/2208.02814",
+      "review_notes": "Monotone-loss assumptions; official author repository formulation read",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Angelopoulos, Anastasios N.",
+        "Bates, Stephen",
+        "Fisch, Adam",
+        "Lei, Lihua",
+        "Schuster, Tal"
+      ],
+      "abstract_url": "https://arxiv.org/abs/2208.02814",
+      "citation_date": "2022/08/04",
+      "canonical_title_from_meta": "Conformal Risk Control",
+      "metadata_fetch": "primary_arxiv_html",
+      "url": "https://arxiv.org/abs/2208.02814",
+      "date": "2022-08-04",
+      "ledger_origin": "sources_efficiency.json",
+      "citation_url": "https://arxiv.org/abs/2208.02814",
+      "inspection_records": [
+        {
+          "depth": "abstract_and_official_repository_method",
+          "origin": "sources_efficiency.json",
+          "read_url": "https://arxiv.org/abs/2208.02814"
+        }
+      ]
+    },
+    {
+      "key": "crc_nonmonotonic",
+      "arxiv_id": "2602.20151",
+      "title": "Conformal Risk Control for Non-Monotonic Losses",
+      "first_public_date": "2026-02-23",
+      "review_depth": "abstract_and_full_text_introduction",
+      "primary_url": "https://arxiv.org/html/2602.20151v1",
+      "review_notes": "Existing non-monotonic multidimensional risk-control theory; not a novel theoretical contribution for the proposed project",
+      "accessed": "2026-09-14",
+      "authors": [
+        "Angelopoulos, Anastasios N."
+      ],
+      "abstract_url": "https://arxiv.org/abs/2602.20151",
+      "citation_date": "2026/02/23",
+      "canonical_title_from_meta": "Conformal Risk Control for Non-Monotonic Losses",
+      "metadata_fetch": "primary_arxiv_html",
+      "url": "https://arxiv.org/html/2602.20151v1",
+      "date": "2026-02-23",
+      "ledger_origin": "sources_efficiency.json",
+      "citation_url": "https://arxiv.org/abs/2602.20151",
+      "inspection_records": [
+        {
+          "depth": "abstract_and_full_text_introduction",
+          "origin": "sources_efficiency.json",
+          "read_url": "https://arxiv.org/html/2602.20151v1"
+        }
+      ]
+    },
+    {
+      "arxiv_id": "2604.18860",
+      "title": "Temporal UI State Inconsistency in Desktop GUI Agents: Formalizing and Defending Against TOCTOU Attacks on Computer-Use Agents",
+      "authors": [
+        "Xu, Wenpeng"
+      ],
+      "publication_or_submission_date": "2026/04/20",
+      "primary_url": "https://arxiv.org/abs/2604.18860",
+      "read_url": "https://arxiv.org/html/2604.18860v1",
+      "reviewed_scope": "Methods, threat model, pre-execution defense and experiments",
+      "novelty_audit_note": "Pre-execution visual and window-state rechecking already proposed; generic stale screenshot defense is not novel.",
+      "search_cutoff": "2026-09-14",
+      "publication_status": "preprint unless separately verified",
+      "metadata_provenance": "arXiv citation meta tags where present; otherwise primary-page manually recorded metadata",
+      "review_depth": "selected_full_text_sections",
+      "url": "https://arxiv.org/abs/2604.18860",
+      "date": "2026/04/20",
+      "ledger_origin": "sources_agents_reasoning.json",
+      "citation_url": "https://arxiv.org/abs/2604.18860",
+      "inspection_records": [
+        {
+          "depth": "selected_full_text_sections",
+          "origin": "sources_agents_reasoning.json",
+          "read_url": "https://arxiv.org/html/2604.18860v1"
+        }
+      ]
+    },
+    {
+      "arxiv_id": "2607.04334",
+      "title": "Do GUI Agents Believe Their Eyes? Diagnosing State-Belief Reliance on Pixels versus Structure",
+      "authors": [
+        "Zhang, Guijia",
+        "Chen, Yuxun",
+        "Qi, Yuheng",
+        "Yang, Harry"
+      ],
+      "publication_or_submission_date": "2026/07/05",
+      "primary_url": "https://arxiv.org/abs/2607.04334",
+      "read_url": "https://arxiv.org/html/2607.04334v1",
+      "reviewed_scope": "Problem formulation, construction, metrics and mitigation description",
+      "novelty_audit_note": "Paired pixel/structure conflicts plus training-free consistency gate already exist.",
+      "search_cutoff": "2026-09-14",
+      "publication_status": "preprint unless separately verified",
+      "metadata_provenance": "arXiv citation meta tags where present; otherwise primary-page manually recorded metadata",
+      "review_depth": "selected_full_text_sections",
+      "url": "https://arxiv.org/abs/2607.04334",
+      "date": "2026/07/05",
+      "ledger_origin": "sources_agents_reasoning.json",
+      "citation_url": "https://arxiv.org/abs/2607.04334",
+      "inspection_records": [
+        {
+          "depth": "selected_full_text_sections",
+          "origin": "sources_agents_reasoning.json",
+          "read_url": "https://arxiv.org/html/2607.04334v1"
+        }
+      ]
+    },
+    {
+      "arxiv_id": "2605.21988",
+      "title": "Learning Spatiotemporal Sensitivity in Video LLMs via Counterfactual Reinforcement Learning",
+      "authors": [
+        "Du, Dazhao",
+        "Liu, Jian",
+        "Qin, Jialong",
+        "Han, Tao",
+        "Gu, Bohai",
+        "Zhu, Fangqi",
+        "Zhang, Yujia",
+        "Liu, Eric",
+        "Chen, Xi",
+        "Guo, Song"
+      ],
+      "publication_or_submission_date": "2026/05/21",
+      "primary_url": "https://arxiv.org/abs/2605.21988",
+      "read_url": "https://arxiv.org/html/2605.21988v1",
+      "reviewed_scope": "CRPO method, DyBench construction and experimental setup",
+      "novelty_audit_note": "Flip/reversal/segment-reorder pairs, static invariance, dynamic equivariance and pair accuracy already exist.",
+      "search_cutoff": "2026-09-14",
+      "publication_status": "preprint unless separately verified",
+      "metadata_provenance": "arXiv citation meta tags where present; otherwise primary-page manually recorded metadata",
+      "review_depth": "selected_full_text_sections",
+      "url": "https://arxiv.org/abs/2605.21988",
+      "date": "2026/05/21",
+      "ledger_origin": "sources_agents_reasoning.json",
+      "citation_url": "https://arxiv.org/abs/2605.21988",
+      "inspection_records": [
+        {
+          "depth": "selected_full_text_sections",
+          "origin": "sources_agents_reasoning.json",
+          "read_url": "https://arxiv.org/html/2605.21988v1"
+        }
+      ]
+    },
+    {
+      "arxiv_id": "2607.00502",
+      "title": "A Task-State Representation for Long-Horizon Mobile GUI Agents",
+      "authors": [
+        "Zheng, Yujie",
+        "Liu, Zikang",
+        "Zhao, Xin",
+        "Wen, Ji-Rong"
+      ],
+      "publication_or_submission_date": "2026/07/01",
+      "primary_url": "https://arxiv.org/abs/2607.00502",
+      "read_url": "https://arxiv.org/html/2607.00502v1",
+      "reviewed_scope": "Full method and main experimental sections including ablation/cases",
+      "novelty_audit_note": "A structured external task-state updater already compares screenshots and redirects uncertain transitions to verification.",
+      "search_cutoff": "2026-09-14",
+      "publication_status": "preprint unless separately verified",
+      "metadata_provenance": "arXiv citation meta tags where present; otherwise primary-page manually recorded metadata",
+      "review_depth": "selected_full_text_sections",
+      "url": "https://arxiv.org/abs/2607.00502",
+      "date": "2026/07/01",
+      "ledger_origin": "sources_agents_reasoning.json",
+      "citation_url": "https://arxiv.org/abs/2607.00502",
+      "inspection_records": [
+        {
+          "depth": "selected_full_text_sections",
+          "origin": "sources_agents_reasoning.json",
+          "read_url": "https://arxiv.org/html/2607.00502v1"
+        }
+      ]
+    },
+    {
+      "arxiv_id": "2608.06361",
+      "title": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
+      "authors": [
+        "Baskar, Sarvesh",
+        "Cai, Zikui",
+        "Shabihi, Shayan",
+        "Satheesh, Anirudh",
+        "Islam, Muhammad R.",
+        "Sehwag, Udari Madhushani",
+        "Goldstein, Tom",
+        "Huang, Furong"
+      ],
+      "publication_or_submission_date": "2026/08/06",
+      "primary_url": "https://arxiv.org/abs/2608.06361",
+      "read_url": "https://arxiv.org/html/2608.06361v1",
+      "reviewed_scope": "Controlled task space, trace metrics, experimental protocol and intervention descriptions",
+      "novelty_audit_note": "Programmatic event counts and frequencies, exact traces, evidence intervention and natural-video transfer already exist.",
+      "search_cutoff": "2026-09-14",
+      "publication_status": "preprint unless separately verified",
+      "metadata_provenance": "arXiv citation meta tags where present; otherwise primary-page manually recorded metadata",
+      "review_depth": "selected_full_text_sections",
+      "url": "https://arxiv.org/abs/2608.06361",
+      "date": "2026/08/06",
+      "ledger_origin": "sources_agents_reasoning.json",
+      "citation_url": "https://arxiv.org/abs/2608.06361",
+      "inspection_records": [
+        {
+          "depth": "selected_full_text_sections",
+          "origin": "sources_agents_reasoning.json",
+          "read_url": "https://arxiv.org/html/2608.06361v1"
+        }
+      ]
+    },
+    {
+      "arxiv_id": "2607.12304",
+      "title": "What Does a Temporal Benchmark Score Measure? Decomposing Channel Use in Video VLM Evaluation",
+      "authors": [
+        "Rahman, Farrukh"
+      ],
+      "publication_or_submission_date": "2026/07/14",
+      "primary_url": "https://arxiv.org/abs/2607.12304",
+      "read_url": "https://arxiv.org/html/2607.12304v1",
+      "reviewed_scope": "Methods including independent timestamp/pixel/RoPE interventions, limitations",
+      "novelty_audit_note": "Temporal channel conflicts and even inter-frame positional-spacing warps already studied; simple clock/RoPE idea is occupied.",
+      "search_cutoff": "2026-09-14",
+      "publication_status": "preprint unless separately verified",
+      "metadata_provenance": "arXiv citation meta tags where present; otherwise primary-page manually recorded metadata",
+      "review_depth": "selected_full_text_sections",
+      "url": "https://arxiv.org/abs/2607.12304",
+      "date": "2026/07/14",
+      "ledger_origin": "sources_agents_reasoning.json",
+      "citation_url": "https://arxiv.org/abs/2607.12304",
+      "inspection_records": [
+        {
+          "depth": "selected_full_text_sections",
+          "origin": "sources_agents_reasoning.json",
+          "read_url": "https://arxiv.org/html/2607.12304v1"
+        }
+      ]
+    },
+    {
+      "arxiv_id": "2603.17374",
+      "title": "Shot-Aware Frame Sampling for Video Understanding",
+      "authors": [
+        "Zhao, Mengyu",
+        "Fu, Di",
+        "Xie, Yongyu",
+        "Zhang, Jiaxing",
+        "Yuan, Zhigang",
+        "Jalali, Shirin",
+        "Cao, Yong"
+      ],
+      "publication_or_submission_date": "2026/03/18",
+      "primary_url": "https://arxiv.org/abs/2603.17374",
+      "read_url": "https://arxiv.org/html/2603.17374v1",
+      "reviewed_scope": "InfoShot method, SynFlash construction, matched sampling experiments and ablations",
+      "novelty_audit_note": "Low-compute frame selection preserving rare evidence is existing work; 8000 SynFlash clips and frame recall available as reference.",
+      "search_cutoff": "2026-09-14",
+      "publication_status": "preprint unless separately verified",
+      "metadata_provenance": "arXiv citation meta tags where present; otherwise primary-page manually recorded metadata",
+      "review_depth": "selected_full_text_sections",
+      "url": "https://arxiv.org/abs/2603.17374",
+      "date": "2026/03/18",
+      "ledger_origin": "sources_agents_reasoning.json",
+      "citation_url": "https://arxiv.org/abs/2603.17374",
+      "inspection_records": [
+        {
+          "depth": "selected_full_text_sections",
+          "origin": "sources_agents_reasoning.json",
+          "read_url": "https://arxiv.org/html/2603.17374v1"
+        }
+      ]
+    },
+    {
+      "arxiv_id": "2604.05477",
+      "title": "Don't Act Blindly: Robust GUI Automation via Action-Effect Verification and Self-Correction",
+      "authors": [
+        "Zhang, Yuzhe",
+        "Xue, Xianwei",
+        "Wu, Xingyong",
+        "Chen, Mengke",
+        "Liu, Chen",
+        "He, Xinran",
+        "Shao, Run",
+        "Liu, Feiran",
+        "Xu, Huanmin",
+        "Pan, Qiutong",
+        "Wang, Haiwei"
+      ],
+      "publication_or_submission_date": "2026/04/07",
+      "primary_url": "https://arxiv.org/abs/2604.05477",
+      "read_url": "https://arxiv.org/html/2604.05477v1",
+      "reviewed_scope": "TVAE method, synthetic failure construction, pseudo-online protocol and training setup",
+      "novelty_audit_note": "VeriGUI trains failure recovery with unchanged prior screens and binary SUCCESS/NO_CHANGE. Direct target for counter-assumption audit.",
+      "search_cutoff": "2026-09-14",
+      "publication_status": "preprint unless separately verified",
+      "metadata_provenance": "arXiv citation meta tags where present; otherwise primary-page manually recorded metadata",
+      "review_depth": "selected_full_text_sections",
+      "url": "https://arxiv.org/abs/2604.05477",
+      "date": "2026/04/07",
+      "ledger_origin": "sources_agents_reasoning.json",
+      "citation_url": "https://arxiv.org/abs/2604.05477",
+      "inspection_records": [
+        {
+          "depth": "selected_full_text_sections",
+          "origin": "sources_agents_reasoning.json",
+          "read_url": "https://arxiv.org/html/2604.05477v1"
+        }
+      ]
+    },
+    {
+      "arxiv_id": "2606.24525",
+      "title": "VisCritic: Visual State Comparison as Process Reward for GUI Agents",
+      "authors": [
+        "Qian, Jiachen"
+      ],
+      "publication_or_submission_date": "2026/06/23",
+      "primary_url": "https://arxiv.org/abs/2606.24525",
+      "read_url": "https://arxiv.org/html/2606.24525v1",
+      "reviewed_scope": "Full method opening, critic formulation, experimental setup and training protocol",
+      "novelty_audit_note": "Screenshot semantic-difference critic with action/task conditioning already exists; not a new method direction alone.",
+      "search_cutoff": "2026-09-14",
+      "publication_status": "preprint unless separately verified",
+      "metadata_provenance": "arXiv citation meta tags where present; otherwise primary-page manually recorded metadata",
+      "review_depth": "selected_full_text_sections",
+      "url": "https://arxiv.org/abs/2606.24525",
+      "date": "2026/06/23",
+      "ledger_origin": "sources_agents_reasoning.json",
+      "citation_url": "https://arxiv.org/abs/2606.24525",
+      "inspection_records": [
+        {
+          "depth": "selected_full_text_sections",
+          "origin": "sources_agents_reasoning.json",
+          "read_url": "https://arxiv.org/html/2606.24525v1"
+        }
+      ]
+    },
+    {
+      "arxiv_id": "2605.29447",
+      "title": "Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents",
+      "authors": [
+        "Bu, Tianpeng",
+        "Liu, Xin",
+        "Chen, Qihua",
+        "Jiang, Hao",
+        "Li, Shurui",
+        "Duan, Hongtao",
+        "Jiang, Lu",
+        "Hu, Lulu",
+        "Yang, Bin",
+        "Zhang, Minying"
+      ],
+      "publication_or_submission_date": "2026/05/28",
+      "primary_url": "https://arxiv.org/abs/2605.29447",
+      "read_url": "https://arxiv.org/html/2605.29447v1",
+      "reviewed_scope": "GUI-RobustEval construction, error horizon definition and evaluation protocol",
+      "novelty_audit_note": "Recovery from 1216 real failure cases across 11 error types is existing; avoid claiming first delayed-error benchmark.",
+      "search_cutoff": "2026-09-14",
+      "publication_status": "preprint unless separately verified",
+      "metadata_provenance": "arXiv citation meta tags where present; otherwise primary-page manually recorded metadata",
+      "review_depth": "selected_full_text_sections",
+      "url": "https://arxiv.org/abs/2605.29447",
+      "date": "2026/05/28",
+      "ledger_origin": "sources_agents_reasoning.json",
+      "citation_url": "https://arxiv.org/abs/2605.29447",
+      "inspection_records": [
+        {
+          "depth": "selected_full_text_sections",
+          "origin": "sources_agents_reasoning.json",
+          "read_url": "https://arxiv.org/html/2605.29447v1"
+        }
+      ]
+    },
+    {
+      "arxiv_id": "2605.29341",
+      "title": "WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction",
+      "authors": [
+        "Liu, Chengzhi",
+        "Yang, Yuzhe",
+        "Pu, Sophia Xiao",
+        "Liu, Yepeng",
+        "Long, Lin",
+        "Guo, Yichen",
+        "Chen, Nuo",
+        "Weng, Zhaotian",
+        "Kochkina, Elena",
+        "Kaur, Simerjot",
+        "Smiley, Charese",
+        "Liu, Xiaomo",
+        "Zou, James",
+        "Liu, Sheng",
+        "Bu, Yuheng",
+        "Peng, Songyou",
+        "Wang, Xin Eric"
+      ],
+      "publication_or_submission_date": "2026/05/28",
+      "primary_url": "https://arxiv.org/abs/2605.29341",
+      "read_url": "https://arxiv.org/html/2605.29341v1",
+      "reviewed_scope": "Problem formulation, lifecycle, construction and evaluation protocol",
+      "novelty_audit_note": "Memory write/update/retrieve/use and visual updates already benchmarked with gold memory/evidence points.",
+      "search_cutoff": "2026-09-14",
+      "publication_status": "preprint unless separately verified",
+      "metadata_provenance": "arXiv citation meta tags where present; otherwise primary-page manually recorded metadata",
+      "review_depth": "selected_full_text_sections",
+      "url": "https://arxiv.org/abs/2605.29341",
+      "date": "2026/05/28",
+      "ledger_origin": "sources_agents_reasoning.json",
+      "citation_url": "https://arxiv.org/abs/2605.29341",
+      "inspection_records": [
+        {
+          "depth": "selected_full_text_sections",
+          "origin": "sources_agents_reasoning.json",
+          "read_url": "https://arxiv.org/html/2605.29341v1"
+        }
+      ]
+    },
+    {
+      "arxiv_id": "2605.14906",
+      "title": "MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models",
+      "authors": [
+        "Ren, Xiyu",
+        "Wang, Zhaowei",
+        "Du, Yiming",
+        "Xie, Zhongwei",
+        "Liu, Chi",
+        "Yang, Xinlin",
+        "Feng, Haoyue",
+        "Pan, Wenjun",
+        "Zheng, Tianshi",
+        "Xu, Baixuan",
+        "Li, Zhengnan",
+        "Song, Yangqiu",
+        "Wong, Ginny",
+        "See, Simon"
+      ],
+      "publication_or_submission_date": "2026/05/14",
+      "primary_url": "https://arxiv.org/abs/2605.14906",
+      "read_url": "https://arxiv.org/html/2605.14906v1",
+      "reviewed_scope": "Memory taxonomy, construction pipeline and validation design",
+      "novelty_audit_note": "Knowledge updates, arithmetic aggregation, entity resolution and missing-evidence refusal already evaluated; derived-dependency update must be isolated explicitly.",
+      "search_cutoff": "2026-09-14",
+      "publication_status": "preprint unless separately verified",
+      "metadata_provenance": "arXiv citation meta tags where present; otherwise primary-page manually recorded metadata",
+      "review_depth": "selected_full_text_sections",
+      "url": "https://arxiv.org/abs/2605.14906",
+      "date": "2026/05/14",
+      "ledger_origin": "sources_agents_reasoning.json",
+      "citation_url": "https://arxiv.org/abs/2605.14906",
+      "inspection_records": [
+        {
+          "depth": "selected_full_text_sections",
+          "origin": "sources_agents_reasoning.json",
+          "read_url": "https://arxiv.org/html/2605.14906v1"
+        }
+      ]
+    },
+    {
+      "arxiv_id": "2605.31597",
+      "title": "SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models",
+      "authors": [
+        "Dünkel, Olaf",
+        "Sunagad, Basavaraj",
+        "Wang, Haoran",
+        "Hoffmann, David T.",
+        "Theobalt, Christian",
+        "Kortylewski, Adam"
+      ],
+      "publication_or_submission_date": "2026/05/29",
+      "primary_url": "https://arxiv.org/abs/2605.31597",
+      "read_url": "https://arxiv.org/html/2605.31597v1",
+      "reviewed_scope": "Experiments and matching setup",
+      "novelty_audit_note": "Cross-image part correspondence versus language part localization already compared, across category and within category.",
+      "search_cutoff": "2026-09-14",
+      "publication_status": "preprint unless separately verified",
+      "metadata_provenance": "arXiv citation meta tags where present; otherwise primary-page manually recorded metadata",
+      "review_depth": "selected_full_text_sections",
+      "url": "https://arxiv.org/abs/2605.31597",
+      "date": "2026/05/29",
+      "ledger_origin": "sources_agents_reasoning.json",
+      "citation_url": "https://arxiv.org/abs/2605.31597",
+      "inspection_records": [
+        {
+          "depth": "selected_full_text_sections",
+          "origin": "sources_agents_reasoning.json",
+          "read_url": "https://arxiv.org/html/2605.31597v1"
+        }
+      ]
+    },
+    {
+      "arxiv_id": "2607.12786",
+      "title": "CoRe: A Comprehensive Framework for Cross-Image Comparative Reasoning in Vision-Language Models",
+      "authors": [
+        "Peng, Lin",
+        "Wan, Cong",
+        "Guo, Zeyu",
+        "Dong, SongLin",
+        "Gong, Yihong"
+      ],
+      "publication_or_submission_date": "2026/07/14",
+      "primary_url": "https://arxiv.org/abs/2607.12786",
+      "read_url": "https://arxiv.org/html/2607.12786v1",
+      "reviewed_scope": "Triplet construction, consistency rewards, experimental setup and metrics",
+      "novelty_audit_note": "Triplet consistency and cross-image counting/depth/distance/relations already trained and benchmarked.",
+      "search_cutoff": "2026-09-14",
+      "publication_status": "preprint unless separately verified",
+      "metadata_provenance": "arXiv citation meta tags where present; otherwise primary-page manually recorded metadata",
+      "review_depth": "selected_full_text_sections",
+      "url": "https://arxiv.org/abs/2607.12786",
+      "date": "2026/07/14",
+      "ledger_origin": "sources_agents_reasoning.json",
+      "citation_url": "https://arxiv.org/abs/2607.12786",
+      "inspection_records": [
+        {
+          "depth": "selected_full_text_sections",
+          "origin": "sources_agents_reasoning.json",
+          "read_url": "https://arxiv.org/html/2607.12786v1"
+        }
+      ]
+    },
+    {
+      "arxiv_id": "2505.15259",
+      "title": "ReGUIDE: Data Efficient GUI Grounding via Spatial Reasoning and Search",
+      "authors": [
+        "Lee, Hyunseok",
+        "Kim, Jeonghoon",
+        "Kim, Beomjun",
+        "Tack, Jihoon",
+        "Jo, Chansong",
+        "Lee, Jaehong",
+        "Park, Cheonbok",
+        "In, Sookyo",
+        "Shin, Jinwoo",
+        "Yoo, Kang Min"
+      ],
+      "publication_or_submission_date": "2025/05/21",
+      "primary_url": "https://arxiv.org/abs/2505.15259",
+      "read_url": "https://arxiv.org/html/2505.15259v1",
+      "reviewed_scope": "Experimental setup, crop consistency and training/inference method description",
+      "novelty_audit_note": "GUI coordinate equivariance under crop transformations and inference spatial search already exist.",
+      "search_cutoff": "2026-09-14",
+      "publication_status": "preprint unless separately verified",
+      "metadata_provenance": "arXiv citation meta tags where present; otherwise primary-page manually recorded metadata",
+      "review_depth": "selected_full_text_sections",
+      "url": "https://arxiv.org/abs/2505.15259",
+      "date": "2025/05/21",
+      "ledger_origin": "sources_agents_reasoning.json",
+      "citation_url": "https://arxiv.org/abs/2505.15259",
+      "inspection_records": [
+        {
+          "depth": "selected_full_text_sections",
+          "origin": "sources_agents_reasoning.json",
+          "read_url": "https://arxiv.org/html/2505.15259v1"
+        }
+      ]
+    },
+    {
+      "arxiv_id": "2603.07071",
+      "title": "VirtueBench: Evaluating Trustworthiness under Uncertainty in Long Video Understanding",
+      "authors": [
+        "Yu, Xueqing",
+        "Li, Bohan",
+        "Li, Yan",
+        "Yang, Zhenheng"
+      ],
+      "publication_or_submission_date": "2026/03/07",
+      "primary_url": "https://arxiv.org/abs/2603.07071",
+      "read_url": "https://arxiv.org/html/2603.07071v1",
+      "reviewed_scope": "Benchmark overview, curation, annotation, evaluation pipeline and experimental setup",
+      "novelty_audit_note": "Answerability conditioned on sampled frames is already a CVPR2026 benchmark; generic sampling-aware abstention idea is invalid.",
+      "search_cutoff": "2026-09-14",
+      "publication_status": "CVPR 2026 proceedings verified at https://openaccess.thecvf.com/content/CVPR2026/papers/Yu_VirtueBench_Evaluating_Trustworthiness_under_Uncertainty_in_Long_Video_Understanding_CVPR_2026_paper.pdf",
+      "metadata_provenance": "arXiv citation meta tags where present; otherwise primary-page manually recorded metadata",
+      "review_depth": "selected_full_text_sections",
+      "url": "https://arxiv.org/abs/2603.07071",
+      "date": "2026/03/07",
+      "ledger_origin": "sources_agents_reasoning.json",
+      "citation_url": "https://arxiv.org/abs/2603.07071",
+      "inspection_records": [
+        {
+          "depth": "selected_full_text_sections",
+          "origin": "sources_agents_reasoning.json",
+          "read_url": "https://arxiv.org/html/2603.07071v1"
+        }
+      ]
+    },
+    {
+      "arxiv_id": "2607.25904",
+      "title": "Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification",
+      "authors": [
+        "Shi, Chenrui",
+        "Wu, Yuwei",
+        "Liu, Yang",
+        "Feng, Ruining",
+        "Shang, Zirui",
+        "Gao, Zhi",
+        "Fan, Lifeng",
+        "Sun, Che"
+      ],
+      "publication_or_submission_date": "2026/07/28",
+      "primary_url": "https://arxiv.org/abs/2607.25904",
+      "read_url": "https://arxiv.org/html/2607.25904v1",
+      "reviewed_scope": "Benchmark construction and extensive appendix: tools, evidence-selection prompt, cost, cases and limitations",
+      "novelty_audit_note": "Active beyond-screenshot final-state verification already exists; proposed delta must concern retry/idempotency and matched observational ambiguity rather than adding file tools.",
+      "search_cutoff": "2026-09-14",
+      "publication_status": "preprint unless separately verified",
+      "metadata_provenance": "arXiv citation meta tags where present; otherwise primary-page manually recorded metadata",
+      "review_depth": "selected_full_text_sections",
+      "url": "https://arxiv.org/abs/2607.25904",
+      "date": "2026/07/28",
+      "ledger_origin": "sources_agents_reasoning.json",
+      "citation_url": "https://arxiv.org/abs/2607.25904",
+      "inspection_records": [
+        {
+          "depth": "selected_full_text_sections",
+          "origin": "sources_agents_reasoning.json",
+          "read_url": "https://arxiv.org/html/2607.25904v1"
+        }
+      ]
+    },
+    {
+      "id": "course",
+      "title": "CS 8803-VLM: Vision-Language Models & Multimodal Agents, Fall 2026",
+      "authors": [
+        "Georgia Institute of Technology, Zsolt Kira"
+      ],
+      "date": "Fall 2026; accessed 2026-09-14",
+      "url": "https://faculty.cc.gatech.edu/~zk15/teaching/AY2026_cs8803vlm_fall/index.html",
+      "review_depth": "official_course_page",
+      "source_type": "official_page",
+      "citation_url": "https://faculty.cc.gatech.edu/~zk15/teaching/AY2026_cs8803vlm_fall/index.html",
+      "inspection_records": [
+        {
+          "depth": "official_course_page",
+          "origin": "root",
+          "read_url": "https://faculty.cc.gatech.edu/~zk15/teaching/AY2026_cs8803vlm_fall/index.html"
+        }
+      ]
+    },
+    {
+      "id": "ice",
+      "title": "ICE Cluster",
+      "authors": [
+        "Georgia Tech PACE"
+      ],
+      "date": "accessed 2026-09-14",
+      "url": "https://pace.gatech.edu/ice-cluster/",
+      "review_depth": "official_cluster_page",
+      "source_type": "official_page",
+      "citation_url": "https://pace.gatech.edu/ice-cluster/",
+      "inspection_records": [
+        {
+          "depth": "official_cluster_page",
+          "origin": "root",
+          "read_url": "https://pace.gatech.edu/ice-cluster/"
+        }
+      ]
+    },
+    {
+      "id": "internvl",
+      "title": "InternVL3.5-4B-MPO model card and family specifications",
+      "authors": [
+        "OpenGVLab"
+      ],
+      "date": "accessed 2026-09-14",
+      "url": "https://huggingface.co/OpenGVLab/InternVL3_5-4B-MPO",
+      "review_depth": "official_model_card",
+      "source_type": "model_card",
+      "citation_url": "https://huggingface.co/OpenGVLab/InternVL3_5-4B-MPO",
+      "inspection_records": [
+        {
+          "depth": "official_model_card",
+          "origin": "root",
+          "read_url": "https://huggingface.co/OpenGVLab/InternVL3_5-4B-MPO"
+        }
+      ]
+    },
+    {
+      "id": "whatsup",
+      "arxiv_id": "2310.19785",
+      "title": "What’s “up” with vision-language models? Investigating their struggle with spatial reasoning",
+      "authors": [
+        "Amita Kamath",
+        "Jack Hessel",
+        "Kai-Wei Chang"
+      ],
+      "date": "2023-10-30",
+      "url": "https://arxiv.org/abs/2310.19785",
+      "review_depth": "abstract_and_dataset_description",
+      "source_type": "primary_paper",
+      "citation_url": "https://arxiv.org/abs/2310.19785",
+      "inspection_records": [
+        {
+          "depth": "abstract_and_dataset_description",
+          "origin": "root",
+          "read_url": "https://arxiv.org/abs/2310.19785"
+        }
+      ]
+    },
+    {
+      "id": "gqa",
+      "arxiv_id": "1902.09506",
+      "title": "GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering",
+      "authors": [
+        "Drew A. Hudson",
+        "Christopher D. Manning"
+      ],
+      "date": "2019",
+      "url": "https://arxiv.org/abs/1902.09506",
+      "review_depth": "primary_dataset_description_excerpt",
+      "source_type": "primary_paper",
+      "citation_url": "https://arxiv.org/abs/1902.09506",
+      "inspection_records": [
+        {
+          "depth": "primary_dataset_description_excerpt",
+          "origin": "root",
+          "read_url": "https://arxiv.org/abs/1902.09506"
+        }
+      ]
+    },
+    {
+      "id": "videoagent",
+      "arxiv_id": "2403.10517",
+      "title": "VideoAgent: Long-form Video Understanding with Large Language Model as Agent",
+      "authors": [
+        "Xiaohan Wang",
+        "Yuhui Zhang",
+        "Orr Zohar",
+        "Serena Yeung-Levy"
+      ],
+      "date": "2024-03-15",
+      "url": "https://arxiv.org/abs/2403.10517",
+      "review_depth": "abstract",
+      "source_type": "primary_paper",
+      "citation_url": "https://arxiv.org/abs/2403.10517",
+      "inspection_records": [
+        {
+          "depth": "abstract",
+          "origin": "root",
+          "read_url": "https://arxiv.org/abs/2403.10517"
+        }
+      ]
+    }
+  ]
+}

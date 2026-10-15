@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vlm-reasoning-bench"
+version = "0.1.0"
+description = "Frozen VLM evaluation on CLEVR-ART and PGM using Slurm"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26,<3", "Pillow>=10,<12"]
+
+[tool.setuptools.packages.find]
+include = ["vlm_bench*"]

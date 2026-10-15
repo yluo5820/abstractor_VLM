@@ -1,0 +1,3 @@
+# Optional PGM mirror preparation; core image/array dependencies are pinned in
+# requirements.txt / requirements-models.txt. No datasets library is required.
+pyarrow==21.0.0
